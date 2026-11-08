@@ -1,0 +1,1229 @@
+denek,femur_sol_aralik_disi,omurga_C7_L5,juguler_omuz_sag,kalca_genisligi,kafatasi_cap1_aralik_disi,kafatasi_cap2_aralik_disi,kafatasi_cap3_aralik_disi,humerus_sag_aralik_disi,femur_sag_aralik_disi,kafatasi_cap1,kafatasi_cap2,kafatasi_cap3,juguler_omuz_sol,humerus_sol_aralik_disi,humerus_sol,femur_sol,femur_sag,humerus_sag,age,gender,institute,study_type,split,manufacturer,scanner_model,kvp,pathology,pathology_location
+s0000,,,,,,,,,,,,,,,,,,,29.0,f,I,ct pelvis,val,siemens,somatom definition as+,100.0,inflammation,pelvis
+s0001,55.68846608073509,,,,,,,,,,,,,,,,,,58.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0002,,,,,,,,,,,,,,,,,,,49.0,f,I,ct thorax-neck,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0003,,,,,,,,,,,,,,,,,,,47.0,f,I,ct spine,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0004,84.42213798339374,434.62675177849496,138.92047488334904,185.71678436883602,42.18553521170776,22.39128706261813,14.194449890854788,48.18396351325017,63.914567811596505,,,,,,,,,,71.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0006,,,,,,,,,,,,,,,,,,,46.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,other,abdomen
+s0009,,,,,,,,,,,,,,,,,,,85.0,f,I,ct spine,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0010,,,,,,,,,,,,,,,,,,,63.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0011,,,,,,,,,,,,,,,,,,,49.0,m,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,"thorax,abdomen,pelvis"
+s0012,,,,,,,,,82.75168834101423,,,,,,,,,,53.0,f,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,other,abdomen
+s0013,,,,,,,,,,,,,,,,,,,63.0,m,I,ct abdomen-pelvis,test,siemens,somatom definition as+,100.0,inflammation,abdomen
+s0014,,,,,,,,,,,,,,,,,,,70.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,140.0,tumor,abdomen
+s0015,,,,,,,,,,,,,,,,,,,56.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,bleeding,abdomen
+s0016,,,,,,,,,,,,,,,,,,,83.0,m,I,ct angiography abdomen-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s0019,,,,,,,,,,,,,,,,,,,78.0,m,I,ct aortic valve,train,siemens,somatom definition flash,100.0,other,thorax
+s0021,,,,,,,,,,,,,,,,,,,46.0,m,I,ct neck,val,siemens,sensation 64,120.0,no_pathology,no_location
+s0022,,,,,,,,,,,,,,,,,,,50.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,other,abdomen
+s0024,,,,,,,,,,,,,,,,,,,69.0,m,G,ct thorax-abdomen,train,siemens,somatom definition flash,120.0,unclear,unclear
+s0025,,,,,,,,,,,,,,,,,,,84.0,m,I,ct spine,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0028,,,,,,,,,,,,,,,,,,,59.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0029,,,,,,,,,,,,,,,,,,,64.0,m,I,ct thorax-abdomen-pelvis,test,siemens,somatom definition flash,120.0,other,thorax
+s0030,,,,,,,,,,,,,,,,,,,76.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0031,,,,,,,,,,,,,,,,,,,82.0,m,C,ct angiography abdomen-pelvis-leg,train,siemens,emotion 16,110.0,vascular,abdomen
+s0032,,,,,,,,,,,,,,,,,,,45.0,f,I,ct heart-thorakale aorta,val,siemens,somatom definition flash,100.0,bleeding,thorax
+s0034,,,,,,,,,,,,,,,,,,,60.0,f,I,ct angiography pelvis-leg,train,siemens,somatom definition as+,100.0,bleeding,abdomen
+s0035,,,,,,,,,,,,,,,,,,,58.0,m,I,ct upper limb both,train,siemens,sensation 64,120.0,trauma,thorax
+s0036,,,,,,,,,,,,,,,,,,,45.0,m,I,ct spine,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0037,,,,,,,,,,,,,,,,,,,56.0,f,I,ct thorax-chest,train,siemens,sensation 64,120.0,other,thorax
+s0038,,,,,,,,,,,,,,,,,,,52.0,f,B,ct neck-thorax-abdomen-pelvis,test,siemens,sensation 16,120.0,unclear,unclear
+s0039,,,,,,,,,,,,,,,,,,,48.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,inflammation,abdomen
+s0040,,,,,,,,,,,,,,,,,,,52.0,m,C,ct thorax-abdomen-pelvis,test,siemens,emotion 16,130.0,tumor,thorax
+s0042,,,,,,,,,,,,,,,,,,,53.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0043,,,,,,,,,,,,,,,,,,,47.0,f,C,ct neck,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0044,,,,,,,,,,,,,,,,,,,49.0,f,I,ct neck,train,siemens,somatom definition as+,100.0,inflammation,throat
+s0045,,,,,,,,,,,,,,,,,,,70.0,m,I,ct angiography abdomen-pelvis-leg,val,siemens,somatom definition flash,100.0,vascular,abdomen
+s0046,,,,,,,,,,,,,,,,,,,78.0,m,B,ct thorax-neck,train,siemens,sensation 16,120.0,unclear,unclear
+s0048,,,,,,,,,,,,,,,,,,,69.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,tumor,abdomen
+s0049,,,,,,,,,,,,,,,,,,,68.0,m,I,ct aortic valve,train,siemens,somatom definition flash,120.0,vascular,"thorax,abdomen"
+s0050,,,,,,,,,,,,,,,,,,,31.0,m,C,ct thorax-abdomen,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0052,,,,,,,,,,,,,,,,,,,78.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,other,pelvis
+s0053,,,,,,,,,,,,,,,,,,,30.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+s0054,,,,,,,,,,,,,,,,,,,74.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,abdomen
+s0056,,,,,,,,,,,,,,,,,,,85.0,m,I,ct neck,train,siemens,somatom definition flash,100.0,tumor,throat
+s0057,,,,,,,,,,,,,,,,,,,63.0,m,I,ct thorax-chest,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0058,,,,,,,,,,,,,,,,,,,69.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+s0059,,,,,,,,,,,,,,,,,,,48.0,f,I,ct thorax-abdomen-pelvis,train,siemens,sensation 64,120.0,inflammation,abdomen
+s0061,,,,,,,,,,205.2520397679317,133.3408671919168,113.14625027371906,,,,,,,56.0,m,C,ct neck,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0062,175.2913305564475,,,185.55907837742566,,,,,228.32745155588404,,,,,,,,,,63.0,m,C,ct pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0063,,,,,,,,,,218.34242839177614,141.56631211355227,97.75177487039632,,,,,,,74.0,m,I,ct neck,train,siemens,sensation 64,120.0,tumor,throat
+s0065,,,,,,,,,,,,,,,,,,,76.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s0066,,,,,,,,,,,,,,,,,,,53.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,other,pelvis
+s0067,,,,,,,,,,179.3386486392216,137.466817589311,128.9658254767367,,,,,,,86.0,f,I,ct thorax-neck,train,siemens,sensation 64,120.0,other,throat
+s0068,,,,,,,,,,,,,,,,,,,73.0,f,C,ct spine,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0069,,,,,,,,,,,,,,,,,,,70.0,f,I,ct  intervention ,train,siemens,sensation 64,120.0,tumor,abdomen
+s0070,,,,,,,,,,,,,,,,,,,24.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,"throat,thorax"
+s0071,,,,,,,,,,,,,,,,,,,81.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,thorax
+s0072,,,,,,,,,,,,,,,,,,,67.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,abdomen
+s0073,,,,,,,,,,,,,,,,,,,71.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,other,abdomen
+s0074,85.09365944205068,,,178.20330896420722,,,,,77.86362245037164,,,,,,,,,,50.0,m,C,ct pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0075,,,,,,,,,,,,,,,,,,,58.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,other,abdomen
+s0076,,,,,,,,,,,,,,,,,,,45.0,m,I,ct aortic valve,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0077,,,,,,,,,,,,,,,,,,,77.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,tumor,abdomen
+s0078,,,,,,,,,,,,,,,,,,,75.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,abdomen
+s0079,,,,,,,,,,210.97683931800282,145.95451966490754,99.7051215332327,,,,,,,60.0,m,I,ct neck,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0080,,,,,,,,,,,,,,,,,,,68.0,m,C,ct thorax-neck,train,siemens,emotion 16,130.0,inflammation,thorax
+s0081,,,,,,,,,,211.16137406805228,139.88324713097842,92.41150027023188,,,,,,,49.0,m,I,ct spine,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0082,,,,,,,,,,,,,,,,,,,39.0,f,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0083,,,,,,,,,,,,,,,,,,,58.0,m,I,ct coronary arteries,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0084,,,,,,,,,,,,,,,,,,,59.0,f,I,ct coronary arteries,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0085,,,,,,,,,,,,,,,,,,,47.0,f,I,ct coronary arteries,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0086,85.99346118997892,435.86968377595474,151.67245200612098,187.45340829275523,63.46297220479538,39.21561685732458,19.666896819911194,45.54352644079928,83.28059135273544,,,,152.49672789958308,48.30203075398193,,,,,71.0,m,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0088,,,,,,,,,,,,,,,,,,,72.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,140.0,no_pathology,no_location
+s0089,,,,,,,,,,,,,,,,,,,75.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0090,,,,,,,,,,,,,,,,,,,72.0,f,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0091,,,,,,,,,,,,,,,,,,,83.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s0092,54.64838943106178,,,,,,,,,,,,,,,,,,24.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,other,abdomen
+s0095,,,,,,,,,,,,,,,,,,,73.0,m,I,ct aortic valve,val,siemens,somatom definition flash,120.0,vascular,thorax
+s0096,,,,,,,,,,,,,,,,,,,80.0,m,I,ct angiography abdomen-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s0098,80.1331451765167,,,157.99027896678422,,,,,66.44477036151758,,,,,,,,,,50.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0099,,,,,,,,,,,,,,,,,,,71.0,m,I,ct spine,train,siemens,sensation 64,120.0,other,throat
+s0100,,,,,,,,,,,,,,,,,,,65.0,f,I,ct spine,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0101,,,,,,,,,,,,,,,,,,,24.0,m,I,ct orbita,train,siemens,somatom definition flash,120.0,trauma,head
+s0102,,,206.51015655640057,,,,,42.84639613735022,,,,,194.22913692191463,41.58192922164928,,,,,41.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0103,,,,,,,,,,,,,,,,,,,41.0,m,I,ct polytrauma head,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0104,,,,,,,,,,,,,,,,,,,84.0,f,I,ct pelvis,train,siemens,somatom definition as+,120.0,trauma,pelvis
+s0105,,,,,,,,,,,,,,,,,,,78.0,m,I,ct  intervention ,train,siemens,sensation 64,120.0,tumor,abdomen
+s0106,,,,,,,,,,,,,,,,,,,55.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,thorax
+s0107,,,,,,,,,,,,,,,,,,,87.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+s0108,,,,,,,,,,,,,,,,,,,51.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0109,75.80807705286365,,,166.94418178532632,,,,,84.24403973894576,,,,,,,,,,76.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,other,abdomen
+s0110,,,,,,,,,,,,,,,,,,,60.0,m,C,ct thorax-neck,train,siemens,emotion 16,130.0,tumor,throat
+s0111,,,,,,,,,,,,,,,,,,,64.0,m,I,ct aortic valve,train,siemens,somatom definition flash,120.0,vascular,thorax
+s0112,,,,,,,,,,,,,,,,,,,73.0,f,C,ct neck,train,siemens,emotion 16,130.0,tumor,throat
+s0114,,,161.7268939450484,,40.50295740543693,14.126126724669398,11.43887095599924,39.16806710752548,,,,,181.9734068235264,29.221114696553805,,,,,57.0,f,I,ct thorax-neck,train,siemens,sensation 64,120.0,inflammation,thorax
+s0115,,,,,,,,,,,,,,,,,,,49.0,m,I,ct angiography thorax,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0117,,,,,,,,,71.43124231482841,,,,,,,,,,50.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,other,abdomen
+s0119,,,,,,,,,,,,,,,,,,,43.0,m,I,ct abdomen-pelvis,test,siemens,somatom definition flash,140.0,no_pathology,no_location
+s0120,118.25813349556647,,,176.25228991865114,,,,,101.64520254574228,,,,,,,,,,60.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0122,,,,,,,,,,,,,,,,,,,54.0,f,A,ct lower limb left,train,ge,discovery ste,120.0,unclear,unclear
+s0123,,,151.66744393095126,,,,,41.3988855684352,,,,,173.87965987059374,43.05647002450774,,,,,80.0,m,C,ct neck-thorax-abdomen-pelvis,val,siemens,emotion 16,130.0,tumor,thorax
+s0124,,,,,,,,,,,,,,,,,,,70.0,m,I,ct angiography abdomen-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s0128,,,,,,,,,,,,,,,,,,,52.0,f,G,ct abdomen,train,siemens,somatom definition flash,120.0,unclear,unclear
+s0129,,,,,,,,,,,,,,,,,,,52.0,m,I,ct spine,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0130,,,,,,,,,,,,,,,,,,,75.0,m,I,ct spine,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0131,53.67576652547233,,,167.40202067109027,,,,,64.53858708340084,,,,,,,,,,38.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,other,abdomen
+s0132,,,,,,,,,,,,,,,,,,,54.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,other,abdomen
+s0133,,,,,,,,,,,,,,,,,,,69.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0135,,,,,,,,,,,,,,,,,,,69.0,m,C,ct thorax-chest,train,siemens,emotion 16,130.0,tumor,thorax
+s0136,,,,,,,,,,,,,,,,,,,62.0,m,I,ct spine,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0137,,,,,,,,,,,,,,,,,,,67.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0138,,,,,,,,,,,,,,,,,,,69.0,f,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0139,,,,,,,,,,,,,,,,,,,30.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0140,,,,,,,,,,,,,,,,,,,66.0,m,I,ct thorax-neck,train,siemens,somatom definition as+,80.0,tumor,throat
+s0141,,,,,,,,,,,,,,,,,,,57.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,"throat,thorax,abdomen"
+s0143,,,,,,,,,,,,,,,,,,,22.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0145,,,,,,,,,,,,,,,,,,,54.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0146,,,174.06087154603802,,26.19692756945382,12.131805286190287,3.356078925912465,44.90164947369098,,,,,173.39512435833953,39.58851433697013,,,,,80.0,m,I,ct thorax-abdomen-pelvis,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0147,,,,,,,,,,,,,,,,,,,55.0,m,I,ct chest,train,siemens,somatom definition flash,100.0,other,abdomen
+s0149,,,,,,,,,,,,,,,,,,,47.0,m,I,ct spine,train,siemens,sensation 64,120.0,trauma,throat
+s0150,,,,,,,,,,,,,,,,,,,78.0,m,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0151,75.15071473277571,,,174.06894199968013,,,,,71.96808810444055,,,,,,,,,,67.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,110.0,no_pathology,no_location
+s0152,,,,,243.2823205174958,180.39006798525008,134.7313247615526,,,,,,,,,,,,73.0,m,I,ct angiography head,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0153,,,,,,,,,,,,,,,,,,,38.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,abdomen
+s0154,,,,,,,,,,,,,,,,,,,50.0,m,I,ct spine,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0156,,,,,,,,,,,,,,,,,,,61.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,140.0,inflammation,abdomen
+s0157,,,,,,,,,,,,,,,,,,,77.0,f,I,ct abdomen-pelvis,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0158,,,,,,,,,,,,,,,,,,,50.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0159,,,,,,,,,,,,,,,,,,,37.0,m,I,ct  operation,train,siemens,sensation 10,120.0,no_pathology,no_location
+s0160,,,,,,,,,,,,,,,,,,,53.0,f,I,ct abdomen-pelvis,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0161,,,,,,,,,,,,,,,,,,,53.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,other,abdomen
+s0162,,,178.6752395889508,,,,,39.16407363947784,,,,,186.66324659352227,33.51351511780762,,,,,62.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,tumor,pelvis
+s0163,,,,,,,,,,,,,,,,,,,53.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s0165,,,,,,,,,,,,,,,,,,,50.0,f,C,ct thorax-abdomen,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0166,,,,,,,,,,,,,,,,,,,58.0,m,I,ct abdomen-pelvis,train,siemens,sensation 64,120.0,inflammation,thorax
+s0167,,,,,,,,,,,,,,,,,,,39.0,f,I,ct neck,train,siemens,somatom definition as+,100.0,inflammation,throat
+s0168,,,,,,,,,,,,,,,,,,,64.0,f,I,ct abdomen,train,siemens,somatom definition flash,100.0,tumor,abdomen
+s0169,,,,,,,,,,,,,,,,,,,76.0,m,I,ct spine,train,siemens,somatom definition as+,100.0,trauma,throat
+s0170,,,,,,,,,,,,,,,,,,,55.0,m,I,ct neck,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0171,,,,,,,,,,,,,,,,,,,78.0,f,I,ct angiography abdomen-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s0172,,,,,,,,,,,,,,,,,,,20.0,m,I,ct spine,train,siemens,somatom definition as+,120.0,trauma,throat
+s0174,,,,,,,,,,,,,,,,,,,59.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0175,,,,,,,,,,,,,,,,,,,60.0,m,I,ct thorax-abdomen-pelvis,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0178,,,,,,,,,,,,,,,,,,,61.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,"abdomen,bones"
+s0179,,,,,,,,,,,,,,,,,,,39.0,f,I,ct abdomen,train,siemens,somatom definition flash,100.0,other,abdomen
+s0181,,,,,,,,,,,,,,,,,,,82.0,f,I,ct  intervention ,train,siemens,sensation 64,120.0,tumor,thorax
+s0182,,,,,,,,,,,,,,,,,,,47.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+s0183,,,,,,,,,,,,,,,,,,,69.0,m,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0184,,,,,,,,,,,,,,,,,,,66.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0185,,,,,,,,,,,,,,,,,,,48.0,m,I,ct spine,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0187,,,,,,,,,,,,,,,,,,,25.0,m,I,ct polytrauma head,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0188,,,,,,,,,,,,,,,,,,,60.0,f,I,ct pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+s0189,,,169.85267309725137,,,,,32.474758997400144,,,,,,,,,,,50.0,m,I,ct aortic valve,train,siemens,somatom definition flash,120.0,vascular,"thorax,abdomen"
+s0190,,,,,,,,,,,,,,,,,,,59.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0191,,,,,,,,,8.318738783599388,,,,,,,,,,73.0,f,I,ct spine,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0192,,,,,,,,,,,,,,,,,,,30.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,"throat,thorax,abdomen,pelvis"
+s0193,,,,,,,,,,,,,,,,,,,63.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0194,,,,,,,,,,,,,,,,,,,67.0,f,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0196,,366.1495728796017,,,,,,,,,,,,,,,,,73.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0197,,,170.57780544308824,,,,,42.13032233392477,,,,,176.5628822186054,41.63066869870492,,,,,54.0,f,C,ct thorax-neck,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0199,,,,,,,,,,,,,,,,,,,63.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,abdomen
+s0201,,,,,,,,,,,,,,,,,,,51.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0204,79.39716285475096,,,165.1432486516798,,,,,88.2487359517256,,,,,,,,,,36.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0206,,,,,,,,,,,,,,,,,,,81.0,f,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0208,,,,,,,,,,,,,,,,,,,52.0,m,I,ct spine,train,siemens,sensation 64,120.0,bleeding,head
+s0209,,490.8095179991969,,,21.74804274986377,7.278162931336316,4.396230860418976,,,,,,,,,,,,64.0,m,I,ct spine,train,siemens,somatom definition as+,120.0,trauma,thorax
+s0210,,,,,,,,,,,,,,,,,,,51.0,m,I,ct angiography abdomen-pelvis-leg,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0211,,,,,,,,,,,,,,,,,,,82.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,tumor,"abdomen,pelvis"
+s0212,97.28442150664551,,,159.06544690257374,,,,,81.53817575681612,,,,,,,,,,66.0,m,I,ct thorax-abdomen,train,siemens,somatom definition as+,100.0,inflammation,"abdomen,pelvis"
+s0213,,,,,,,,,,,,,,,,,,,31.0,m,B,ct thorax-chest,train,siemens,sensation 16,120.0,unclear,unclear
+s0215,,,,,,,,,,,,,,,,,,,60.0,f,I,ct thorax-chest,train,siemens,sensation 64,120.0,tumor,thorax
+s0216,,,,,,,,,,,,,,,,,,,38.0,f,I,ct angiography abdomen-pelvis-leg,val,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0217,,,,,,,,,,,,,,,,,,,82.0,m,I,ct neck,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0218,,,,,,,,,,,,,,,,,,,69.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0219,,,,,,,,,,,,,,,,,,,76.0,f,I,ct  intervention ,train,siemens,sensation 64,120.0,tumor,thorax
+s0220,,,,,,,,,,,,,,,,,,,32.0,f,I,ct thorax-chest,train,siemens,sensation 64,120.0,inflammation,abdomen
+s0221,,,,,,,,,,,,,,,,,,,62.0,f,C,ct spine,train,siemens,emotion 16,130.0,other,abdomen
+s0222,,,,,,,,,,,,,,,,,,,67.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0223,,,,,,,,,,,,,,,,,,,65.0,f,I,ct thorax-neck,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0224,,455.03919079592976,206.6333600096431,,,,,198.03635986896793,,,,,194.14517152904986,,293.7011619711657,,,,47.0,m,I,ct polytrauma,train,siemens,somatom definition as+,140.0,trauma,"head,thorax"
+s0226,,,,,,,,,,,,,,,,,,,54.0,f,I,ct neck,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0227,,,,,,,,,,,,,,,,,,,65.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0228,,,,,,,,,,,,,,,,,,,42.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,110.0,other,abdomen
+s0229,,,,,,,,,,,,,,,,,,,52.0,m,I,ct  intervention ,train,siemens,sensation 64,120.0,tumor,pelvis
+s0230,,,,,,,,,,,,,,,,,,,20.0,m,I,ct heart-thorakale aorta,test,siemens,somatom definition flash,120.0,vascular,thorax
+s0231,,,,,,,,,,,,,,,,,,,58.0,m,C,ct thorax-chest,train,siemens,emotion 16,130.0,other,thorax
+s0232,,,,,,,,,,,,,,,,,,,82.0,m,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0233,,,,,,,,,,,,,,,,,,,58.0,f,I,ct spine,train,siemens,somatom definition as+,120.0,other,abdomen
+s0234,,,,,,,,,,,,,,,,,,,72.0,m,I,ct spine,train,siemens,somatom definition as+,120.0,trauma,"head,thorax"
+s0235,,,,,,,,,,,,,,,,,,,44.0,f,I,ct abdomen-pelvis,test,siemens,somatom definition flash,100.0,vascular,unclear
+s0236,,,,,,,,,,,,,,,,,,,78.0,m,C,ct abdomen-pelvis,test,siemens,emotion 16,130.0,tumor,abdomen
+s0237,,,,,,,,,,,,,,,,,,,45.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,other,abdomen
+s0238,,,,,,,,,,,,,,,,,,,17.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,abdomen
+s0239,,,,,,,,,,,,,,,,,,,48.0,m,I,ct angiography abdomen-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,"thorax,abdomen"
+s0240,,,,,,,,,,,,,,,,,,,59.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,tumor,abdomen
+s0241,,,,,,,,,,,,,,,,,,,63.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0242,,,,,,,,,,,,,,,,,,,19.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0243,,,,,,,,,,,,,,,,,,,56.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,"abdomen,pelvis"
+s0244,,,,,,,,,,,,,,,,,,,85.0,m,I,ct abdomen-pelvis,test,siemens,somatom definition flash,100.0,tumor,abdomen
+s0245,,,,,,,,,,,,,,,,,,,77.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0246,,,,,,,,,,,,,,,,,,,50.0,f,I,ct abdomen-pelvis,train,siemens,sensation 64,120.0,inflammation,abdomen
+s0247,,,,,,,,,,,,,,,,,,,50.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,other,abdomen
+s0248,,,,,,,,,,,,,,,,,,,71.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,"abdomen,pelvis"
+s0249,,,,,,,,,,,,,,,,,,,61.0,m,I,ct abdomen-pelvis,val,siemens,somatom definition flash,100.0,tumor,"abdomen,pelvis"
+s0250,,,,,,,,,,,,,,,,,,,67.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0252,,,,,,,,,,,,,,,,,,,40.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+s0253,,,,,,,,,,,,,,,,,,,60.0,f,I,ct thorax-chest,train,siemens,sensation 64,120.0,other,thorax
+s0254,,,,,,,,,,,,,,,,,,,56.0,m,I,ct neck,train,siemens,sensation 64,120.0,tumor,throat
+s0255,,,,,,,,,,,,,,,,,,,57.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0256,,,,,,,,,,,,,,,,,,,44.0,f,I,ct thorax-chest,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0257,,,,,,,,,,,,,,,,,,,79.0,f,I,ct angiography abdomen-pelvis-leg,train,siemens,somatom definition flash,100.0,tumor,abdomen
+s0258,,,,,,,,,,,,,,,,,,,41.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0259,,,,,,,,,,,,,,,,,,,58.0,f,I,ct neck,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0260,,,,,,,,,,,,,,,,,,,48.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,tumor,thorax
+s0261,,,,,,,,,,,,,,,,,,,53.0,m,I,ct abdomen,train,siemens,somatom definition flash,100.0,other,abdomen
+s0262,,,,,,,,,,,,,,,,,,,31.0,m,I,ct abdomen-pelvis,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0263,,,,,,,,,,,,,,,,,,,44.0,m,I,ct neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0264,,,,,,,,,,,,,,,,,,,45.0,f,I,ct thorax-chest,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0265,,,,,,,,,,,,,,,,,,,47.0,f,I,ct  intervention ,train,siemens,sensation 64,120.0,tumor,abdomen
+s0266,,,,,,,,,,,,,,,,,,,51.0,m,I,ct thorax-chest,train,siemens,sensation 64,120.0,tumor,thorax
+s0270,,,,,,,,,,,,,,,,,,,69.0,m,I,ct heart,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0271,,,,,,,,,,,,,,,,,,,59.0,m,I,ct angiography thorax,train,siemens,somatom definition flash,120.0,vascular,thorax
+s0275,,,,,,,,,,,,,,,,,,,46.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0277,,,,,,,,,,163.20148421895544,137.87074558859302,133.21689679053966,,,,,,,43.0,f,I,ct neck,train,siemens,sensation 64,120.0,bleeding,throat
+s0278,,,,,,,,,,,,,,,,,,,62.0,f,I,ct spine,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0279,,,,,,,,,,214.78084200416112,135.1963298803724,95.82549909334546,,,,,,,66.0,m,C,ct neck,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0281,,,,,,,,,,217.33949728301843,142.50691612897947,92.79445506058164,,,,,,,69.0,m,C,ct neck,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0282,,,,,,,,,,,,,,,,,,,66.0,f,C,ct spine,train,siemens,emotion 16,130.0,tumor,bones
+s0283,,,,,,,,,,,,,,,,,,,56.0,m,I,ct  intervention ,train,siemens,sensation 64,120.0,tumor,abdomen
+s0285,,,,,,,,,,,,,,,,,,,72.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,thorax
+s0286,,,,,,,,,,,,,,,,,,,74.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0287,,,,168.33702047942978,,,,,,,,,,,,449.00476026910553,447.7994552731065,,80.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,unclear
+s0288,,,,,,,,,,,,,,,,,,,64.0,m,I,ct spine,train,siemens,somatom definition as+,120.0,trauma,head
+s0289,,,,,,,,,,227.26606667391593,170.3021409600115,137.5832872797251,,,,,,,55.0,f,I,ct angiography head,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0290,,,,,,,,,,,,,,,,,,,50.0,f,I,ct  intervention ,train,siemens,sensation 64,120.0,tumor,abdomen
+s0291,,,,,,,,,,,,,,,,,,,65.0,f,C,ct neck-thorax-abdomen-pelvis,test,siemens,emotion 16,130.0,tumor,bones
+s0292,,,,,,,,,,245.70268620630503,176.37276695791013,141.93436065298914,,,,,,,66.0,m,I,ct angiography head,train,siemens,somatom definition as+,120.0,vascular,throat
+s0293,,,,,,,,,,,,,,,,,,,77.0,m,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0294,,,,,,,,,,,,,,,,,,,48.0,m,I,ct thorax-chest,train,siemens,somatom definition flash,100.0,tumor,thorax
+s0295,,,,,,,,,,,,,,,,,,,49.0,f,C,ct spine,test,siemens,emotion 16,130.0,no_pathology,no_location
+s0296,,,,,,,,,,,,,,,,,,,80.0,f,A,ct spine,train,ge,discovery ste,120.0,unclear,unclear
+s0298,65.63092551081259,,,176.5804816460048,,,,,64.64366462411894,,,,,,,,,,66.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,110.0,no_pathology,no_location
+s0299,,,,,221.64287242206876,23.492734793714387,4.77626914657318,,,,,,,,,,,,78.0,m,C,ct thorax-abdomen,train,siemens,emotion 16,130.0,unclear,unclear
+s0300,,,,,,,,,,,,,,,,,,,76.0,m,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,unclear,unclear
+s0301,164.7420088673705,,,165.59767071420404,,,,,184.3836799301799,,,,,,,,,,76.0,m,C,ct pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0303,,,,,,,,,,,,,,,,,,,77.0,f,I,ct thorax-neck,train,siemens,sensation 64,120.0,tumor,throat
+s0304,,,,,,,,,,,,,,,,,,,72.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,110.0,no_pathology,no_location
+s0305,,,,,,,,,,,,,,,,,,,69.0,m,I,ct angiography abdomen-pelvis-leg,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0306,,,,,,,,,,,,,,,,,,,51.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,other,abdomen
+s0307,,,,,,,,,,,,,,,,,,,69.0,f,B,ct neck-thorax-abdomen-pelvis,train,siemens,sensation 16,120.0,unclear,unclear
+s0308,,,,,,,,,,,,,,,,,,,62.0,m,I,ct angiography abdomen-pelvis-leg,test,siemens,somatom definition as+,120.0,bleeding,abdomen
+s0310,,,,,,,,,,,,,,,,,,,23.0,f,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0311,,,,,,,,,,,,,,,,,,,55.0,m,C,ct abdomen-pelvis,test,siemens,emotion 16,130.0,no_pathology,no_location
+s0312,,,,,,,,,,,,,,,,,,,78.0,f,I,ct spine,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0313,,,,,,,,,,,,,,,,,,,73.0,f,I,ct spine,train,siemens,sensation 64,120.0,other,abdomen
+s0314,,,,,,,,,,,,,,,,,,,83.0,m,I,ct abdomen-pelvis,train,siemens,sensation 64,120.0,other,abdomen
+s0315,,,,,,,,,,,,,,,,,,,51.0,m,C,ct thorax-chest,train,siemens,emotion 16,130.0,other,thorax
+s0316,,,,,,,,,,,,,,,,,,,58.0,f,I,ct  intervention ,train,siemens,sensation 64,120.0,tumor,abdomen
+s0319,,,,,,,,,82.86715880620561,,,,,,,,,,67.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0320,,,,,,,,,,,,,,,,,,,80.0,m,I,ct angiography abdomen-pelvis-leg,train,siemens,sensation 64,120.0,vascular,abdomen
+s0321,,,,,,,,,,,,,,,,,,,60.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,head
+s0322,,,,,,,,,,,,,,,,,,,65.0,m,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,bones
+s0324,,,,,,,,,,,,,,,,,,,54.0,f,I,ct abdomen-pelvis,val,siemens,somatom definition as+,120.0,other,abdomen
+s0325,,,,,,,,,,,,,,,,,,,65.0,f,I,ct abdomen-pelvis,train,siemens,sensation 64,120.0,other,abdomen
+s0326,,,,,,,,,,197.23858822372023,139.65668765017085,114.6851621489315,,,,,,,56.0,m,C,ct neck,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0327,,,,,,,,,,,,,,,,,,,72.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0328,,,,,,,,,,,,,,,,,,,60.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,inflammation,abdomen
+s0329,86.6711206257112,,,,,,,,,,,,,,,,,,46.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0330,,,,,,,,,,,,,,,,,,,67.0,f,I,ct  intervention ,train,siemens,sensation 64,120.0,no_pathology,no_location
+s0331,,,,,,,,,,,,,,,,,,,48.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+s0332,,459.7808689745183,,,,,,,,,,,,,,,,,68.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s0333,,,,,237.42678137214872,182.7326405517004,139.5832439886759,,,,,,,,,,,,83.0,m,I,ct angiography head,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0334,,456.46642956241635,172.6143087110305,,,,,189.56266309166296,,,,,169.8673984146567,183.73657893418104,,,,,48.0,m,E,ct neck-thorax-abdomen-pelvis,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0335,,,,,,,,,,,,,,,,,,,55.0,f,I,ct heart,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0336,,,,,,,,,,,,,,,,,,,57.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0338,,,,,,,,,,,,,,,,,,,57.0,m,I,ct heart,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0339,,,,,,,,,,,,,,,,,,,83.0,f,A,ct abdomen,train,ge,lightspeed vct,120.0,unclear,unclear
+s0340,,,,,,,,,,,,,,,,,,,63.0,m,I,ct angiography head,train,siemens,somatom definition edge,120.0,vascular,head
+s0341,,,,,,,,,,,,,,,,,,,75.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+s0342,,,,,,,,,,,,,,,,,,,60.0,f,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0343,,,,,,,,,,,,,,,,,,,74.0,m,I,ct aortic valve,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0344,,,,,,,,,,,,,,,,,,,57.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+s0345,,472.96921973718594,,,,,,,88.86744119887064,,,,,,,,,,53.0,m,I,ct spine,train,siemens,somatom definition as+,120.0,trauma,abdomen
+s0346,,,,,250.08861673534977,190.03996977017258,148.53661518476463,,,,,,,,,,,,62.0,m,I,ct angiography head,val,siemens,somatom definition as+,120.0,vascular,throat
+s0347,,,,,,,,,,,,,,,,,,,72.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition edge,100.0,no_pathology,no_location
+s0349,,,,,,,,,,,,,,,,,,,75.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,100.0,vascular,thorax
+s0350,,,,,,,,,,,,,,,,,,,88.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,no_pathology,no_location
+s0352,,,,,,,,,,,,,,,,,,,52.0,f,I,ct angiography head,val,siemens,somatom definition as+,120.0,vascular,head
+s0353,,,,,,,,,,,,,,,,,,,72.0,m,G,ct thorax-abdomen,train,siemens,somatom definition flash,120.0,unclear,unclear
+s0354,,,,,,,,,,,,,,,,,,,60.0,m,E,ct thorax-abdomen,train,philips,ingenuity core 128,100.0,unclear,unclear
+s0355,,,,,,,,,,,,,,,,,,,60.0,m,E,ct thorax-abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0356,,,,,,,,,,,,,,,,,,,65.0,f,I,ct heart,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0357,,,,,,,,,,,,,,,,,,,66.0,f,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0358,,,,,,,,,,,,,,,,,,,90.0,f,I,ct pelvis,train,siemens,somatom definition flash,100.0,trauma,abdomen
+s0359,,,,,,,,,,,,,,,,,,,88.0,f,I,ct neck,train,siemens,somatom definition edge,100.0,other,throat
+s0360,,,,,,,,,,,,,,,,,,,69.0,f,I,ct  intervention ,train,siemens,somatom definition edge,100.0,tumor,pelvis
+s0361,,,,172.85536942980755,,,,,,,,,,,,438.56633408539255,441.59138386532896,,81.0,m,I,ct angiography pelvis-leg,train,siemens,somatom definition as+,100.0,bleeding,extremity
+s0362,,,,,,,,,,,,,,,,,,,82.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,tumor,bones
+s0363,,,,,,,,,,,,,,,,,,,71.0,f,I,ct thorax,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0364,,,,,,,,,,,,,,,,,,,36.0,m,I,ct thorax-neck,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0365,,,,,,,,,,,,,,,,,,,44.0,f,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0366,,,,,,,,,,,,,,,,,,,48.0,f,I,ct abdomen,train,siemens,somatom definition as+,120.0,unclear,unclear
+s0367,,,,,,,,,,,,,,,,,,,46.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0368,,,,,,,,,,,,,,,,,,,64.0,m,I,ct heart,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0369,,,,,,,,,,,,,,,,,,,70.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,tumor,"thorax,abdomen,pelvis"
+s0370,95.54566435612045,,,171.71042496033215,,,,,94.65499000152786,,,,,,,,,,60.0,m,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,thorax
+s0371,,,,,,,,,,,,,,,,,,,52.0,f,E,ct thorax-abdomen-pelvis,train,philips,ingenuity core 128,100.0,unclear,unclear
+s0372,,,,,,,,,,,,,,,,,,,46.0,f,I,ct thorax-chest,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0373,,,,,,,,,,,,,,,,,,,80.0,f,I,ct thorax-neck,train,siemens,somatom definition as+,120.0,vascular,thorax
+s0374,,,,,,,,,,,,,,,,,,,76.0,f,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,80.0,vascular,thorax
+s0375,,,,,,,,,,,,,,,,,,,46.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,inflammation,abdomen
+s0376,,,,,,,,,,,,,,,,,,,88.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0377,,,,,,,,,,,,,,,,,,,52.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,80.0,vascular,thorax
+s0378,,,,,,,,,,,,,,,,,,,79.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s0379,,,,,,,,,,,,,,,,,,,36.0,f,I,ct angiography neck,train,siemens,somatom definition as+,120.0,bleeding,throat
+s0380,,,,,,,,,,,,,,,,,,,59.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition edge,100.0,tumor,thorax
+s0381,,,,,,,,,,,,,,,,,,,78.0,f,I,ct pelvis,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0382,,,,,255.76213635301724,169.7819046542408,148.30976051414257,,,,,,,,,,,,81.0,m,I,ct neck,train,siemens,somatom definition as+,100.0,inflammation,throat
+s0383,73.78853478177675,,,180.39706501526558,,,,,81.36641303408257,,,,,,,,,,80.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,abdomen"
+s0385,,,,,,,,,,,,,,,,,,,64.0,f,E,ct pelvis,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0386,,,,,,,,,,,,,,,,,,,77.0,f,C,ct spine,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0388,,,,,,,,,,,,,,,,,,,57.0,f,I,ct angiography head,train,siemens,somatom definition edge,120.0,vascular,head
+s0389,,,,,,,,,,,,,,,,,,,71.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition as+,120.0,other,abdomen
+s0390,,,,,,,,,,,,,,,,,,,73.0,m,B,ct abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+s0391,,,,,,,,,,,,,,,,,,,49.0,f,I,ct heart,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0392,,,,,,,,,,,,,,,,,,,21.0,m,I,ct thorax-chest,train,siemens,somatom definition as+,80.0,no_pathology,no_location
+s0393,,,,,,,,,,,,,,,,,,,86.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0394,,,,,,,,,,,,,,,,,,,63.0,m,E,ct thorax-abdomen,train,philips,ingenuity core 128,100.0,unclear,unclear
+s0395,,,,,,,,,,,,,,,,,,,61.0,m,I,ct  intervention ,train,siemens,somatom definition edge,120.0,tumor,thorax
+s0396,,,,,,,,,,,,,,,,,,,53.0,m,I,ct neck,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0398,,,,,,,,,,,,,,,,,,,55.0,m,I,ct angiography thorax,train,siemens,somatom definition flash,100.0,vascular,thorax
+s0399,,,,,,,,,,,,,,,,,,,49.0,f,I,ct pelvis,train,siemens,somatom definition flash,140.0,trauma,pelvis
+s0400,,,,,,,,,,,,,,,,,,,53.0,m,I,ct neck,train,siemens,somatom definition edge,100.0,tumor,throat
+s0401,,,,,,,,,,,,,,,,,,,66.0,f,E,ct thorax-abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0402,,,,,,,,,,,,,,,,,,,74.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+s0403,,,,,,,,,,,,,,,,,,,84.0,f,B,ct heart-thorakale aorta,train,philips,iqon - spectral ct,120.0,unclear,unclear
+s0405,,,,,,,,,,,,,,,,,,,66.0,f,I,ct angiography thorax,train,siemens,somatom definition as+,100.0,vascular,thorax
+s0406,,,,,,,,,,,,,,,,,,,66.0,m,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0407,,,,,,,,,,,,,,,,,,,76.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s0408,,,,,,,,,,,,,,,,,,,88.0,m,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,bones
+s0410,,,,,,,,,,,,,,,,,,,63.0,m,I,ct angiography head,train,siemens,somatom definition as+,120.0,vascular,head
+s0411,,,,,,,,,,,,,,,,,,,71.0,f,I,ct angiography head,train,siemens,somatom definition as+,100.0,inflammation,thorax
+s0412,,,,,243.24738717860512,194.20333521185293,146.35420480496242,,,,,,,,,,,,72.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0413,,,,,,,,,,,,,,,,,,,62.0,f,I,ct thorax,train,siemens,somatom definition as+,100.0,other,thorax
+s0414,,,,,,,,,,,,,,,,,,,89.0,f,I,ct aortic valve,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0416,,,,,,,,,,,,,,,,,,,30.0,m,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0417,,,,,,,,,,,,,,,,,,,52.0,m,I,ct  operation,train,siemens,somatom definition edge,120.0,unclear,unclear
+s0418,,,,,,,,,,,,,,,,,,,57.0,f,I,ct pelvis,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0419,,,,,,,,,,,,,,,,,,,60.0,m,H,ct pelvis,train,siemens,somatom definition flash,100.0,unclear,unclear
+s0420,,,,,,,,,,,,,,,,,,,63.0,m,I,ct angiography neck-thx-abd-pelvis-leg,val,siemens,somatom definition edge,100.0,vascular,thorax
+s0421,,,,,,,,,,,,,,,,,,,63.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+s0422,,,,,,,,,,,,,,,,,,,71.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+s0423,,,,,,,,,,,,,,,,,,,65.0,m,C,ct neck-thorax-abdomen-pelvis,test,siemens,emotion 16,110.0,trauma,thorax
+s0424,,,,,,,,,,,,,,,,,,,79.0,m,I,ct aortic valve,train,siemens,somatom definition flash,120.0,vascular,thorax
+s0425,,,,,,,,,,,,,,,,,,,67.0,m,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,other,thorax
+s0426,,,,,,,,,,,,,,,,,,,42.0,m,I,ct pelvis,train,siemens,somatom definition edge,100.0,no_pathology,no_location
+s0428,,,,,,,,,,,,,,,,,,,24.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+s0429,,,,,,,,,,,,,,,,,,,48.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,tumor,abdomen
+s0430,,,,,,,,,,,,,,,,,,,64.0,m,I,ct thorax-neck,train,siemens,somatom definition as+,120.0,other,throat
+s0431,,,,,,,,,,,,,,,,,,,71.0,m,B,ct angiography neck-thx-abd-pelvis-leg,train,philips,iqon - spectral ct,120.0,unclear,unclear
+s0433,,,,,,,,,,,,,,,,,,,39.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+s0435,,,,,,,,,,,,,,,,,,,85.0,m,I,ct aortic valve,train,siemens,somatom definition edge,100.0,no_pathology,no_location
+s0436,,421.95031902561993,133.61862015437845,,,,,44.03299255795884,,,,,157.25704685310026,30.653053433242484,,,,,57.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,unclear,unclear
+s0437,,,162.493038896113,,,,,43.69268821850078,,,,,164.79572801609717,35.12647847953491,,,,,60.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0438,,,,,,,,,,,,,,,,,,,46.0,f,E,ct thorax-abdomen,train,philips,ingenuity core 128,100.0,unclear,unclear
+s0439,,,,,,,,,,,,,,,,,,,52.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition as+,120.0,trauma,thorax
+s0440,,,,,,,,,,,,,,,,,,,55.0,f,I,ct thorax-abdomen-pelvis,test,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0441,,,,,,,,,,,,,,,,,,,72.0,m,A,ct abdomen,test,ge,lightspeed vct,120.0,other,abdomen
+s0442,,,,,,,,,,,,,,,,,,,74.0,m,I,ct pelvis,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0443,,,,,,,,,,,,,,,,,,,35.0,m,I,ct pelvis,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0444,,,,,,,,,,,,,,,,,,,75.0,f,I,ct heart-thorakale aorta,train,siemens,somatom definition as+,120.0,vascular,thorax
+s0445,,,,,,,,,,,,,,,,,,,75.0,m,I,ct chest,train,siemens,somatom definition edge,100.0,tumor,thorax
+s0446,,,,,,,,,,,,,,,,,,,34.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+s0447,,422.4906923456774,,,,,,,,,,,,,,,,,76.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0449,,,,,,,,,,,,,,,,,,,77.0,f,E,ct neck,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0450,,,,,,,,,,,,,,,,,,,51.0,m,J,ct abdomen,test,siemens,somatom definition flash,100.0,unclear,unclear
+s0452,,,,,,,,,,,,,,,,,,,86.0,m,I,ct aortic valve,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0453,,,,,,,,,,,,,,,,,,,61.0,m,I,ct neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0454,,,,,,,,,,,,,,,,,,,83.0,f,I,ct pelvis,train,siemens,somatom definition flash,100.0,trauma,extremity
+s0455,,,,,,,,,,,,,,,,,,,73.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+s0456,,,,,,,,,,,,,,,,,,,69.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"throat,thorax,abdomen,pelvis"
+s0457,,,,,,,,,,,,,,,,,,,57.0,m,I,ct angiography thorax,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0458,,,,,,,,,,,,,,,,,,,83.0,f,B,ct abdomen,val,siemens,sensation 16,120.0,unclear,unclear
+s0459,,,,,,,,,,,,,,,,,,,68.0,m,E,ct thorax-neck,test,philips,ingenuity core 128,100.0,unclear,unclear
+s0460,,,,,,,,,,,,,,,,,,,28.0,f,I,ct angiography head,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0461,,,,,,,,,,,,,,,,,,,58.0,m,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,no_pathology,no_location
+s0462,20.91143358126206,404.07063892119106,,,,,,,,,,,,,,,,,80.0,f,I,ct spine,train,siemens,somatom definition edge,100.0,trauma,thorax
+s0463,,,,,,,,,,,,,,,,,,,46.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,80.0,vascular,thorax
+s0465,,,,,,,,,,,,,,,,,,,75.0,m,I,ct heart,train,siemens,somatom definition flash,100.0,vascular,thorax
+s0466,,,,,,,,,,,,,,,,,,,74.0,f,I,ct neck,val,siemens,somatom definition flash,80.0,unclear,unclear
+s0467,,451.1164245466371,,,,,,,,,,,,,,,,,50.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition as+,100.0,vascular,thorax
+s0468,,,,163.65787059043,,,,,,,,,,,,441.6237968349528,430.9108116722379,,76.0,m,E,ct angiography pelvis-leg,test,philips,ingenuity core 128,120.0,unclear,unclear
+s0469,,,,,,,,,,,,,,,,,,,37.0,f,E,ct thorax-chest,train,philips,ingenuity core 128,100.0,unclear,unclear
+s0470,,,,,,,,,,,,,,,,,,,52.0,m,E,ct thorax-abdomen,test,philips,ingenuity core 128,100.0,unclear,unclear
+s0471,,,,,,,,,,,,,,,,,,,63.0,f,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0472,,,,,,,,,,,,,,,,,,,64.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,no_pathology,no_location
+s0473,,,,,,,,,,,,,,,,,,,73.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0474,,,,,,,,,,,,,,,,,,,61.0,f,I,ct angiography head,train,siemens,somatom definition flash,100.0,vascular,head
+s0475,,,,,,,,,,,,,,,,,,,49.0,f,I,ct pelvis,train,siemens,somatom definition flash,140.0,trauma,extremity
+s0476,,,,,,,,,,,,,,,,,,,61.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0477,,,,,59.67357668006254,72.25781060579851,23.977415122377533,,,,,,,,,,,,68.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,tumor,abdomen
+s0478,,,,,,,,,,231.8366015099613,176.58444627802578,134.82082886301214,,,,,,,57.0,f,G,ct angiography head,train,siemens,somatom definition flash,100.0,unclear,unclear
+s0480,,,,,,,,,,,,,,,,,,,74.0,m,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0481,,,,,,,,,,,,,,,,,,,70.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0482,,,,,,,,,,,,,150.47032721535774,,257.00216856242406,,,,54.0,f,I,ct spine,test,siemens,somatom definition as+,100.0,trauma,extremity
+s0483,,,,,,,,,,,,,,,,,,,51.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,other,thorax
+s0484,,,,,,,,,,,,,,,,,,,64.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,tumor,"abdomen,pelvis"
+s0485,,,,,,,,,,,,,,,,,,,70.0,m,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0486,,,,,,,,,,,,,,,,,,,50.0,m,A,ct abdomen,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s0487,,,,,,,,,,,,,,,,,,,43.0,f,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,"thorax,abdomen,bones"
+s0488,,,,,,,,,,,,,,,,,,,47.0,f,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,80.0,vascular,thorax
+s0490,,,,,,,,,,,,,,,,,,,66.0,f,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,tumor,thorax
+s0491,,,,,,,,,,,,,,,,,,,55.0,m,C,ct neck,train,siemens,emotion 16,110.0,no_pathology,no_location
+s0492,,,,,,,,,,,,,,,,,,,61.0,f,I,ct  operation,train,siemens,somatom definition edge,120.0,trauma,extremity
+s0493,,,,,,,,,,,,,,,,,,,61.0,m,G,ct neck,train,siemens,somatom definition flash,100.0,unclear,unclear
+s0494,,,,,,,,,,,,,,,,,,,56.0,f,A,ct thorax-abdomen,train,ge,lightspeed vct,120.0,tumor,thorax
+s0495,,,,,,,,,,,,,,,,,,,64.0,f,A,ct abdomen,train,ge,lightspeed vct,120.0,tumor,pelvis
+s0497,,,,,253.0177332840468,197.87332456179934,140.06410422768238,,,,,,,,,,,,83.0,m,I,ct angiography head,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0498,,,,,,,,,,,,,,,,,,,65.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,100.0,vascular,"abdomen,pelvis"
+s0499,,,,,,,,,,,,,,,,,,,61.0,f,E,ct thorax-abdomen,test,philips,ingenuity core 128,120.0,unclear,unclear
+s0500,,,,,,,,,,,,,,,,,,,49.0,m,B,ct neck-thorax-abdomen-pelvis,train,siemens,sensation 16,120.0,unclear,unclear
+s0501,,,,,,,,,,,,,,,,,,,78.0,m,I,ct angiography head,train,siemens,somatom definition as+,100.0,vascular,throat
+s0502,,,,,,,,,,,,,,,,,,,70.0,m,E,ct thorax-abdomen-pelvis,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0503,,,,,,,,,,,,,,,,,,,67.0,m,I,ct angiography head,train,siemens,somatom definition flash,120.0,vascular,throat
+s0504,,,,,,,,,,,,,,,,,,,60.0,f,I,ct angiography neck,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0505,,,,,,,,,,,,,,,,,,,78.0,m,B,ct abdomen,test,siemens,sensation 16,120.0,unclear,unclear
+s0506,,,,,,,,,,,,,,,,,,,58.0,m,I,ct pelvis,val,siemens,somatom definition flash,140.0,trauma,pelvis
+s0507,,,,,,,,,,,,,,,,,,,69.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0508,,,,,,,,,,,,,,,,,,,63.0,m,I,ct angiography thorax,train,siemens,somatom definition flash,80.0,vascular,thorax
+s0509,,,,,,,,,,,,,,,,,,,49.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0510,,,,,,,,,,,,,,,,,,,63.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,extremity
+s0511,,,,,,,,,,,,,,,,,,,40.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,thorax
+s0513,,,,,,,,,,,,,,,,,,,65.0,f,G,ct abdomen,train,siemens,somatom definition flash,120.0,unclear,unclear
+s0514,,,,,,,,,,,,,,,,,,,52.0,f,I,ct angiography head,train,siemens,somatom definition edge,120.0,tumor,head
+s0515,,,,,,,,,,,,,,,,,,,76.0,m,I,ct thorax-neck,train,siemens,somatom definition as+,120.0,inflammation,thorax
+s0516,,,,,,,,,,,,,,,,,,,88.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,other,thorax
+s0517,,,,,,,,,,,,,,,,,,,76.0,m,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0518,,,,,,,,,,,,,,,,,,,47.0,m,E,ct neck,train,philips,ingenuity core 128,100.0,unclear,unclear
+s0519,,,,,,,,,,,,,,,,,,,64.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,tumor,thorax
+s0520,,,,,,,,,,,,,,,,,,,54.0,f,I,ct  intervention ,train,siemens,somatom definition edge,120.0,tumor,abdomen
+s0521,,,,,,,,,,,,,,,,,,,57.0,m,I,ct angiography head,train,siemens,somatom definition edge,120.0,vascular,head
+s0522,,,,,,,,,,,,,,,,,,,85.0,m,I,ct thorax,train,siemens,somatom definition edge,100.0,no_pathology,no_location
+s0523,,,,,,,,,,,,,,,,,,,74.0,m,I,ct  intervention ,train,siemens,somatom definition edge,100.0,tumor,abdomen
+s0525,,,,,,,,,,,,,,,,,,,78.0,m,G,ct abdomen,train,siemens,somatom definition flash,100.0,unclear,unclear
+s0526,,,,,,,,,,,,,,,,,,,44.0,m,I,ct angiography head,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0527,,,,,,,,,,,,,,,,,,,29.0,m,I,ct angiography neck,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0528,,,,,,,,,,,,,,,,,,,73.0,m,I,ct aortic valve,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0529,,,,,,,,,,,,,,,,,,,33.0,f,G,ct abdomen,train,siemens,somatom definition flash,100.0,unclear,unclear
+s0530,,,,,,,,,,,,,,,,,,,71.0,f,I,ct thorax-neck,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s0531,,,,,,,,,,,,,,,,,,,67.0,f,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,100.0,vascular,thorax
+s0532,,,,,,,,,,,,,,,,,,,56.0,m,I,ct heart,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0535,,,,,,,,,,,,,,,,,,,67.0,m,E,ct neck,train,philips,ingenuity core 128,100.0,unclear,unclear
+s0536,,,,,,,,,,,,,,,,,,,65.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,tumor,"throat,thorax,abdomen"
+s0537,,,,,,,,,,,,,,,,,,,45.0,m,I,ct neck,train,siemens,somatom definition edge,100.0,inflammation,abdomen
+s0539,,,,,,,,,,,,,,,,,,,66.0,m,I,ct  operation,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0541,,,,,,,,,,,,,,,,,,,71.0,m,I,ct abdomen,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0542,,,,,,,,,,,,,,,,,,,69.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0543,,,,,,,,,,,,,,,,,,,54.0,f,I,ct thorax-abdomen-pelvis,test,siemens,somatom definition flash,120.0,tumor,pelvis
+s0544,,,,,,,,,,,,,,,,,,,66.0,m,B,ct abdomen,val,siemens,sensation 16,120.0,unclear,unclear
+s0545,,,,,,,,,,,,,,,,,,,43.0,f,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0546,,,,,,,,,,,,,,,,,,,64.0,m,C,ct thorax-abdomen-pelvis,val,siemens,emotion 16,110.0,no_pathology,no_location
+s0548,,,,,,,,,,,,,,,,,,,65.0,m,B,ct neck-thorax-abdomen-pelvis,train,siemens,sensation 16,120.0,unclear,unclear
+s0549,,,,,,,,,,,,,,,,,,,69.0,m,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,bones,pelvis"
+s0550,,,,,,,,,,,,,,,,,,,62.0,m,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,abdomen
+s0551,,,,,,,,,,,,,,,,,,,82.0,f,E,ct neck-thorax-abdomen-pelvis,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0552,,,,,,,,,,,,,,,,,,,62.0,f,I,ct neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0553,,,,,,,,,,,,,,,,,,,45.0,f,E,ct thorax-abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0555,,,,,,,,,,,,,,,,,,,72.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0556,,,198.91024107288987,,242.28085774944168,187.02697014592127,144.90218512333672,,,,,,201.09174393964886,,327.03173154325805,,,232.88721654012613,51.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,throat
+s0557,,,,,,,,,,,,,,,,,,,60.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition edge,120.0,tumor,thorax
+s0559,,,,,,,,,,,,,,,,,,,64.0,m,I,ct neck,train,siemens,somatom definition edge,100.0,no_pathology,no_location
+s0560,,,,,,,,,,,,,,,,,,,44.0,f,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0561,92.13223865517557,,157.41093710974127,161.46983130337722,25.522300386146753,10.686459985339809,4.787909998349518,31.596328131599147,82.75556971487455,,,,151.72185344501614,29.988968981831373,,,,,76.0,m,C,ct neck-thorax-abdomen-pelvis,test,siemens,emotion 16,110.0,tumor,thorax
+s0563,,,,,,,,,,,,,,,,,,,46.0,m,I,ct angiography head,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0564,,,,,,,,,,,,,,,,,,,64.0,f,I,ct pelvis,train,siemens,somatom definition edge,120.0,trauma,pelvis
+s0565,,,,,,,,,,,,,,,,,,,63.0,m,I,ct thorax-neck,train,siemens,somatom definition as+,120.0,tumor,head
+s0566,,,,,,,,,,,,,,,,,,,48.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0567,,,,,,,,,,,,,,,,,,,62.0,m,I,ct angiography head,train,siemens,somatom definition edge,120.0,tumor,head
+s0568,,,,,,,,,,,,,,,,,,,56.0,f,E,ct neck,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0571,,,,,,,,,,,,,,,,,,,55.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0572,,,,,,,,,,,,,,,,,,,61.0,m,C,ct thorax-neck,val,siemens,emotion 16,110.0,tumor,throat
+s0573,,,,,,,,,,,,,,,,,,,88.0,f,I,ct pelvis,train,siemens,somatom definition flash,100.0,trauma,pelvis
+s0574,,,,,,,,,,,,,,,,,,,51.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0575,,,,,,,,,,,,,,,,,,,77.0,f,E,ct neck,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0576,,,,,,,,,,,,,,,,,,,55.0,f,I,ct neck,train,siemens,somatom definition edge,100.0,tumor,throat
+s0577,,,,,,,,,,,,,,,,,,,42.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0578,,,,,,,,,,,,,,,,,,,67.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0579,,,,,,,,,,,,,,,,,,,56.0,m,I,ct spine,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0580,,,154.72179687147255,,,,,71.22435652477738,,,,,156.56797432057115,39.867294708480856,,,,,69.0,f,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0581,,,,,,,,,,,,,,,,,,,72.0,f,E,ct pelvis,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0582,,,,,,,,,,,,,,,,,,,85.0,f,I,ct thorax,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0583,,,,,,,,,,,,,,,,,,,49.0,m,E,ct thorax-abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0584,,,,,,,,,,,,,,,,,,,74.0,f,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0585,,452.3452827723306,,,,,,,,,,,162.53562312352057,83.74172047125425,,,,,79.0,m,I,ct aortic valve,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0586,,,,,,,,,,,,,,,,,,,58.0,m,A,ct thorax-abdomen,train,ge,lightspeed vct,120.0,unclear,unclear
+s0587,,,,,,,,,,,,,,,,,,,83.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"abdomen,pelvis"
+s0588,,,,,,,,,,,,,,,,,,,44.0,m,E,ct polytrauma,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0589,,,169.36429556889144,,,,,184.71709134257563,,,,,,,,,,,58.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,abdomen
+s0590,,,,,,,,,,,,,,,,,,,77.0,m,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0591,,433.4709289505869,,,247.4971760239552,190.58442304456878,140.86519796795147,,,,,,,,,,,,74.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,thorax
+s0592,,389.1589470998225,,,,,,190.9524887831222,,,,,,,255.07307415370695,,,,86.0,f,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,thorax
+s0593,,,,,,,,,,,,,,,,,,,55.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"abdomen,bones"
+s0594,,,,,,,,,,,,,,,,,,,60.0,m,I,ct left artrium,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s0595,,,,,,,,,,,,,,,,,,,79.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,"thorax,abdomen"
+s0597,,,,,,,,,,,,,,,,,,,79.0,m,I,ct aortic valve,train,siemens,somatom definition edge,100.0,no_pathology,no_location
+s0598,,,,,,,,,,,,,,,,,,,67.0,m,G,ct thorax-abdomen,train,siemens,somatom definition flash,120.0,unclear,unclear
+s0600,,,,,,,,,,,,,,,,,,,65.0,m,B,ct thorax-abdomen-pelvis,train,siemens,sensation 16,120.0,unclear,unclear
+s0601,,,,,,,,,,,,,,,,,,,54.0,m,B,ct pelvis,train,siemens,sensation 16,120.0,unclear,unclear
+s0602,,,,,,,,,,,,,,,,,,,44.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,abdomen,bones"
+s0603,,,,,,,,,,,,,,,,,,,75.0,f,E,ct angiography pelvis-leg,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0604,,,,,,,,,,,,,,,,,,,61.0,m,C,ct thorax-neck,train,siemens,emotion 16,110.0,no_pathology,no_location
+s0605,,,,,,,,,,,,,,,,,,,54.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition as+,120.0,vascular,thorax
+s0606,,,,,,,,,,,,,,,,,,,82.0,m,C,ct thorax-neck,train,siemens,emotion 16,110.0,tumor,throat
+s0607,,,,,,,,,,,,,,,,,,,61.0,m,B,ct thorax-abdomen,val,siemens,sensation 16,120.0,unclear,unclear
+s0608,,,,,,,,,,,,,,,,,,,78.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0610,,,,,,,,,,,,,,,,,,,87.0,m,I,ct angiography head,train,siemens,somatom definition edge,100.0,vascular,throat
+s0611,,,,,,,,,,,,,,,,,,,62.0,m,I,ct pelvis,train,siemens,somatom definition edge,100.0,no_pathology,no_location
+s0612,,,,,,,,,,,,,,,,,,,73.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"bones,pelvis"
+s0613,,,,,,,,,,,,,,,,,,,67.0,m,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,thorax
+s0614,,,,,,,,,,,,,,,,,,,60.0,m,I,ct pelvis,val,siemens,somatom definition as+,120.0,trauma,pelvis
+s0615,,,,,,,,,,,,,,,,,,,60.0,f,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0616,,483.4353224035036,166.39601812014746,,252.2851090143863,187.92011901261986,153.00910717681148,,94.82047183338324,,,,,,,,,310.77708166138,56.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,thorax
+s0617,,,,,,,,,,,,,,,,,,,57.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0618,,,,,,,,,,,,,,,,,,,66.0,f,C,ct thorax-abdomen-pelvis,val,siemens,emotion 16,110.0,tumor,thorax
+s0619,,,,,,,,,,,,,,,,,,,79.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,abdomen
+s0620,,,,,,,,,,,,,,,,,,,67.0,m,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0621,85.33865108772387,458.3917340503024,173.65612332837858,163.9797670836595,88.3882790136008,69.18673855812374,45.204641561003854,59.34303025549867,82.30129775635504,,,,187.1310329128901,42.459619057619015,,,,,85.0,m,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,no_pathology,no_location
+s0622,,,158.7038507964267,,,,,64.82854542467486,,,,,154.94273581532434,68.39910981523958,,,,,94.0,f,I,ct neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0623,,,,,,,,,,,,,,,,,,,89.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+s0624,,,164.775312306529,,,,,55.17279316977257,,,,,160.2072554223581,66.54345910484619,,,,,81.0,m,I,ct aortic valve,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0625,78.75107986746595,,,,,,,,,,,,,,,,,,54.0,m,I,ct neck-thorax-abdomen-pelvis,val,siemens,somatom definition edge,120.0,tumor,"thorax,abdomen,pelvis"
+s0626,,,,,,,,,,,,,,,,,,,60.0,f,E,ct thorax-abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0627,,,,,,,,,,,,,,,,,,,41.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition as+,120.0,vascular,thorax
+s0628,,,,,,,,,,,,,,,,,,,61.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,tumor,thorax
+s0629,,,,,,,,,,,,,,,,,,,66.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,tumor,"thorax,abdomen,bones"
+s0632,,,,,,,,,,,,,,,,,,,79.0,f,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0633,,,,,,,,,,,,,,,,387.3016260112172,,,80.0,f,I,ct upper leg left,train,siemens,somatom definition as+,120.0,trauma,extremity
+s0635,,,,,,,,,,,,,,,,,,,76.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,abdomen
+s0636,,439.2272626212491,,,,,,,,,,,,,,,,,59.0,f,I,ct thorax-abdomen,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0637,,,,,,,,,,,,,,,,,,,72.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,inflammation,thorax
+s0638,,,,,,,,,,,,,,,,,,,49.0,f,E,ct polytrauma,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0639,,,,,,,,,,,,,,,,,,,58.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,pelvis
+s0640,,,,,,,,,,,,,,,,,,,77.0,f,I,ct  intervention ,train,siemens,somatom definition edge,100.0,tumor,abdomen
+s0641,,,,,,,,,,,,,,,,,,,70.0,f,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0642,,,,,,,,,,,,,,,,,,,36.0,f,I,ct neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0643,,,,,252.86742154831094,180.98316765286944,144.57886003499516,,,,,,,,,,,,65.0,m,I,ct angiography head,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0644,,,,,,,,,,,,,,,,,,,66.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,abdomen,pelvis"
+s0645,,,,,,,,,,,,,,,,,,,57.0,m,C,ct thorax-neck,train,siemens,emotion 16,110.0,tumor,"throat,thorax"
+s0646,,,,,,,,,,,,,,,,,,,81.0,m,I,ct pelvis,train,siemens,somatom definition flash,140.0,trauma,extremity
+s0647,,,,,,,,,,,,,,,,,,,15.0,f,G,ct abdomen,train,siemens,somatom definition flash,120.0,unclear,unclear
+s0648,,,154.18398916657972,,,,,49.93702166000203,,,,,160.79781775495036,47.28419399351016,,,,,72.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,bones"
+s0649,,,,,,,,,,,,,,,,,,,63.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,tumor,thorax
+s0650,,,,,,,,,,,,,,,,,,,65.0,m,I,ct thorax-abdomen-pelvis,val,siemens,somatom definition as+,120.0,inflammation,thorax
+s0651,,,,,,,,,,,,,,,,,,,81.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0652,,,,,,,,,,,,,,,,,,,58.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,vascular,thorax
+s0653,,,,,,,,,,,,,,,,,,,76.0,f,G,ct heart,train,siemens,somatom definition flash,120.0,unclear,unclear
+s0654,,,,,,,,,,,,,,,,,,,77.0,m,I,ct angiography thorax,train,siemens,somatom definition flash,80.0,vascular,thorax
+s0655,,,,,,,,,,,,,,,,,,,68.0,f,I,ct heart,val,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0656,,,,,,,,,,,,,,,,,,,71.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"abdomen,pelvis"
+s0657,,,,,,,,,,,,,,,,,,,53.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,no_pathology,no_location
+s0658,,,,,,,,,,,,,,,,,,,65.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0659,,,,,,,,,,,,,,,,,,,69.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0660,,,,,,,,,,,,,,,,,,,76.0,m,I,ct angiography head,train,siemens,somatom definition as+,100.0,vascular,throat
+s0661,,,,,,,,,,,,,,,,,,,90.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,throat"
+s0662,,,,,,,,,,,,,,,,,,,51.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0663,,,,,,,,,,,,,,,,,,,61.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,thorax
+s0664,,,,,,,,,,,,,,,,,,,74.0,f,I,ct thorax-abdomen,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+s0665,,,,,,,,9.207605551933673,,,,,,12.1539708846312,,,,,64.0,f,I,ct aortic valve,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0666,,,,,,,,,,,,,,,,,,,53.0,m,I,ct  intervention ,train,siemens,somatom definition edge,120.0,tumor,pelvis
+s0667,,,,,,,,,,,,,,,,,,,65.0,m,C,ct neck-thorax-abdomen-pelvis,test,siemens,emotion 16,110.0,no_pathology,no_location
+s0668,,,,,,,,,,,,,,,,,,,51.0,f,E,ct abdomen,train,philips,ingenuity core 128,100.0,unclear,unclear
+s0669,,,,,,,,,,,,,,,,,,,82.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition edge,100.0,vascular,abdomen
+s0670,,,,,,,,,,,,,,,,,,,84.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,"thorax,abdomen"
+s0671,,,,,,,,,,,,,,,,,,,75.0,m,I,ct left artrium,train,siemens,somatom definition flash,100.0,tumor,thorax
+s0672,,,,,,,,,,,,,,,,,,,80.0,f,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0673,,,,,,,,,,,,,,,,,,,54.0,m,I,ct pelvis,test,siemens,somatom definition as+,120.0,tumor,pelvis
+s0674,,,,,,,,,,,,,,,,,,,63.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,other,thorax
+s0675,,,,,,,,,,,,,,,,,,,68.0,f,I,ct angiography neck-thx-abd-pelvis-leg,val,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0676,,,,,,,,,,,,,,,,,,,57.0,f,I,ct  intervention ,train,siemens,somatom definition edge,100.0,tumor,abdomen
+s0677,,,,,,,,,,,,,,,,,,,56.0,m,I,ct chest,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0679,,,,,,,,,,,,,,,,,,,53.0,m,G,ct abdomen,train,siemens,somatom definition flash,100.0,unclear,unclear
+s0680,,,,,,,,,,,,,,,,,,,73.0,m,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,no_pathology,no_location
+s0681,,,,,,,,,,,,,,,,,,,64.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition as+,100.0,vascular,thorax
+s0682,,,,,,,,,,,,,,,,,,,44.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0683,,,,,,,,,,,,,,,,,,,75.0,m,G,ct thorax-abdomen,train,siemens,somatom definition flash,120.0,unclear,unclear
+s0684,,,,,,,,,,,,,,,,,,,59.0,m,I,ct heart,test,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0685,,,,,,,,,,,,,,,,,,,47.0,m,I,ct angiography pelvis-leg,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s0686,,,,,,,,,,,,,,,,,,,74.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0687,,,,,,,,,,,,,,,,,,,60.0,f,I,ct thorax-abdomen-pelvis,test,siemens,somatom definition flash,100.0,tumor,"thorax,abdomen"
+s0688,,,,,,,,,,,,,,,,,,,65.0,m,G,ct thorax-abdomen,train,siemens,somatom definition flash,120.0,unclear,unclear
+s0690,,408.8685332509902,,,,,,,,224.35388889126756,172.72888130153277,146.21115114893792,,,,,,,94.0,f,I,ct polytrauma,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0691,,,,,,,,,,,,,173.29035727717226,193.75998537342326,,,,,71.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,80.0,vascular,abdomen
+s0692,,472.43778236175797,,,,,,,,,,,,,,,,,66.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,"thorax,abdomen"
+s0693,,,,,,,,,,,,,,,,,,,63.0,m,I,ct  intervention ,train,siemens,somatom definition edge,120.0,tumor,abdomen
+s0694,,,,,,,,,,,,,,,,,,,32.0,m,E,ct thorax-abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0695,,,,,,,,,,,,,,,,,,,81.0,m,I,ct aortic valve,train,siemens,somatom definition flash,80.0,tumor,thorax
+s0696,,,,,,,,,,,,,,,,,,,63.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s0697,,,,,,,,,,,,,,,,,,,58.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,vascular,thorax
+s0698,,,,,,,,,,,,,,,,,,,72.0,m,I,ct heart-thorakale aorta,val,siemens,somatom definition edge,120.0,vascular,thorax
+s0699,,,,,,,,,,,,,,,,,,,80.0,f,E,ct neck-thorax-abdomen-pelvis,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0700,,404.596632375441,,,,,,,,,,,,,,,,,93.0,f,B,ct spine,train,siemens,sensation 16,120.0,unclear,unclear
+s0702,,,,,,,,,,,,,,,,,,,81.0,m,G,ct heart,train,siemens,somatom definition flash,120.0,unclear,unclear
+s0703,,,,,,,,,,,,,,,,,,,79.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"thorax,abdomen"
+s0704,,,,,,,,,,,,,,,,,,,62.0,f,E,ct thorax-chest,train,philips,ingenuity core 128,100.0,unclear,unclear
+s0705,,,,,,,,,,,,,,,,,,,67.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0706,,,,,,,,,,,,,,,,,,,53.0,f,I,ct angiography head,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0707,,,,,,,,,,,,,,,,,,,74.0,m,B,ct angiography neck-thx-abd-pelvis-leg,train,siemens,sensation 16,120.0,unclear,unclear
+s0708,,,,,,,,,,,,,,,,,,,36.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,abdomen
+s0709,,,,,,,,,,,,,,,,,,,70.0,m,E,ct thorax-abdomen-pelvis,train,philips,ingenuity core 128,100.0,unclear,unclear
+s0710,,,,,,,,,,,,,,,,,,,62.0,f,I,ct heart,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0711,,,,,,,,,,,,,,,,,,,64.0,m,A,ct thorax-abdomen,train,ge,lightspeed vct,120.0,unclear,unclear
+s0712,,,,,,,,,,,,,,,,,,,81.0,f,I,ct pelvis,train,siemens,somatom definition as+,100.0,trauma,pelvis
+s0713,,,,,,,,,,,,,,,,,,,72.0,f,I,ct  operation,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0714,,,,,,,,,,,,,,,,,,,61.0,m,I,ct thorax-chest,train,siemens,somatom definition flash,120.0,trauma,thorax
+s0715,,,,,,,,,,,,,,,,,,,79.0,f,I,ct  intervention ,train,siemens,somatom definition edge,100.0,tumor,thorax
+s0716,,,,,,,,,,,,,,,,,,,79.0,m,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0717,,,,,,,,,,,,,,,,,,,74.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition edge,100.0,vascular,thorax
+s0718,,,,,,,,,,,,,,,,,,,61.0,f,I,ct thorax-chest,train,siemens,somatom definition flash,80.0,inflammation,thorax
+s0719,,,,,,,,,,,,,,,,,,,73.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,tumor,thorax
+s0720,,,,,,,,,,,,,,,,,,,30.0,m,J,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,tumor,throat
+s0721,,,,,,,,,,,,,,,,,,,33.0,f,I,ct abdomen,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+s0723,99.50090787047468,426.40685311642494,135.74490885093172,185.79528771728474,69.13717952768485,35.72601336391972,21.864334065531928,36.97231600279628,91.68549003406159,,,,,,,,,,71.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,abdomen,pelvis"
+s0724,,,,,,,,,,,,,,,,,,,74.0,m,I,ct angiography pelvis-leg,train,siemens,somatom definition as+,120.0,inflammation,extremity
+s0726,,,,,,,,,,,,,,,,,,,69.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"thorax,abdomen,bones"
+s0727,,422.95227864645506,147.84592840178232,,,,,,,221.5070088468109,167.83737216140685,134.76969915405311,,,,,,294.29948729826805,88.0,f,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,extremity
+s0728,,,,,,,,,,,,,,,,,,,51.0,f,E,ct thorax-abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0729,,,,,,,,,,,,,,,,,,,71.0,f,I,ct angiography thorax,train,siemens,somatom definition as+,100.0,vascular,thorax
+s0730,,,,,,,,,,,,,,,,,,,80.0,f,I,ct pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0731,,,,,,,,,,,,,,,,,,,57.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,no_pathology,no_location
+s0732,,,,,,,,,,,,,,,,,,,64.0,m,I,ct thorax-chest,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0733,,,,,,,,,,,,,,,,,,,66.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,tumor,thorax
+s0734,,,,,,,,,,,,,,,,,,,72.0,m,C,ct neck,train,siemens,emotion 16,110.0,inflammation,thorax
+s0735,,,159.45816829070426,,,,,39.26959093820324,,,,,,,,,,,67.0,f,B,ct thorax-abdomen,test,siemens,sensation 16,120.0,unclear,unclear
+s0736,,,,,,,,,,,,,,,,,,,70.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition as+,100.0,inflammation,abdomen
+s0737,,,,,,,,,,,,,,,,,,,71.0,f,C,ct thorax-abdomen,train,siemens,emotion 16,130.0,no_pathology,no_location
+s0738,,,,,,,,,,,,,,,,,,,58.0,m,I,ct heart,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0739,,,,,,,,,,,,,,,,,,,37.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0740,,,,,,,,,,,,,,,,,,,70.0,f,G,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,unclear,unclear
+s0741,,,,,,,,,,,,,,,,,,,28.0,m,I,ct  intervention ,train,siemens,somatom definition edge,100.0,tumor,abdomen
+s0743,,,,,,,,,,,,,,,,,,,55.0,m,C,ct thorax-neck,train,siemens,emotion 16,110.0,tumor,"throat,thorax"
+s0744,,,,,,,,,,,,,,,,,,,48.0,m,I,ct angiography neck,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s0746,,,,,,,,,,,,,,,,,,,62.0,m,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0747,,,,,,,,,,,,,,,,,,,80.0,m,I,ct thorax-neck,val,siemens,somatom definition flash,100.0,other,thorax
+s0748,,,,,,,,,,,,,,,,,,,57.0,m,I,ct angiography head,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0749,,,,,,,,,,,,,,,,,,,75.0,m,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s0750,,,,,,,,,,,,,,,,,,,72.0,f,I,ct thorax-chest,train,siemens,somatom definition edge,80.0,no_pathology,no_location
+s0751,,489.0805454442117,,,,,,,,,,,170.90214580772596,154.80007460005157,,,,,66.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,"thorax,abdomen"
+s0752,,,,,,,,,,,,,,,,,,,62.0,m,E,ct thorax-neck,train,philips,ingenuity core 128,120.0,unclear,unclear
+s0753,,,,,,,,,,,,,,,,,,,72.0,m,C,ct thorax-neck,test,siemens,emotion 16,110.0,no_pathology,no_location
+s0754,,454.9742273160025,175.89601100044484,,,,,,,233.50509566593615,178.3380309258782,145.21874429123818,171.2706736558656,201.74260547664323,,,,238.03287446714458,60.0,m,I,ct polytrauma,train,siemens,somatom force,150.0,trauma,thorax
+s0756,,,,,,,,,,,,,,,,,,,67.0,m,I,ct angiography head,train,siemens,somatom force,80.0,vascular,throat
+s0759,,,,,,,,,,,,,,,,,,,80.0,f,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,thorax
+s0760,,,,,,,,,,,,,,,,,,,42.0,f,I,ct thorax-abdomen-pelvis,val,siemens,somatom force,110.0,no_pathology,no_location
+s0762,,,,,,,,,,,,,,,,,,,65.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,vascular,thorax
+s0763,,433.44388845786085,,,,,,,,,,,,,,,,,58.0,m,I,ct polytrauma,train,siemens,somatom force,110.0,trauma,thorax
+s0764,,,,,,,,,,,,,,,,,,,75.0,f,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,no_pathology,no_location
+s0765,,,,,,,,,,,,,,,,,,,54.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0766,,,,,,,,,,,,,,,,,,,61.0,m,I,ct angiography head,train,siemens,somatom definition as+,120.0,vascular,"head,throat"
+s0767,,,,,,,,,,,,,,,,,,,64.0,f,I,ct heart,train,siemens,somatom definition flash,100.0,vascular,thorax
+s0768,,,,,,,,,,,,,,,,,,,75.0,f,A,ct abdomen,train,siemens,somatom go.top,120.0,unclear,abdomen
+s0769,,,,,,,,,,,,,,,,,,,75.0,m,I,ct neck,train,siemens,somatom definition as+,100.0,inflammation,throat
+s0770,,,,,,,,,,,,,,,,,,,77.0,m,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,thorax
+s0771,,,,,,,,,,,,,,,,,,,55.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,other,thorax
+s0772,,,,,,,,,,,,,,,,,,,66.0,m,I,ct pelvis,train,siemens,somatom force,100.0,trauma,extremity
+s0773,,,,,,,,,,,,,,,,,,,47.0,m,I,ct heart,train,siemens,somatom definition flash,120.0,vascular,thorax
+s0774,,,,164.09473620052535,,,,,,,,,,,,389.3717421578581,378.9652958907952,,75.0,f,I,ct angiography pelvis-leg,train,siemens,somatom definition as+,100.0,bleeding,abdomen
+s0775,,,,,,,,,,,,,,,,,,,73.0,m,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,pelvis
+s0776,,,,,,,,,,,,,,,,,,,85.0,f,I,ct pelvis,train,siemens,somatom definition flash,140.0,trauma,abdomen
+s0777,,435.40841756566317,,,250.1532915079415,180.78827120216158,141.9955418965023,,,,,,,,,,,,74.0,m,I,ct polytrauma,train,siemens,somatom force,130.0,no_pathology,no_location
+s0778,,,,,,,,,,,,,,,,,,,57.0,m,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"thorax,abdomen"
+s0780,,,,,,,,,,,,,,,,,,,81.0,f,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,tumor,throat
+s0781,,,,,,,,,,,,,,,,,,,60.0,m,I,ct heart,train,siemens,somatom definition flash,120.0,vascular,thorax
+s0782,,,,,,,,,,,,,,,,,,,58.0,m,I,ct heart,train,siemens,somatom definition flash,120.0,vascular,thorax
+s0783,,,,,,,,,,,,,,,,432.5571392974151,,,57.0,m,I,ct upper leg left,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0784,,,,,,,,,,,,,,,,,,,73.0,f,I,ct angiography thorax,train,siemens,somatom definition flash,80.0,vascular,thorax
+s0785,,,,,,,,,,,,,,,,,,,56.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,no_pathology,no_location
+s0786,,,,,239.3214051904463,182.71788062555632,140.19202013184656,,,,,,,,,,,,29.0,f,I,ct polytrauma,train,siemens,somatom force,120.0,no_pathology,no_location
+s0787,,,,,,,,,,,,,,,,,,,79.0,m,I,ct left artrium,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0788,,,,,,,,,,,,,,,,,,,65.0,f,I,ct thorax-chest,train,siemens,somatom force,110.0,no_pathology,no_location
+s0789,,,,,,,,,,,,,,,,,,,50.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,tumor,throat
+s0790,,428.36649187383205,,,,,,,,239.50343784606048,176.78005315419045,141.12688521698183,,,,,,,40.0,f,I,ct polytrauma,train,siemens,somatom force,100.0,no_pathology,no_location
+s0791,,,,,,,,,,,,,,,,,,,74.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom force,100.0,vascular,thorax
+s0792,,,,,,,,,,,,,,,,,,,84.0,m,I,ct angiography head,val,siemens,somatom force,120.0,no_pathology,no_location
+s0793,,,,,,,,,,,,,,,,,,,65.0,f,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,inflammation,throat
+s0794,,,,,,,,,,,,,,,,,,,60.0,f,I,ct thorax-abdomen-pelvis,val,siemens,somatom definition edge,120.0,inflammation,thorax
+s0795,,,,,,,,,,,,,,,,,,,56.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,140.0,no_pathology,no_location
+s0796,,,,,,,,,,,,,,,,,,,82.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,"thorax,bones"
+s0797,,,,,,,,,,,,,,,,,,,63.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom force,100.0,tumor,abdomen
+s0798,,,,,,,,,,,,,,,,,,,56.0,f,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,no_pathology,no_location
+s0800,,,,,,,,,,,,,,,,,,,80.0,m,I,ct  intervention ,train,siemens,somatom definition edge,120.0,other,abdomen
+s0801,,,,,,,,,,,,,,,,,,,57.0,m,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"thorax,abdomen"
+s0802,,,,,,,,,,,,,,,,,,,64.0,m,A,ct neck-thorax-abdomen-pelvis,test,siemens,somatom go.top,120.0,tumor,"throat,thorax"
+s0804,,444.7088171473886,,,,,,,,,,,,,,,,,44.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom force,120.0,no_pathology,no_location
+s0805,,,,,,,,,,,,,,,,,,,65.0,f,I,ct thorax-neck,train,siemens,somatom force,90.0,tumor,thorax
+s0806,,,,,,,,,,,,,,,,,,,72.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom force,110.0,no_pathology,no_location
+s0807,,,,,,,,,,,,,,,,,,,65.0,m,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"thorax,abdomen"
+s0808,,,,,,,,,,,,,139.3640277228706,46.480033540127444,,,,,80.0,f,A,ct neck-thorax-abdomen-pelvis,val,siemens,somatom go.top,140.0,vascular,head
+s0809,,,,,,,,,,,,,,,,,,,53.0,f,I,ct neck,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s0810,,,,,,,,,,,,,,,,,,,74.0,m,I,ct thorax-neck,train,siemens,somatom force,120.0,inflammation,thorax
+s0811,,,,,,,,,,,,,,,,,,,27.0,m,I,ct thorax,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0812,,473.2590304178209,,,,,,,,237.69565318212233,176.67579888559402,145.50903068565498,169.82157618582315,218.17893717341974,,,,,60.0,m,I,ct polytrauma,train,siemens,somatom force,100.0,trauma,throat
+s0813,,,,,,,,,,,,,,,,,,,65.0,f,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,100.0,vascular,thorax
+s0814,,,,,,,,,,,,,,,,,,,51.0,f,I,ct neck,train,siemens,somatom force,90.0,inflammation,throat
+s0815,,,,,,,,,,,,,,,,,,,88.0,m,I,ct pelvis,train,siemens,somatom force,150.0,inflammation,pelvis
+s0816,,,,,,,,,,,,,,,,,,,66.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,140.0,tumor,abdomen
+s0818,,,,,,,,,,,,,,,,,,,34.0,m,I,ct pelvis,train,siemens,somatom definition flash,140.0,trauma,pelvis
+s0819,,,,,,,,,,,,,,,,,,,81.0,f,I,ct pelvis,train,siemens,somatom force,100.0,trauma,pelvis
+s0820,,,,,238.58352260159833,192.20795103361826,148.33581481432236,,,,,,,,,,,,78.0,m,I,ct angiography head,train,siemens,somatom definition flash,100.0,vascular,throat
+s0821,,,,,,,,,,,,,,,,,,,42.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,trauma,"thorax,throat"
+s0822,,,,,,,,,,,,,,,,,,,72.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,100.0,vascular,thorax
+s0824,,,,,,,,,,,,,,,,,,,78.0,m,A,ct neck-thorax-abdomen-pelvis,val,siemens,somatom go.top,120.0,tumor,"thorax,abdomen"
+s0825,,,,,,,,,,,,,,,,,,,70.0,f,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,80.0,vascular,thorax
+s0826,,,,,,,,,,,,,,,,,,,61.0,m,I,ct left artrium,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0829,,,,,,,,,,,,,,,,,,,59.0,f,A,ct neck-thorax-abdomen-pelvis,test,siemens,somatom go.top,120.0,tumor,"thorax,abdomen"
+s0830,,,,,,,,,,,,,,,,,,,84.0,m,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,inflammation,thorax
+s0831,,,,164.33777215217387,,,,,,,,,,,,431.9657615006134,434.72331639533184,,63.0,m,I,ct angiography pelvis-leg,train,siemens,somatom definition edge,100.0,vascular,abdomen
+s0832,,,,,,,,,,,,,,,,,,,86.0,m,I,ct heart,val,siemens,somatom definition flash,100.0,vascular,thorax
+s0833,,,,,,,,,,,,,,,,,,,82.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"thorax,abdomen"
+s0834,,,161.37920587715357,,,,,40.708624395146785,,,,,165.98549284447398,39.423238973968154,,,,,69.0,f,I,ct heart-thorakale aorta,train,siemens,somatom definition edge,100.0,vascular,thorax
+s0835,,,,,,,,,,,,,,,,,,,53.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0836,,,,,,,,,,,,,,,,,,,62.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0837,,,,,,,,,,,,,,,,,,,76.0,f,I,ct upper leg left,train,siemens,somatom definition flash,100.0,trauma,pelvis
+s0838,,,,,,,,,,,,,,,,,,,77.0,m,I,ct aortic valve,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0839,,,,,,,,,,,,,,,,,,,58.0,f,I,ct heart,val,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0840,,,,,,,,,,,,,,,,,,,75.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom force,110.0,no_pathology,no_location
+s0842,,,,,,,,,,,,,,,,,,,64.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,150.0,other,abdomen
+s0843,,,,,,,,,,,,,,,,,,,55.0,f,I,ct neck,train,siemens,somatom definition edge,120.0,tumor,throat
+s0844,,,148.28057805370648,,,,,37.05230579859078,,,,,,,,,,,49.0,f,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,no_pathology,no_location
+s0845,,,,,,,,,,,,,,,,,,,24.0,f,I,ct thorax-neck,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s0846,,,,,,,,,,,,,,,,,,,69.0,f,I,ct heart,train,siemens,somatom definition flash,100.0,vascular,thorax
+s0847,,,,,,,,,,,,,,,,,,,81.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0848,,,,,,,,,,,,,,,,,,,50.0,m,I,ct heart,train,siemens,somatom definition flash,100.0,vascular,thorax
+s0849,,,,,,,,,,227.5900130173272,170.2092659803819,137.7020737229314,,,,,,,79.0,m,I,ct angiography head,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s0850,,,,,,,,,,,,,,,,,,,63.0,f,I,ct upper leg left,train,siemens,somatom definition flash,100.0,trauma,extremity
+s0851,,,,,,,,,,,,,,,,,,,59.0,m,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0852,,,,,,,,,,,,,,,,,,,67.0,f,I,ct  intervention ,train,siemens,somatom definition edge,100.0,tumor,thorax
+s0853,,,,,,,,,,,,,,,,,,,65.0,f,I,ct neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0855,,,,,,,,,,,,,,,,,,,55.0,m,I,ct angiography head,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0857,,,,,,,,,,,,,,,,,,,41.0,f,I,ct angiography head,train,siemens,somatom definition flash,120.0,tumor,head
+s0858,,,,,,,,,,,,,,,,,,,77.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition edge,100.0,vascular,thorax
+s0859,,,,,,,,,,,,,,,,,,,70.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,thorax
+s0860,,,171.97518327435162,,,,,,,,,,,,,,,309.1544560601025,56.0,m,I,ct polytrauma,train,siemens,somatom force,130.0,trauma,thorax
+s0861,,,,,,,,,,,,,,,,,,,66.0,f,I,ct  operation,train,siemens,somatom definition as+,140.0,trauma,pelvis
+s0862,,,,,,,,,,,,,,,,,,,73.0,m,I,ct pelvis,train,siemens,somatom definition flash,100.0,trauma,pelvis
+s0863,,,,,,,,,,,,,,,,,,,61.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0864,,,,,,,,,,,,,,,,,,,57.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,no_pathology,no_location
+s0865,,,,,,,,,,,,,,,,,,,85.0,f,I,ct angiography head,train,siemens,somatom force,80.0,bleeding,head
+s0866,,,,,,,,,,,,,,,,,,,79.0,m,I,ct thorax,train,siemens,somatom force,100.0,inflammation,thorax
+s0867,,,,,,,,,,,,,,,,,,,75.0,f,I,ct thorax-neck,val,siemens,somatom definition edge,120.0,tumor,thorax
+s0868,,,,,,,,,,,,,,,,,,,79.0,f,I,ct neck,train,siemens,somatom definition flash,140.0,no_pathology,no_location
+s0869,,,,,,,,,,,,,,,,,,,75.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0870,,,,,,,,,,,,,,,,,,,82.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0871,,,,,,,,,,,,,,,,,,,74.0,f,I,ct angiography thorax,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s0873,,,,,,,,,,,,,,,,,,,63.0,f,I,ct pelvis,train,siemens,somatom force,100.0,no_pathology,no_location
+s0874,,,,,248.40704757061746,189.59978390964568,158.46354415135033,,,,,,,,,,,,77.0,m,I,ct neck,val,siemens,somatom definition flash,80.0,tumor,head
+s0875,,,,,,,,,,,,,,,,,,,72.0,m,I,ct neck,train,siemens,somatom definition edge,120.0,tumor,throat
+s0876,,,,,,,,,,,,,,,,,,,60.0,m,I,ct heart,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0877,,,,,,,,,,,,,,,,,,,47.0,f,I,ct heart,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0878,,,,,,,,,,,,,,,,,,,66.0,m,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"throat,thorax"
+s0879,,,,,,,,,,,,,,,,,,,72.0,m,I,ct heart,train,siemens,somatom definition flash,120.0,vascular,thorax
+s0880,,,,,,,,,,,,,,,,,,,72.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,thorax
+s0881,,,,,,,,,,,,,,,,,,,73.0,f,I,ct aortic valve,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0883,,,,,,,,,,,,,,,,,,,80.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,80.0,vascular,thorax
+s0884,,,,,,,,,,,,,,,,,,,56.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,inflammation,abdomen
+s0885,,,,,,,,,,,,,,,,,,,63.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,inflammation,thorax
+s0889,,,,,,,,,,,,,,,,,,,56.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,tumor,"thorax,throat"
+s0890,,,,,,,,,,,,,,,,,,,77.0,f,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0891,,,,,,,,,,,,,,,,,,,79.0,f,I,ct aortic valve,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0892,,,,,,,,,,,,,,,,,,,80.0,m,I,ct aortic valve,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0894,,,,,,,,,,,,,179.52099750289975,142.71464144932267,,,,,35.0,m,I,ct polytrauma,train,siemens,somatom force,100.0,trauma,thorax
+s0895,,,,,,,,,,,,,,,,,,,56.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition edge,120.0,other,thorax
+s0896,,,,,,,,,,,,,,,,,,,21.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"abdomen,bones"
+s0897,,,,,,,,,,,,,,,,,,,40.0,f,I,ct thorax-neck,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s0898,,,,,,,,,,,,,,,,,,,81.0,f,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0899,,,,,,,,,,,,,,,,,,,74.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,inflammation,abdomen
+s0901,,,,,,,,,,,,,,,,,,,74.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,80.0,vascular,thorax
+s0903,,,150.24733415238916,,,,,,,,,,,,,,,287.5595390723866,87.0,m,I,ct polytrauma,train,siemens,somatom force,100.0,no_pathology,no_location
+s0904,,423.7414731527374,,,,,,,,,,,,,,,,,82.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,abdomen
+s0907,,,,,,,,,,,,,,,,,,,73.0,m,I,ct pelvis,test,siemens,somatom force,100.0,trauma,extremity
+s0908,,,,,,,,,,,,,,,,,,,93.0,m,I,ct thorax,train,siemens,somatom force,120.0,no_pathology,no_location
+s0909,,,,,,,,,,,,,,,,,,,76.0,f,I,ct angiography neck,train,siemens,somatom force,90.0,no_pathology,no_location
+s0910,,,,,,,,,,,,,,,,,,,55.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,80.0,tumor,thorax
+s0911,,,,,,,,,,,,,,,,,,,68.0,f,I,ct left artrium,train,siemens,somatom definition edge,100.0,no_pathology,no_location
+s0912,,,,,,,,,,,,,,,,,,,68.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,thorax
+s0913,,,,,,,,,,,,,,,,,,,29.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0914,,,,,,,,,,,,,,,,,,,56.0,f,I,ct thorax-neck,train,siemens,somatom force,100.0,no_pathology,no_location
+s0915,,,,,,,,,,,,,,,,,,,71.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0916,,,,,,,,,,,,,,,,,,,65.0,m,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,no_pathology,no_location
+s0918,,,,,,,,,,,,,,,,,,,67.0,m,I,ct neck-thorax-abdomen-pelvis,val,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0919,,428.2033228328419,157.0183952882198,,29.52005772719595,21.081738526220548,1.572710877350859,39.73705396922312,,,,,,,,,,,65.0,f,I,ct aortic valve,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0921,,,,,,,,,,,,,,,,,,,51.0,m,I,ct pelvis,train,siemens,somatom force,100.0,other,pelvis
+s0922,,,,,,,,,,,,,,,,,,,74.0,m,I,ct angiography head,train,siemens,somatom force,120.0,no_pathology,no_location
+s0923,,436.41496831863253,,,,,,,,,,,,,,,,,43.0,f,I,ct neck-thorax-abdomen-pelvis,test,siemens,somatom definition edge,120.0,tumor,bones
+s0924,,,,,,,,,,,,,,,,,,,63.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0925,,,,,,,,,,,,,,,,,,,79.0,f,I,ct neck,train,siemens,somatom definition edge,120.0,inflammation,throat
+s0927,,434.84915639036984,153.08331042007967,,232.81896126169133,189.0901563260797,142.28589101292098,,,,,,153.0981767993785,,292.30928491769924,,,289.2758915100523,93.0,f,I,ct polytrauma,train,siemens,somatom force,110.0,trauma,thorax
+s0928,,,,,,,,,,,,,,,,,,,77.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,140.0,no_pathology,no_location
+s0930,,,131.0785426541812,,,,,54.01657916034961,,,,,,,,,,,53.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,pelvis
+s0931,,454.5695881262843,166.45275835961675,,90.46932286104354,75.8505881601076,27.66995149882944,54.90466576272484,,,,,183.42501016704952,57.230323357043574,,,,,86.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom force,100.0,no_pathology,no_location
+s0933,90.63712622706493,457.32204449520157,,193.1814143599207,246.75443300400133,181.89077372951124,147.22434916090958,,92.64426947605108,,,,,,,,,,55.0,f,I,ct polytrauma,test,siemens,somatom force,150.0,bleeding,extremity
+s0934,,,,,,,,,,,,,,,,,,,82.0,m,I,ct thorax-chest,train,siemens,somatom force,110.0,trauma,thorax
+s0935,,,,,,,,,,,,,,,,,,,79.0,m,I,ct aortic valve,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0936,,,,,,,,,,,,,,,,,,,67.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,80.0,vascular,thorax
+s0937,,,,191.67862887106293,,,,,,,,,,,,432.54811499985476,427.7198930971007,,79.0,m,I,ct angiography pelvis-leg,train,siemens,somatom definition edge,100.0,trauma,extremity
+s0938,,,,,,,,,,,,,,,,,,,83.0,f,I,ct  operation,train,siemens,somatom definition as+,120.0,trauma,pelvis
+s0939,,,,,,,,,,,,,,,,,,,73.0,m,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"abdomen,head"
+s0940,,,,,,,,,,,,,,,,,,,77.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom force,100.0,tumor,"abdomen,bones"
+s0941,,,,,,,,,,,,,,,,,,,77.0,m,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s0943,254.30876968962798,,,,,,,,,,,,,,,,,,69.0,m,I,ct upper leg left,train,siemens,somatom force,150.0,trauma,extremity
+s0944,,,,,,,,,,,,,,,,,,,61.0,f,I,ct pelvis,train,siemens,somatom definition flash,100.0,other,pelvis
+s0945,,,,,,,,,,,,,,,,,,,68.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,abdomen
+s0946,,,,,,,,,,,,,,,,,,,69.0,f,I,ct heart-thorakale aorta,train,siemens,somatom force,90.0,vascular,thorax
+s0947,,,,,,,,,,,,,,,,,,,28.0,m,I,ct pelvis,train,siemens,somatom definition flash,140.0,trauma,pelvis
+s0949,,,,,,,,,,,,,,,,,,,80.0,m,I,ct angiography head,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s0950,,,,,,,,,,,,,,,,,,,79.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"abdomen,bones"
+s0951,,,,,,,,,,,,,,,,,,,72.0,f,I,ct pelvis,test,siemens,somatom definition flash,100.0,trauma,extremity
+s0952,,,,,,,,,,,,,,,,,,,93.0,f,I,ct spine,train,siemens,somatom force,150.0,trauma,thorax
+s0953,,,,,,,,,,,,,,,,,,,56.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,"thorax,abdomen,pelvis,bones"
+s0954,,,,,,,,,,,,,,,,,,,64.0,m,I,ct heart-thorakale aorta,train,siemens,somatom force,80.0,no_pathology,no_location
+s0955,,,,,,,,,,,,,,,,,,,53.0,m,I,ct  intervention ,train,siemens,somatom definition edge,120.0,tumor,thorax
+s0956,,,,,,,,,,,,,,,,,,,65.0,m,I,ct heart,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0957,,,,,,,,,,,,,,,,,,,50.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,pelvis
+s0958,,,,,,,,,,,,,,,,,,,68.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,100.0,vascular,thorax
+s0959,,,,,,,,,,,,,,,,,,,47.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,"thorax,abdomen"
+s0960,,,,,,,,,,,,,,,,,,,56.0,m,I,ct angiography head,train,siemens,somatom force,80.0,no_pathology,no_location
+s0961,,,,,,,,,,,,,,,,,,,56.0,m,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"thorax,head"
+s0962,,,,,,,,,,,,,,,,,,,78.0,f,I,ct  operation,train,siemens,somatom definition as+,120.0,trauma,pelvis
+s0963,,,,,,,,,,,,,,,,,,,59.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,"abdomen,pelvis"
+s0965,,,,,,,,,,,,,,,,,,,64.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,90.0,other,abdomen
+s0968,,,,,,,,,,,,,,,,,,,75.0,f,I,ct  intervention ,train,siemens,somatom definition as+,100.0,tumor,thorax
+s0970,,443.46379898762495,170.18643119517702,,,,,,,230.65491257356103,178.60902860791373,134.48451351529346,153.95479717828795,,286.9462520223225,,,287.56334101133876,51.0,f,I,ct polytrauma,train,siemens,somatom force,100.0,no_pathology,no_location
+s0971,,,,,,,,,,,,,,,,,,,67.0,m,I,ct pelvis,train,siemens,somatom force,150.0,no_pathology,no_location
+s0972,,,,,,,,,,,,,,,,,,,76.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,80.0,vascular,thorax
+s0973,,,,,,,,,,,,,,,,,,,52.0,f,A,ct thorax-neck,train,siemens,somatom go.top,120.0,tumor,"throat,thorax"
+s0974,,,,,,,,,,,,,,,,,,,77.0,f,I,ct angiography head,train,siemens,somatom definition flash,100.0,vascular,throat
+s0975,,,,,,,,,,,,,,,,,,,71.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0976,,,,,,,,,,,,,,,,,,,58.0,m,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"thorax,abdomen"
+s0977,,,,,,,,,,,,,,,,,,,66.0,m,I,ct heart,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0978,,,,,,,,,,,,,,,,,,,56.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition edge,100.0,no_pathology,no_location
+s0979,,,,,,,,,,,,,,,,,,,74.0,m,F,ct abdomen ,train,philips,brilliance 64,120.0,unclear,unclear
+s0980,,,,,,,,,,,,,,,,,,,79.0,f,I,ct heart,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s0981,,,,,,,,,,,,,,,,,,,94.0,m,I,ct pelvis,train,siemens,somatom force,100.0,trauma,extremity
+s0982,92.20112237777752,484.87800720959876,205.6975390499331,182.52090368352427,,,,10.030759779584843,126.65149845286166,,,,162.6828181185345,19.829672331749983,,,,,56.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,other,abdomen
+s0983,,,,,,,,,,,,,,,,,,,67.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,thorax
+s0984,,,,,,,,,,,,,,,,,,,44.0,m,I,ct angiography head,train,siemens,somatom definition flash,100.0,vascular,head
+s0985,,,,,,,,,,,,,,,,,,,73.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"throat,thorax"
+s0986,,,149.25754090833777,,,,,188.497924404386,,,,,,,,,,,88.0,f,I,ct polytrauma,train,siemens,somatom force,110.0,trauma,"thorax,abdomen,pelvis"
+s0987,,,,,,,,,,,,,,,,,,,62.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,100.0,vascular,thorax
+s0988,,,,,,,,,,,,,,,,,,,79.0,m,I,ct polytrauma,train,siemens,somatom force,120.0,no_pathology,no_location
+s0989,,,,,,,,,,,,,,,,,,,81.0,f,A,ct abdomen,train,siemens,somatom go.top,140.0,tumor,abdomen
+s0991,,,,,,,,,,,,,,,,,,,71.0,f,A,ct thorax-abdomen-pelvis,val,siemens,somatom go.top,120.0,tumor,"thorax,abdomen"
+s0992,,,,,,,,,,,,,,,,,,,54.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,thorax
+s0993,,,,,,,,,,,,,,,,,,,63.0,m,I,ct angiography head,train,siemens,somatom definition flash,100.0,vascular,head
+s0994,,,,,,,,,,,,,,,,,,,79.0,m,A,ct neck-thorax-abdomen-pelvis,test,siemens,somatom go.top,120.0,trauma,abdomen
+s0995,,,,,,,,,,,,,,,,,,,71.0,m,I,ct  intervention ,train,siemens,somatom definition edge,100.0,tumor,thorax
+s0996,,,,,,,,,,,,,,,,,,,67.0,f,I,ct  intervention ,train,siemens,somatom definition edge,100.0,tumor,thorax
+s0997,,,,,,,,,,,,,,,,,,,90.0,f,B,ct head ,train,philips,iqon - spectral ct,120.0,unclear,unclear
+s0999,,,,,,,,,,,,,,,,,,,59.0,f,I,ct thorax-neck,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s1000,,,,,,,,,,,,,,,,,,,47.0,m,I,ct upper leg left,train,siemens,somatom definition flash,140.0,tumor,extremity
+s1001,,,,,,,,,,,,,,,,,,,84.0,f,I,ct neck,train,siemens,somatom definition flash,80.0,tumor,throat
+s1002,,,,,,,,,,,,,,,,,,,67.0,m,I,ct aortic valve,val,siemens,somatom definition flash,120.0,no_pathology,no_location
+s1003,,,,,,,,,,,,,,,,,,,69.0,m,I,ct angiography head,train,siemens,somatom force,70.0,vascular,head
+s1004,,,,,,,,,,,,,,,,,,,76.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,vascular,"thorax,abdomen"
+s1005,,,,,,,,,,,,,,,,,,,57.0,m,I,ct pelvis,train,siemens,somatom definition flash,140.0,tumor,bones
+s1006,,,,,,,,,,,,,,,,,,,67.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,abdomen
+s1007,,,,,,,,,,,,,,,,,,,77.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s1008,,,,,,,,,,,,,,,,,,,76.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+s1009,,,,,,,,,,,,,,,,,,,77.0,m,I,ct pelvis,train,siemens,somatom force,150.0,no_pathology,no_location
+s1010,,,,,,,,,,,,,,,,,,,42.0,m,I,ct neck,train,siemens,somatom force,90.0,inflammation,throat
+s1011,,,,,,,,,,,,,,,,,,,49.0,m,G,ct head ,train,siemens,biograph128,120.0,unclear,unclear
+s1012,,,,,,,,,,,,,,,,,,,46.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1013,,,,,,,,,,,,,,,,,,,80.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s1014,,,,,,,,,,,,,,,,,,,70.0,f,I,ct angiography head,train,siemens,somatom force,120.0,no_pathology,no_location
+s1015,,,,,,,,,,,,,,,,,,,80.0,m,I,ct angiography head,train,siemens,somatom force,80.0,vascular,throat
+s1016,,,180.62006015191508,,,,,,,,,,,,,,,307.00628017464857,79.0,m,I,ct polytrauma,train,siemens,somatom force,130.0,no_pathology,no_location
+s1017,,,,,,,,,,,,,,,,,,,84.0,f,I,ct spine,val,siemens,somatom force,150.0,trauma,"thorax,abdomen"
+s1018,,,,,,,,,,,,,,,,,,,85.0,f,I,ct aortic valve,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1020,,,,,,,,,,,,,,,,,,,60.0,m,I,ct  operation,train,siemens,somatom definition as+,120.0,trauma,pelvis
+s1021,,,,,,,,,,,,,,,,,,,69.0,f,I,ct left artrium,train,siemens,somatom force,70.0,no_pathology,no_location
+s1022,,,,,,,,,,,,,,,,,,,87.0,m,I,ct aortic valve,train,siemens,somatom force,120.0,no_pathology,no_location
+s1023,,,194.43515106107196,,,,,46.89427167835993,,,,,,,,,,,64.0,m,I,ct thorax-neck,train,siemens,somatom force,100.0,inflammation,"throat,thorax"
+s1024,,,,,,,,,,,,,,,,,,,31.0,m,I,ct thorax-abdomen-pelvis,val,siemens,somatom definition flash,120.0,tumor,"thorax,abdomen"
+s1025,,,,,,,,,,,,,,,,,,,63.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s1026,,,,,,,,,,,,,,,,,,,76.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom force,110.0,inflammation,abdomen
+s1028,,,,,,,,,,,,,,,,,,,65.0,m,I,ct thorax-chest,train,siemens,somatom force,90.0,inflammation,thorax
+s1029,,440.2585573355563,,,229.95194202564085,182.5638955876517,139.5798270776358,,,,,,,,332.38401549615566,,,329.243016919025,71.0,m,I,ct polytrauma,train,siemens,somatom force,100.0,trauma,"thorax,abdomen"
+s1031,,,,,,,,,,,,,,,,,,,69.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+s1032,,,,,,,,,,,,,,,,,,,62.0,m,I,ct angiography head,train,siemens,somatom definition edge,100.0,vascular,throat
+s1033,,,,,,,,,,,,,,,,,,,77.0,m,I,ct heart,train,siemens,somatom definition flash,120.0,vascular,thorax
+s1034,,,,,,,,,,227.60879937842157,177.71823569709755,132.68717766933673,,,,,,,67.0,f,I,ct angiography head,train,siemens,somatom definition edge,100.0,vascular,thorax
+s1035,,,,,,,,,,,,,,,,,,,21.0,f,I,ct thorax-neck,train,siemens,somatom force,90.0,inflammation,"throat,thorax"
+s1036,,,,,,,,,,,,,,,,,,,78.0,f,I,ct neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1037,,,,,,,,,,,,,,,,,,,71.0,f,E,ct abdomen ,train,philips,ingenuity core 128,120.0,unclear,unclear
+s1038,,,170.83442004171735,,,,,43.680889304988,,,,,,,,,,,58.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,thorax
+s1039,,,,,,,,,,,,,,,,,,,63.0,f,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1040,,,,,,,,,,,,,,,,,,,46.0,m,I,ct angiography head,train,siemens,somatom force,80.0,vascular,throat
+s1041,,,,,,,,,,,,,,,,,,,92.0,f,I,ct pelvis,train,siemens,somatom force,150.0,trauma,extremity
+s1042,,,,,,,,,,,,,,,,,,,40.0,m,I,ct thorax,train,siemens,somatom force,90.0,vascular,thorax
+s1043,,,,,,,,,,,,,,,,,,,27.0,m,I,ct neck,train,siemens,somatom force,90.0,inflammation,throat
+s1044,,,,,,,,,,,,,,,,,,,71.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,"thorax,bones"
+s1045,101.22168657693194,482.55115036867755,,168.4545692512153,238.00715163406727,180.91077653914604,141.74044143551248,,90.33469762422551,,,,168.1497757066054,,336.59246616022205,,,,62.0,m,I,ct polytrauma,train,siemens,somatom force,100.0,no_pathology,no_location
+s1046,104.27724361764915,435.3941223206914,187.65323548975473,170.7986306722373,,,,43.19201179360607,92.58166449967266,,,,188.8073318787917,43.27168917196624,,,,,72.0,m,I,ct thorax-abdomen-pelvis,val,siemens,somatom force,100.0,no_pathology,no_location
+s1047,,,,,,,,,,,,,,,,,,,52.0,f,I,ct angiography head,train,siemens,somatom definition flash,100.0,vascular,head
+s1048,,,,,,,,,,,,,,,,,,,40.0,f,I,ct  intervention ,train,siemens,somatom definition edge,120.0,inflammation,abdomen
+s1049,,,,,,,,,,,,,,,,,,,63.0,m,I,ct left artrium,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1050,,,,,,,,,,,,,,,,,,,83.0,f,I,ct pelvis,train,siemens,somatom force,100.0,trauma,extremity
+s1051,,,,,,,,,,,,,,,,,,,79.0,f,I,ct neck,test,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1052,,,,,,,,,,,,,,,,,,,71.0,m,I,ct heart-thorakale aorta,train,siemens,somatom force,90.0,no_pathology,no_location
+s1053,,,,,,,,,,,,,,,,,,,59.0,f,I,ct upper leg left,test,siemens,somatom force,100.0,tumor,bones
+s1055,,,,,,,,,,,,,,,,,,,55.0,m,I,ct orbita,train,siemens,somatom definition edge,120.0,inflammation,head
+s1056,,,,,,,,,,,,,,,,,,,48.0,m,I,ct angiography head,train,siemens,somatom definition edge,100.0,vascular,head
+s1057,,,,,,,,,,,,,,,,,,,71.0,f,A,ct pelvis,test,ge,discovery ste,120.0,no_pathology,no_location
+s1058,,,,,,,,,,,,,,,,,,,62.0,m,A,ct thorax-chest,train,ge,discovery ste,120.0,tumor,thorax
+s1059,,,,,,,,,,,,,,,,,,,64.0,m,I,ct neck,val,siemens,somatom definition flash,80.0,tumor,throat
+s1060,,,,,,,,,,,,,,,,,,,64.0,m,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,tumor,throat
+s1061,,,,,,,,,,,,,,,,,,,44.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,abdomen
+s1062,,461.9933783003488,,,,,,,,,,,,,,,,,73.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom force,120.0,no_pathology,no_location
+s1063,,,,,,,,,,,,,,,,,,,49.0,f,A,ct thorax-abdomen-pelvis,train,ge,discovery ste,120.0,tumor,abdomen
+s1065,,,,,,,,,,,,,,,,,,,47.0,m,I,ct  operation,train,siemens,somatom definition as+,100.0,trauma,pelvis
+s1066,,,,,,,,,,,,,,,,,,,53.0,m,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,tumor,throat
+s1067,,,,,,,,,,,,,,,,,,,38.0,f,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1068,,,,,,,,,,,,,,,,,,,22.0,f,I,ct pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1069,,,,,,,,,,,,,,,,,,,71.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,no_pathology,no_location
+s1070,,,,,,,,,,,,,,,,,,,37.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,no_pathology,no_location
+s1071,,,,,,,,,,,,,,,,,,,68.0,m,I,ct neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1072,,,,,,,,,,,,,,,,,,,88.0,f,I,ct angiography head,train,siemens,somatom force,100.0,no_pathology,no_location
+s1073,,,,,,,,,,,,,,,,,,,70.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition edge,100.0,vascular,thorax
+s1075,,,,,,,,,,,,,,,,,,,66.0,f,I,ct angiography head,test,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1077,,,,,,,,,,,,,,,,,,,81.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,100.0,vascular,thorax
+s1079,,,,,,,,,,,,,,,,,,,63.0,m,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,tumor,throat
+s1082,,493.82002706196147,170.2638734791283,,246.6664188413952,187.22723702183157,152.33549144903157,,,,,,191.7113459643751,,313.81391829109174,,,311.27908677001733,69.0,m,I,ct polytrauma,train,siemens,somatom force,110.0,trauma,extremity
+s1083,,,,,24.69736620810599,11.787520576095918,6.331055905069604,,,,,,141.54662408418778,35.45546740231158,,,,,85.0,f,I,ct heart-thorakale aorta,train,siemens,somatom force,90.0,vascular,thorax
+s1084,,,,,,,,,,,,,,,,,,,41.0,m,I,ct heart,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s1085,,,,,,,,,,,,,,,,,,,76.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"thorax,throat,abdomen"
+s1086,,,,,,,,,,,,,,,,,,,45.0,m,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,"thorax,abdomen"
+s1088,,473.8674749744558,,,242.39757130220767,185.6162973764948,147.7642272241386,,,,,,,,,,,,90.0,m,I,ct polytrauma,train,siemens,somatom force,110.0,trauma,thorax
+s1089,,496.17738799664323,,,,,,,,,,,,,,,,,65.0,m,I,ct polytrauma,train,siemens,somatom definition edge,120.0,trauma,thorax
+s1090,,,,,,,,,,,,,,,,,,,80.0,m,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,"abdomen,bones"
+s1093,,,,,,,,,,,,,,,,,,,65.0,f,I,ct neck,train,siemens,somatom force,90.0,tumor,throat
+s1094,,,,,,,,,,,,,,,,,,,68.0,f,I,ct angiography neck-thx-abd-pelvis-leg,test,siemens,somatom definition edge,100.0,no_pathology,no_location
+s1096,,,,,,,,,,,,,,,,,,,81.0,m,I,ct  intervention ,test,siemens,somatom definition edge,120.0,tumor,thorax
+s1097,,,,,,,,,,,,,,,,,,,60.0,f,I,ct left artrium,train,siemens,somatom definition edge,80.0,no_pathology,no_location
+s1098,,,,171.02467239732744,,,,,,,,,,,,413.6821499116348,418.6325843125858,,56.0,f,A,ct pelvis,train,ge,lightspeed vct,120.0,tumor,bones
+s1099,,,,,,,,,,,,,,,,,,,52.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"thorax,abdomen"
+s1100,,,,,,,,,,,,,,,,,,,59.0,f,I,ct thorax-chest,train,siemens,somatom definition edge,100.0,inflammation,thorax
+s1101,,,,,,,,,,,,,,,,,,,76.0,f,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,"thorax,abdomen"
+s1102,,,,,,,,,,,,,,,,,,,22.0,m,I,ct thorax-chest,train,siemens,somatom definition edge,120.0,other,thorax
+s1103,,,,172.16037867512262,,,,,,,,,,,,434.2897675527388,432.1100735189597,,71.0,m,I,ct angiography pelvis-leg,train,siemens,somatom force,80.0,vascular,"abdomen,pelvis"
+s1104,,,,162.94003202091102,,,,,,,,,,,,449.55397355955154,453.89305203729134,,57.0,m,I,ct angiography pelvis-leg,train,siemens,somatom definition as+,100.0,inflammation,extremity
+s1105,,391.39698126721396,,,,,,,,,,,,,,,,,78.0,f,I,ct aortic valve,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s1106,,,,,,,,,,,,,,,,,,,43.0,m,I,ct heart,val,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1107,,,,,255.0171192000249,200.13328171740903,147.65265234554846,,,,,,,,,,,,57.0,m,I,ct angiography head,train,siemens,somatom force,80.0,no_pathology,no_location
+s1109,,,,,,,,,,,,,,,,,,,72.0,f,I,ct  intervention ,train,siemens,somatom definition edge,120.0,tumor,abdomen
+s1110,,,,,,,,,,,,,,,,,,,49.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,tumor,throat
+s1111,,,,,,,,,,,,,,,,,,,70.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,150.0,no_pathology,no_location
+s1112,,,,,236.76120814858703,185.53607290712324,143.34437348788111,,,,,,,,,,,,74.0,f,I,ct angiography neck,test,siemens,somatom force,100.0,vascular,throat
+s1113,,,,,243.67036553090406,188.74809779848437,147.30019580250345,,,,,,,,,,,,81.0,m,I,ct angiography head,train,siemens,somatom definition edge,120.0,vascular,throat
+s1114,,,,,,,,,,,,,,,,,,,55.0,m,I,ct neck,train,siemens,somatom force,150.0,tumor,throat
+s1115,,,,,,,,,,,,,,,,,,,66.0,m,I,ct angiography head,train,siemens,somatom force,80.0,vascular,throat
+s1119,,,,,,,,,,,,,,,,,,,50.0,m,A,ct neck-thorax-abdomen-pelvis,test,ge,lightspeed vct,120.0,tumor,thorax
+s1120,,,,,,,,,,,,,,,,,,,55.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1121,,,,163.17817193106868,,,,,,,,,,,,382.07125859422996,380.6199883805505,,30.0,f,I,ct angiography pelvis-leg,test,siemens,somatom force,80.0,no_pathology,no_location
+s1122,,,,,,,,,,,,,,,,,,,65.0,f,I,ct left artrium,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1123,,486.86801085032386,,,259.56168825796635,192.3586985617912,138.221323911455,,,,,,,,,,,,48.0,m,I,ct polytrauma,train,siemens,somatom force,150.0,trauma,thorax
+s1124,,470.960722597637,,,,,,,,,,,,,,,,,72.0,m,I,ct polytrauma,train,siemens,somatom force,90.0,trauma,throat
+s1125,,,,,,,,,,,,,,,,,,,91.0,m,I,ct angiography pelvis-leg,train,siemens,somatom force,150.0,trauma,pelvis
+s1127,,,,,,,,,,,,,,,,,,,69.0,f,J,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,tumor,thorax
+s1128,,,,,,,,,,,,,,,,,,,82.0,f,I,ct pelvis,train,siemens,somatom force,100.0,no_pathology,no_location
+s1129,,,,,236.30410786804129,184.99184532095504,146.2589077140587,,,,,,,,,,,,85.0,m,I,ct angiography head,train,siemens,somatom force,80.0,no_pathology,no_location
+s1130,,,,,,,,,,,,,,,,,,,82.0,m,B,ct abdomen ,train,philips,iqon - spectral ct,120.0,unclear,unclear
+s1131,,,,,,,,,,,,,,,,,,,42.0,f,F,ct abdomen ,train,philips,brilliance 64,120.0,unclear,unclear
+s1132,,,,,,,,,,,,,,,,,,,67.0,f,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1133,,,,,,,,,,,,,,,,,,,83.0,f,I,ct heart-thorakale aorta,val,siemens,somatom definition flash,100.0,vascular,thorax
+s1134,,,,,,,,,,,,,,,,,,,63.0,m,I,ct heart-thorakale aorta,train,siemens,somatom force,80.0,inflammation,thorax
+s1135,,,,,,,,,,,,,,,,,,,52.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+s1136,,,,,,,,,,,,,,,,,,,73.0,f,I,ct pelvis,train,siemens,somatom force,100.0,no_pathology,no_location
+s1137,189.2284536287378,,,,,,,,,,,,,,,,,,52.0,m,I,ct pelvis,train,siemens,somatom force,80.0,no_pathology,no_location
+s1138,,,,,253.12851584601106,187.4330349222182,138.61856354267036,,,,,,,,,,,,58.0,f,I,ct angiography head,train,siemens,somatom force,80.0,no_pathology,no_location
+s1140,,,,,,,,,,,,,,,,,,,72.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,other,thorax
+s1141,,,,,,,,,,,,,,,,,,,87.0,f,I,ct pelvis,train,siemens,somatom force,110.0,trauma,pelvis
+s1142,,,,,,,,,,,,,,,,,,,69.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,vascular,thorax
+s1143,,,,,,,,,,,,,,,,,,,70.0,m,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,"throat,thorax"
+s1144,,,,,,,,,,,,,,,,,,,78.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,80.0,tumor,throat
+s1145,,,,,,,,,,,,,,,,,,,57.0,f,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,"thorax,abdomen,bones"
+s1146,,,,,,,,,,,,,,,,,,,79.0,f,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1147,,,,,,,,,,,,,,,,,,,37.0,f,I,ct angiography head,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s1148,,,,,,,,,,,,,,,,,,,85.0,f,I,ct angiography head,train,siemens,somatom force,120.0,no_pathology,no_location
+s1149,,,,,,,,,,,,,,,,,,,80.0,m,E,ct abdomen ,train,philips,ingenuity core 128,120.0,unclear,unclear
+s1150,,,,,,,,,,,,,,,,,,,45.0,f,E,ct head ,train,philips,ingenuity core 128,100.0,unclear,unclear
+s1151,,,,,,,,,,,,,,,,,,,49.0,m,I,ct angiography pelvis-leg,train,siemens,somatom force,90.0,no_pathology,no_location
+s1152,,425.7645223961025,147.3825932083036,,240.7892953892989,188.30073696317874,143.40539253304522,,,,,,155.1038827564621,,276.4387751406179,,,283.6918194832619,76.0,f,I,ct polytrauma,test,siemens,somatom force,150.0,trauma,thorax
+s1153,,,,,,,,,,,,,,,,,,,42.0,f,E,ct abdomen ,train,philips,ingenuity core 128,120.0,unclear,unclear
+s1154,,,,,,,,,,240.70397692883682,172.87088790257405,134.57892215938386,,,,,,,69.0,m,I,ct angiography head,train,siemens,somatom force,90.0,no_pathology,no_location
+s1155,,,,,,,,,,,,,,,,,,,66.0,f,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1156,,,,,,,,,,,,,,,,,,,54.0,m,I,ct upper leg left,train,siemens,somatom force,150.0,inflammation,extremity
+s1157,,,,,,,,,,,,,,,,,,,42.0,f,I,ct thorax,train,siemens,somatom force,120.0,no_pathology,no_location
+s1158,,,,,,,,,,,,,,,,,,,56.0,m,I,ct thorax-neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1159,,448.3285642143614,149.47492515584483,,,,,,,213.38630494107508,164.345387506749,137.25360893059405,,,,,,292.387547451014,47.0,f,I,ct polytrauma,train,siemens,somatom force,110.0,no_pathology,no_location
+s1161,,462.52224110421173,,,244.8163167632779,183.27779396385296,138.7824122226014,,,,,,,,,,,,52.0,m,I,ct polytrauma,val,siemens,somatom force,150.0,trauma,abdomen
+s1162,,,,,,,,,,,,,,,,,,,42.0,f,A,ct thorax-chest,train,ge,lightspeed vct,120.0,tumor,extremity
+s1163,,,,,,,,,,,,,,,,,,,79.0,m,I,ct angiography head,train,siemens,somatom force,80.0,no_pathology,no_location
+s1164,,,,,,,,,,,,,,,,,,,66.0,m,I,ct thorax-neck,train,siemens,somatom definition flash,100.0,tumor,thorax
+s1165,,,,,,,,,,,,,,,,,,,78.0,f,I,ct spine,train,siemens,somatom force,150.0,tumor,thorax
+s1167,,,,,,,,,,,,,,,,,,,65.0,f,I,ct thorax,train,siemens,somatom definition edge,100.0,no_pathology,no_location
+s1168,,,,,,,,13.124404748406688,,,,,,,,,,,52.0,m,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,abdomen
+s1169,,,,,,,,,,,,,,,,,,,71.0,m,I,ct neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1170,,,,,,,,,,,,,,,,371.71971569495867,,,90.0,f,I,ct upper leg left,train,siemens,somatom definition edge,120.0,trauma,extremity
+s1171,,,,,246.1921181093837,182.36331336781035,144.9725415541829,,,,,,141.8307002525761,,319.88629534948365,,,,26.0,m,I,ct polytrauma,train,siemens,somatom force,100.0,trauma,extremity
+s1172,,,,,,,,,,,,,,,,,,,21.0,m,I,ct angiography thorax,train,siemens,somatom definition as+,100.0,vascular,thorax
+s1173,,,,,,,,,,,,,,,,,,,67.0,f,A,ct thorax-chest,train,ge,lightspeed vct,120.0,tumor,"thorax,abdomen"
+s1174,99.07364261731192,475.01150227628386,182.75378132468373,171.0392511607378,,,,44.68936603878137,93.39827846787811,,,,170.3367391907094,40.44114574263451,,,,,61.0,m,I,ct thorax-abdomen-pelvis,test,siemens,somatom force,100.0,no_pathology,no_location
+s1175,,,,,,,,,,,,,,,,,,,64.0,m,I,ct  intervention ,train,siemens,somatom definition edge,120.0,tumor,thorax
+s1176,,,,,,,,,,,,,,,,,,,43.0,f,I,ct thorax-abdomen-pelvis,test,siemens,somatom definition flash,140.0,tumor,abdomen
+s1177,,,,,,,,,,,,,,,,,,,50.0,m,I,ct orbita,train,siemens,somatom definition flash,120.0,trauma,head
+s1178,,,,,,,,,,,,,,,,,,,57.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,inflammation,extremity
+s1179,,,,,,,,,,,,,,,,,,,93.0,f,I,ct angiography thorax,train,siemens,somatom force,90.0,trauma,thorax
+s1182,,,,,,,,,,,,,,,,,,,81.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1183,,,,,,,,,,,,,,,,,,,62.0,m,E,ct abdomen ,train,philips,ingenuity core 128,120.0,unclear,unclear
+s1184,,,,,239.5175775084848,182.35517470074666,142.89781541475588,,,,,,,,,,,,80.0,m,I,ct angiography head,test,siemens,somatom force,80.0,no_pathology,no_location
+s1185,,,,,,,,,,,,,,,,,,,24.0,f,I,ct neck,train,siemens,somatom force,90.0,inflammation,throat
+s1187,,,,,,,,,,,,,,,,,,,62.0,m,E,ct abdomen ,train,philips,ingenuity core 128,120.0,unclear,unclear
+s1189,,,,,,,,,,,,,,,,,,,41.0,f,E,ct polytrauma,train,philips,ingenuity core 128,120.0,unclear,unclear
+s1190,,,,,,,,,,,,,,,,,,,62.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,100.0,vascular,thorax
+s1191,,,,,,,,,,,,,,,,,,,66.0,m,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,throat
+s1192,,,,,252.26807317846053,190.25942884999913,144.38750918789913,,,,,,,,,,,,71.0,m,I,ct angiography head,test,siemens,somatom definition flash,120.0,vascular,head
+s1194,,,,,,,,,,234.3746768037483,170.10485297603836,140.48467653566368,,,,,,,18.0,m,A,ct head ,train,ge,lightspeed vct,120.0,unclear,unclear
+s1195,,,,,,,,,,,,,,,,,,,51.0,m,I,ct neck,test,siemens,somatom definition edge,120.0,trauma,"throat,thorax"
+s1196,,,,,,,,,,,,,,,,,,,70.0,f,I,ct chest,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1197,,,,,,,,,,,,,,,,,,,85.0,f,I,ct thorax-abdomen-pelvis,val,siemens,somatom definition flash,100.0,tumor,pelvis
+s1199,,,,,,,,,,,,,,,,,,,65.0,m,A,ct thorax-chest,val,ge,lightspeed vct,120.0,no_pathology,no_location
+s1201,,,,,,,,,,,,,,,,,,,75.0,m,I,ct angiography thorax,train,siemens,somatom definition edge,120.0,vascular,thorax
+s1203,,,,,,,,,,,,,,,,,,,81.0,m,I,ct thorax-chest,train,siemens,somatom force,100.0,no_pathology,no_location
+s1205,,,,,,,,,,,,,,,,,,,47.0,m,G,ct abdomen ,train,siemens,somatom definition flash,100.0,unclear,unclear
+s1206,,453.56510925094864,,,,,,,,,,,,,,,,,62.0,m,I,ct polytrauma,train,siemens,somatom force,120.0,inflammation,thorax
+s1207,,,,,,,,,,,,,,154.27307998792682,,,,,83.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,thorax
+s1208,,447.39476795250187,,,,,,,,,,,,,,,,,67.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,vascular,thorax
+s1209,,,,,,,,,,,,,,,,,,,74.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,other,abdomen
+s1210,,,,,,,,,,,,,,,,,,,80.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,pelvis
+s1212,,,,,,,,,,,,,,,,,,,70.0,f,F,ct abdomen ,test,philips,brilliance 64,100.0,unclear,unclear
+s1215,,,,,,,,,,,,,,,,,,,57.0,m,I,ct polytrauma,train,siemens,somatom force,140.0,trauma,extremity
+s1216,,,,,,,,,,,,,,,,,,,55.0,f,A,ct thorax-chest,train,ge,lightspeed vct,120.0,other,abdomen
+s1218,,,,,,,,,,,,,,,,,,,31.0,f,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1220,,,,,,,,,,,,,,,,,,,23.0,m,I,ct neck,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1221,,,,,,,,,,,,,,,,,,,78.0,m,I,ct thorax,train,siemens,somatom definition edge,120.0,inflammation,thorax
+s1222,,,,,,,,,,,,,,,,,,,64.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,bones
+s1223,,,,,,,,,,,,,,,,,,,54.0,f,I,ct thorax-abdomen-pelvis,val,siemens,somatom definition flash,100.0,tumor,"abdomen,pelvis"
+s1224,,,,,,,,,,,,,,,,,,,72.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1225,,,,,,,,,,,,,,,,,,,69.0,f,I,ct angiography thorax,train,siemens,somatom definition edge,100.0,vascular,"thorax,abdomen,pelvis"
+s1226,,,,,,,,,,,,,,,,,,,74.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition edge,120.0,vascular,"abdomen,pelvis"
+s1227,,,,,,,,,,,,,,,,,,,61.0,f,I,ct  operation,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s1228,,,,,,,,,,,,,,,,,,,62.0,f,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1230,,472.7719441752485,,,,,,,,,,,,,,,,,82.0,m,I,ct aortic valve,train,siemens,somatom force,120.0,no_pathology,no_location
+s1231,,,,,,,,,,,,,,,,,,,67.0,f,I,ct angiography head,train,siemens,somatom definition edge,100.0,vascular,head
+s1233,,,,,,,,,,,,,,,,,,,88.0,f,I,ct thorax-abdomen-pelvis,val,siemens,somatom definition flash,140.0,no_pathology,no_location
+s1234,216.6192686026021,,,145.72741912010693,,,,,214.4002208331675,,,,,,,,,,57.0,f,I,ct angiography pelvis-leg,train,siemens,somatom definition as+,100.0,trauma,extremity
+s1235,,,,,,,,,,,,,,,,,,,73.0,f,I,ct thorax-chest,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1236,,,,,,,,,,,,,,,,,,,69.0,f,I,ct  intervention ,train,siemens,somatom definition as,120.0,tumor,abdomen
+s1237,,,,,,,,,,,,,,,,,,,83.0,f,I,ct heart,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1238,,,,,,,,,,,,,172.8457072834104,119.24701764052607,,,,,64.0,m,I,ct thorax-abdomen-pelvis,val,siemens,somatom definition as+,120.0,inflammation,thorax
+s1239,,,,,,,,,,,,,,,,,,,52.0,m,I,ct left artrium,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1240,,,,,,,,,,,,,,,,,,,62.0,f,A,ct thorax-chest,test,ge,lightspeed vct,120.0,tumor,"thorax,abdomen,pelvis"
+s1241,,,,,,,,,,,,,,,,,,,73.0,f,F,ct abdomen ,train,philips,brilliance 64,120.0,unclear,unclear
+s1242,,,,,,,,,,,,,,,,,,,56.0,m,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1243,,,,,,,,,,,,,,,,,,,65.0,m,I,ct left artrium,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1244,,,,,,,,,,,,,,,,,,,68.0,m,E,ct abdomen ,train,philips,ingenuity core 128,120.0,unclear,unclear
+s1245,,,,,,,,,,,,,,,,,,,70.0,f,I,ct thorax,train,siemens,somatom definition edge,120.0,inflammation,thorax
+s1246,,,,,,,,,,,,,,,,,,,61.0,m,I,ct  operation,train,siemens,somatom definition as+,120.0,trauma,pelvis
+s1247,,,,,,,,,,,,,,,,,,,27.0,f,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,thorax
+s1248,,388.0891336196355,150.5966121684922,,,,,51.062779218796976,,,,,,,,,,,83.0,f,I,ct aortic valve,test,siemens,somatom definition flash,120.0,vascular,thorax
+s1249,,470.7030681186444,153.26671652174392,,,,,,,238.57095754205807,176.49385697140738,149.77100197968076,162.56918047368518,,291.59664692248356,,,294.35519682034084,94.0,f,I,ct polytrauma,test,siemens,somatom definition as+,120.0,bleeding,pelvis
+s1250,,,,,,,,,,,,,,,,,,,72.0,m,I,ct aortic valve,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1251,,,,182.63997350705282,,,,,,,,,,,,463.82800796327984,467.7310632773887,,75.0,m,I,ct angiography pelvis-leg,train,siemens,somatom definition as+,100.0,bleeding,extremity
+s1252,,,,180.50442268887878,,,,,,,,,,,,405.3587293950851,398.4577727919427,,52.0,f,I,ct angiography pelvis-leg,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s1254,,,,,,,,,,,,,,,,,,,58.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s1255,,,,,,,,,,,,,,,,,,,74.0,m,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1256,,,,,,,,,,,,,,,,,,,59.0,m,I,ct pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s1257,,,,,,,,,,,,,,,,,,,65.0,f,B,ct thorax-chest,train,siemens,sensation 16,120.0,unclear,unclear
+s1258,,,,,,,,,,,,,,,,,,,66.0,m,I,ct left artrium,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1259,,,,,,,,,,,,,,,,,,,64.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,120.0,vascular,thorax
+s1260,,,,,,,,,,,,,,,,,,,32.0,m,I,ct angiography head,val,siemens,somatom definition flash,100.0,vascular,throat
+s1261,,,,,,,,,,,,,,,,,,,78.0,f,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,"abdomen,pelvis"
+s1262,,,,,,,,,,,,,,,,,,,86.0,f,I,ct aortic valve,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s1264,,,,,,,,,,,,,,,,,,,70.0,f,I,ct thorax-chest,train,siemens,somatom definition as+,100.0,inflammation,thorax
+s1267,,,,,,,,,,,,,,,,,,,59.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1268,,,,,,,,,,,,,,,,,,,79.0,m,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,thorax
+s1269,,,,,,,,,,,,,,,,,,,73.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1270,,,,,,,,,,,,,,,,,,,63.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+s1271,,,,,,,,,,,,,,,,,,,66.0,f,I,ct  intervention ,train,siemens,somatom definition as,120.0,tumor,thorax
+s1272,,,,,,,,,,,,,,,,,,,57.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition edge,100.0,vascular,thorax
+s1273,,,,,,,,,,,,,,,,,,,56.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1274,,,,,,,,,,,,,,,,,,,67.0,m,I,ct  intervention ,train,siemens,somatom definition as,100.0,tumor,thorax
+s1275,,,,,,,,,,,,,,,,,,,64.0,m,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1276,,,,,,,,,,,,,,,,,,,50.0,f,I,ct neck-thorax-abdomen-pelvis,test,siemens,somatom definition flash,120.0,tumor,thorax
+s1277,,,,,,,,,,,,,,,,,,,22.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition edge,100.0,vascular,thorax
+s1278,,,,,,,,,,,,,,,,,,,59.0,m,I,ct thorax-chest,val,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1279,,,,,,,,,,,,,,,,,,,64.0,f,I,ct upper leg left,train,siemens,somatom definition edge,120.0,inflammation,extremity
+s1280,,,,,,,,,,,,,,,,,,,66.0,f,I,ct left artrium,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1281,,,,,,,,,,,,,,,,,,,66.0,f,I,ct thorax,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s1283,,,,,,,,,,,,,,,,,,,75.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,pelvis
+s1285,,,,,,,,,,,,,,,,,,,57.0,m,E,ct thorax-abdomen,train,philips,ingenuity core 128,100.0,unclear,unclear
+s1286,,,,,,,,,,,,,,,,,,,39.0,f,I,ct  intervention ,val,siemens,somatom definition as,120.0,tumor,abdomen
+s1287,,,,,,,,,,,,,,,,,,,77.0,m,J,ct neck-thorax-abdomen-pelvis,val,siemens,somatom definition edge,120.0,tumor,thorax
+s1288,,,,,,,,,,,,,,,,,,,55.0,m,I,ct chest,train,siemens,somatom definition flash,140.0,other,thorax
+s1289,,,,,,,,,,,,,,,,,,,75.0,m,I,ct spine,train,siemens,somatom definition as+,100.0,trauma,"thorax,abdomen"
+s1290,,,,,,,,,,,,,,,,,,,49.0,m,I,ct  intervention ,train,siemens,somatom definition as,100.0,tumor,thorax
+s1291,,,,,,,,,,,,,,,,,,,71.0,f,A,ct abdomen,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1292,,,,,,,,,,,,,,,,,,,57.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,vascular,thorax
+s1293,,,,,,,,,,,,,,,,,,,78.0,f,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s1294,,,,,,,,,,,,,,,,,,,21.0,f,G,ct thorax-abdomen,train,siemens,somatom definition flash,100.0,unclear,unclear
+s1295,,,,,,,,,,,,,,,,,,,31.0,f,I,ct neck,train,siemens,somatom definition flash,80.0,inflammation,throat
+s1296,,,,,,,,,,,,,,,,,,,68.0,m,I,ct thorax-chest,train,siemens,somatom definition edge,100.0,other,thorax
+s1297,,,,,,,,,,,,,,,,,,,84.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s1298,,,,,,,,,,,,,,,,,,,78.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,other,thorax
+s1299,,,,,,,,,,,,,,,,,,,57.0,f,I,ct neck,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s1300,,,,,,,,,,,,,,,,,,,78.0,m,F,ct neck,train,philips,brilliance 64,120.0,unclear,unclear
+s1301,,,,,,,,,,,,,,,,,,,77.0,m,I,ct pelvis,train,siemens,somatom definition edge,120.0,inflammation,extremity
+s1303,,,,,,,,,,,,,,,,449.7931830615906,,,79.0,m,I,ct upper leg left,train,siemens,somatom definition flash,120.0,unclear,unclear
+s1304,,442.1784826979235,,,,,,,,,,,196.47105166847692,,316.1378390412277,,,,67.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s1305,,,,,,,,,,,,,,,,,,,96.0,f,I,ct aortic valve,val,siemens,somatom definition flash,100.0,vascular,thorax
+s1307,,,,,,,,,,,,,,,,,,,52.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,abdomen
+s1308,,,,,,,,,,,,,,,,,,,54.0,m,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1309,,,,,,,,,,,,,,,,,,,65.0,m,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+s1310,111.37908317519737,413.86191492429833,,163.67923351135002,,,,,95.62094810468203,,,,,,,,,,86.0,f,I,ct aortic valve,train,siemens,somatom definition flash,100.0,vascular,thorax
+s1311,,,,,,,,,,,,,,,,,,,70.0,m,E,ct thorax-neck,train,philips,ingenuity core 128,100.0,unclear,unclear
+s1312,,,,,,,,,,,,,,,,,,,60.0,m,I,ct  intervention ,train,siemens,somatom definition as,120.0,tumor,abdomen
+s1314,,414.9238077038075,,,229.26886596492594,184.59423775984857,135.31958890495096,,,,,,,,,,,,62.0,f,I,ct polytrauma,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s1315,,,,,,,,,,,,,,,,,,,59.0,f,I,ct  intervention ,train,siemens,somatom definition as,120.0,tumor,abdomen
+s1316,,,,,,,,,,,,,,,,,,,70.0,f,A,ct thorax-chest,train,ge,lightspeed vct,120.0,tumor,"thorax,abdomen"
+s1317,,,,,,,,,,,,,,,,,,,72.0,f,I,ct  intervention ,train,siemens,somatom definition as,100.0,tumor,thorax
+s1318,,,,,,,,,,,,,,,,,,,52.0,m,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,"throat,bones"
+s1319,,,,,,,,,,,,,,,,,,,81.0,f,I,ct spine,train,siemens,somatom definition as+,100.0,trauma,thorax
+s1321,,472.7146592848795,172.59439507049646,,241.6031404682576,183.94133678668499,141.54607989541853,208.7945201002099,,,,,154.50690656626102,,302.7486256726926,,,,50.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,thorax
+s1322,,,,,,,,,,,,,,,,,,,57.0,m,A,ct abdomen,test,ge,lightspeed vct,120.0,unclear,unclear
+s1323,,,,,,,,,,,,,,,,,,,74.0,m,I,ct thorax-neck,test,siemens,somatom definition as+,100.0,no_pathology,no_location
+s1325,,,,,,,,,,,,,,,,,,,83.0,m,I,ct orbita,train,siemens,somatom definition as+,120.0,bleeding,head
+s1326,,,,,,,,,,,,,,,,,,,78.0,m,G,ct heart-thorakale aorta,train,siemens,somatom definition flash,140.0,unclear,unclear
+s1327,,,,,,,,,,,,,,,,,,,83.0,m,G,ct heart-thorakale aorta,train,siemens,somatom definition flash,140.0,unclear,unclear
+s1328,,,,,,,,,,,,,,,,,,,68.0,f,I,ct angiography head,train,siemens,somatom definition as+,100.0,vascular,throat
+s1329,,,169.56132986260653,,,,,42.21565890639448,,,,,153.27640931134107,37.46557496529041,,,,,80.0,f,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+s1330,,,,,,,,,,,,,,,,,,,78.0,m,I,ct heart-thorakale aorta,train,siemens,somatom definition flash,100.0,vascular,thorax
+s1331,,,,,,,,,,,,,,,,,,,74.0,m,A,ct abdomen,train,ge,lightspeed vct,120.0,unclear,unclear
+s1332,,,,,,,,,,,,,,,,,,,94.0,f,I,ct aortic valve,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1333,,,,,,,,,,,,,,,,,,,74.0,m,I,ct heart,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s1334,,485.37242020013736,,,,,,,,,,,,,,,,,79.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,vascular,thorax
+s1335,,,,,,,,,,,,,,,,,,,44.0,f,A,ct neck,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1336,,,,,,,,,,,,,,,,,,,79.0,m,J,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1337,,,,,,,,,,,,,,,,,,,62.0,m,J,ct thorax-neck,val,siemens,somatom definition edge,120.0,no_pathology,no_location
+s1338,,,,,,,,,,,,,,,,,,,82.0,m,I,ct spine,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+s1339,,,,,,,,,,,,,,,,,,,55.0,f,F,ct abdomen,train,philips,brilliance 64,120.0,unclear,unclear
+s1340,,,,,,,,,,,,,,,,,,,82.0,m,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1341,,,,,,,,,,,,,,,,,,,19.0,m,E,ct thorax-abdomen,train,philips,ingenuity core 128,100.0,unclear,unclear
+s1342,,,,,,,,,,,,,,,,,,,80.0,m,I,ct  intervention ,train,siemens,somatom definition edge,120.0,tumor,abdomen
+s1343,,,,,,,,,,,,,,,,,,,57.0,m,E,ct thorax-neck,train,philips,ingenuity core 128,100.0,unclear,unclear
+s1344,,437.007034735398,147.96007645368206,,83.166445921161,54.84211871673661,35.22135450857493,57.25380478923227,,,,,,,,,,,67.0,f,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition flash,120.0,vascular,thorax
+s1345,,,,,,,,,,,,,,,,,,,60.0,m,I,ct heart,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1346,,,,,,,,,,,,,,,,,,,44.0,m,I,ct  intervention ,train,siemens,somatom definition edge,140.0,inflammation,abdomen
+s1347,,,,,,,,,,,,,,,,,,,78.0,m,E,ct abdomen,test,philips,ingenuity core 128,120.0,unclear,unclear
+s1348,,,,,,,,,,,,,,,,,,,69.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,other,thorax
+s1349,,488.8760056708542,,,,,,,,,,,,,,,,,66.0,m,I,ct angiography neck-thx-abd-pelvis-leg,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+s1350,,433.93257257828657,164.24781103965444,,,,,,,233.79740245300388,173.52345727095116,137.63955254950966,160.60149589985716,,300.7671068877382,,,301.76989154198225,66.0,f,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,"thorax,abdomen"
+s1352,,,,,,,,,,,,,,,,,,,56.0,m,I,ct angiography head,train,siemens,somatom definition as+,120.0,vascular,throat
+s1353,,,,,,,,,,,,,,,,,,,56.0,m,I,ct thorax,train,siemens,somatom definition flash,100.0,inflammation,thorax
+s1354,,,,,,,,,,,,,,,,,,,31.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,thorax
+s1355,,,,,,,,,,,,,,,,,,,62.0,f,I,ct angiography abdomen-pelvis,test,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1357,,,,,,,,,,,,,,,,,,,82.0,f,I,ct hip right,test,siemens,somatom definition flash,100.0,trauma,extremity
+s1358,,,,,,,,,,,,,,,,,,,69.0,f,I,ct angiography abdomen-pelvis,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s1359,,,,,,,,,,,,,,,,,,,48.0,m,I,ct hip right,train,siemens,somatom definition as+,100.0,trauma,extremity
+s1361,,,,,,,,,,,,,,,,,,,81.0,m,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition edge,100.0,vascular,thorax
+s1362,,441.0185398142406,,,,,,,,,,,,,,,,,88.0,m,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,thorax
+s1363,,,,,,,,,,,,,,,,,,,63.0,m,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,"thorax,abdomen,pelvis"
+s1364,,,,,,,,,,,,,,,,,,,74.0,m,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s1365,,,,,,,,,,,,,,,,,,,71.0,f,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,"thorax,abdomen"
+s1366,,,,,,,,,,,,,,,,,,,50.0,,I,ct polytrauma,train,siemens,sensation 64,120.0,unclear,unclear
+s1367,,,,,,,,,,,,,,,,,,,40.0,m,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom force,120.0,vascular,"thorax,abdomen"
+s1368,,,,,,,,,,,,,,,,,,,41.0,m,I,ct angiography abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1369,,420.1633124469564,147.4064647025083,,,,,,,234.24833952176994,169.60464340823177,151.8319288575005,159.96921669900328,,292.81056820742504,,,290.607845316035,73.0,f,I,ct whole body,train,siemens,somatom definition flash,80.0,no_pathology,no_location
+s1370,,,,,,,,,,,,,166.79685970568525,42.4214328124132,,,,,78.0,m,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+s1371,,,,,,,,,,,,,,,,,,,70.0,m,A,ct whole body,train,ge,lightspeed vct,120.0,no_pathology,no_location
+s1372,,384.89225607829405,,,,,,,,,,,,,,,,,82.0,f,J,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition edge,100.0,vascular,"thorax,abdomen,bones"
+s1373,,,,,,,,,,,,,,,,,,,80.0,m,I,ct angiography abdomen-pelvis,train,siemens,somatom force,90.0,tumor,abdomen
+s1374,,,,,,,,,,,,,,,,,,,75.0,m,I,ct angiography abdomen-pelvis,train,siemens,somatom definition flash,80.0,vascular,abdomen
+s1375,,,,,,,,,,,,,,,,,,,75.0,m,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,thorax
+s1377,,,,,,,,,,,,,,,,,,,71.0,m,I,ct angiography thorax-abdomen-pelvis,test,siemens,somatom force,100.0,vascular,"thorax,abdomen,pelvis"
+s1378,,,,,,,,,,,,,,,,,,,59.0,f,I,ct hip right,train,siemens,somatom definition flash,100.0,inflammation,extremity
+s1379,,481.5185883834402,,,,,,,,,,,,,,,,,65.0,m,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s1380,,380.2808911284796,130.8973903600157,,,,,215.94383178429803,,242.10721647168833,178.806160347837,148.70281634550025,141.51463918556314,,263.8240736204793,,,,78.0,f,I,ct whole body,train,siemens,somatom definition edge,80.0,no_pathology,no_location
+s1382,,,,,,,,,,,,,,,,,,,77.0,m,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s1383,,,,,,,,,,,,,,,,,,,75.0,m,I,ct angiography abdomen-pelvis,train,siemens,somatom definition flash,80.0,vascular,"abdomen,pelvis"
+s1384,,425.90942291944623,,,233.73944014129663,180.41326138930899,138.45048206082794,,,,,,148.10214749364314,,304.5738206740531,,,,65.0,f,I,ct whole body,train,siemens,somatom definition flash,80.0,tumor,bones
+s1385,,,,,,,,,,,,,,,,,,,69.0,f,I,ct angiography abdomen-pelvis,train,siemens,somatom definition edge,100.0,no_pathology,no_location
+s1386,,,,,,,,,,,,,,,,,,,87.0,m,I,ct angiography thorax-abdomen-pelvis,test,siemens,somatom definition flash,100.0,vascular,abdomen
+s1387,,,,,,,,,,,,,,,,,,,70.0,m,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition edge,100.0,vascular,abdomen
+s1388,,389.1521274060173,122.84570560663245,,250.97377103078594,177.7416286999004,140.1671741378048,,,,,,,,,,,255.7398133690588,68.0,f,I,ct whole body,train,siemens,somatom definition edge,80.0,other,throat
+s1389,,,,,,,,,,,,,,,,,,,65.0,m,A,ct angiography abdomen-pelvis,train,siemens,somatom go.top,140.0,no_pathology,no_location
+s1390,,,,,,,,,,,,,,,,,,,63.0,m,I,ct angiography abdomen-pelvis,train,siemens,somatom definition edge,100.0,vascular,"abdomen,pelvis"
+s1391,,,,,,,,,,,,,,,,,,,65.0,m,I,ct angiography abdomen-pelvis,train,siemens,somatom force,100.0,bleeding,abdomen
+s1394,,,,,,,,,,,,,,,,,,,57.0,m,I,ct angiography abdomen-pelvis,train,siemens,somatom force,90.0,vascular,pelvis
+s1395,,429.5406634848338,,,,,,,,,,,,,,,,,70.0,m,J,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,"abdomen,pelvis"
+s1397,,413.498572999119,167.01089293323517,,260.47723385304,191.43400807175337,151.69517237040344,228.4236888109676,,,,,170.37437918037722,229.28184208627084,,,,,74.0,m,I,ct whole body,train,siemens,somatom definition edge,80.0,tumor,bones
+s1399,,,,,,,,,,,,,,,,,,,56.0,f,I,ct hip right,train,siemens,somatom definition flash,100.0,trauma,extremity
+s1400,,,,,,,,,,,,,,,,,,,66.0,m,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,thorax
+s1401,,,,,,,,,,,,,,,,,,,46.0,f,I,ct angiography abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+s1403,,,,,,,,,,,,,,,,,,,60.0,m,I,ct angiography abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s1404,,,,,,,,,,,,,,,,,,,63.0,f,I,ct angiography thorax-abdomen-pelvis,train,siemens,somatom force,100.0,no_pathology,no_location
+s1405,,,,,,,,,,,,,,,,,,,76.0,m,I,ct angiography abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,abdomen
+s1406,,,,,,,,,,,,,,,,,,,47.0,m,I,ct gesichtshead,test,,,,,
+s1407,,,,,,,,,,,,,,,,,,,30.0,m,I,ct headbasis-felsenleg,test,,,,,
+s1408,,,,,,,,,,,,,,,,,,,42.0,f,C,ct head,test,siemens,emotion 16,110.0,,
+s1409,,,,,,,,,,,,,,,,,,,87.0,m,I,ct head,test,siemens,somatom definition edge,120.0,,
+s1410,,,,,,,,,,,,,,,,,,,90.0,f,I,ct head,test,siemens,somatom definition edge,120.0,,
+s1411,,,,,,,,,,,,,,,,,,,63.0,m,I,ct thorax-abdomen-pelvis,test,,,,,
+s1412,,,,,,,,,,,,,,,,,,,43.0,m,I,ct polytrauma,test,,,,,
+s1413,,,,,,,,,,,,,,,,,,,32.0,m,I,ct neck-thorax-abdomen-pelvis,test,,,,,
+s1414,,,,,,,,,,,,,,,,,,,43.0,f,I,ct abdomen-pelvis,test,,,,,
+s1415,,,,,,,,,,,,,,,,,,,68.0,f,I,ct abdomen-pelvis,test,,,,,
+s1416,,,,,,,,,,,,,,,,,,,87.0,f,I,ct head,test,,,,,
+s1417,,,,,,,,,,,,,,,,,,,70.0,f,I,ct head,test,,,,,
+s1418,,,,,,,,,,,,,,,,,,,47.0,f,I,ct abdomen-pelvis,test,,,,,
+s1419,,,,,,,,,,,,,,,,,,,71.0,f,I,ct head,test,siemens,somatom definition edge,120.0,,
+s1420,,,,,,,,,,,,,,,,,,,90.0,m,I,ct thorax-abdomen-pelvis,test,,,,,
+s1421,,,,,,,,,,,,,,,,,,,69.0,m,I,ct abdomen-pelvis,test,,,,,
+s1422,,,,,,,,,,,,,,,,,,,64.0,f,I,ct thorax-abdomen-pelvis,test,,,,,
+s1423,,,,,,,,,,,,,,,,,,,27.0,f,I,ct abdomen-pelvis,test,,,,,
+s1424,,,,,,,,,,,,,,,,,,,98.0,f,D,ct thorax-abdomen-pelvis,test,,,,,
+s1425,,,,,,,,,,,,,,,,,,,,,,,test,,,,,
+s1426,,,,,,,,,,,,,,,,,,,68.0,m,,,test,ge,lightspeed pro 16,120.0,,
+s1427,,,,,,,,,,,,,,,,,,,23.0,m,,,test,ge,lightspeed16,120.0,,
+s1428,,,,,,,,,,,,,,,,,,,66.0,m,,,test,ge,discovery mi,120.0,,
+s1429,,,,,,,,,,,,,,,,,,,24.0,f,,,test,ge,optima ct680 series,120.0,,

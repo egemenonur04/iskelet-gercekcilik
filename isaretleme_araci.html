@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>İskelet İşaretleme Aracı</title>
+<style>
+:root{--bg:#f4f6f7;--panel:#fff;--fg:#17212b;--muted:#5b6872;--line:#d3dbe0;--accent:#0e7c86;--done:#2f7a3b;--skip:#9a5b00;--pt:#e0115f}
+*{box-sizing:border-box}
+body{margin:0;font:14px/1.45 system-ui,"Segoe UI",sans-serif;background:var(--bg);color:var(--fg);height:100vh;display:grid;grid-template-columns:260px 1fr 320px}
+aside,section{overflow:auto;padding:12px;display:flex;flex-direction:column;gap:10px}
+aside{border-right:1px solid var(--line);background:var(--panel)}
+section.sag{border-left:1px solid var(--line);background:var(--panel)}
+h1{font-size:16px;margin:0} h2{font-size:13px;margin:6px 0 0;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+button,label.dugme{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--bg);cursor:pointer;color:var(--fg)}
+button.ana{background:var(--accent);color:#fff;border-color:var(--accent)}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.satir{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+#liste li{list-style:none;padding:5px 7px;border-radius:5px;cursor:pointer;display:flex;justify-content:space-between;gap:6px}
+#liste{padding:0;margin:0;display:flex;flex-direction:column;gap:2px}
+#liste li.secili{background:var(--accent);color:#fff}
+#liste li small{opacity:.75}
+.tuval{position:relative;overflow:auto;display:flex;align-items:flex-start;justify-content:center;padding:12px}
+canvas{background:#fff;box-shadow:0 1px 4px rgba(0,0,0,.15);cursor:crosshair;max-width:none}
+#noktalar li{list-style:none;display:grid;grid-template-columns:18px 1fr auto;gap:6px;padding:4px 6px;border-radius:5px;cursor:pointer;align-items:center}
+#noktalar{padding:0;margin:0;display:flex;flex-direction:column;gap:1px}
+#noktalar li.aktif{outline:2px solid var(--accent)}
+#noktalar .d{width:12px;height:12px;border-radius:50%;border:2px solid var(--line)}
+#noktalar li.tamam .d{background:var(--done);border-color:var(--done)}
+#noktalar li.atla .d{background:var(--skip);border-color:var(--skip)}
+#noktalar span.ac{font-size:12px;color:var(--muted)}
+input[type=number],textarea{font:inherit;width:100%;padding:5px;border:1px solid var(--line);border-radius:5px;background:var(--bg);color:var(--fg)}
+.alanlar{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+.alanlar label{display:flex;flex-direction:column;font-size:12px;color:var(--muted);gap:2px}
+.ipucu{font-size:12px;color:var(--muted)}
+#durum{font-weight:600}
+</style>
+</head>
+<body>
+<aside>
+  <h1>İskelet İşaretleme</h1>
+  <p class="ipucu">Görselleri yükle, her görselde noktaları sırayla tıkla. Görünmeyen noktayı <b>Atla</b> ile geç. Bitince <b>JSON indir</b> ile <code>isaretler</code> klasörüne kaydet.</p>
+  <div class="satir">
+    <label class="dugme">Görsel ekle<input id="dosyalar" type="file" accept="image/*" multiple hidden></label>
+    <label class="dugme">JSON yükle<input id="jsonyukle" type="file" accept=".json" hidden></label>
+  </div>
+  <label class="satir ipucu"><input type="checkbox" id="kor"> Kör mod (dosya adlarını gizle, sırayı karıştır)</label>
+  <h2>Görseller</h2>
+  <ul id="liste"></ul>
+  <button class="ana" id="indir">JSON indir</button>
+  <p class="ipucu" id="ozet"></p>
+</aside>
+<div class="tuval" id="tuvalkap"><canvas id="c" width="800" height="600"></canvas></div>
+<section class="sag">
+  <div id="durum">Görsel yükleyin</div>
+  <div class="satir">
+    <button id="atla">Atla (görünmüyor)</button>
+    <button id="geri">Geri al</button>
+    <button id="yakin">+</button><button id="uzak">−</button>
+  </div>
+  <h2>Noktalar</h2>
+  <ul id="noktalar"></ul>
+  <h2>Sayımlar</h2>
+  <div class="alanlar">
+    <label>Kaburga (figürün sağı)<input type="number" id="kaburga_a" min="0" max="20"></label>
+    <label>Kaburga (figürün solu)<input type="number" id="kaburga_b" min="0" max="20"></label>
+    <label>Görünen lomber omur<input type="number" id="lomber" min="0" max="8"></label>
+    <label>Parmak sayısı (el, en iyi görünen)<input type="number" id="parmak_el" min="0" max="10"></label>
+  </div>
+  <label class="satir"><input type="checkbox" id="talimat_disi"> Talimat dışı (tam ve tek iskelet değil)</label>
+  <label class="ipucu">Not<textarea id="not" rows="3"></textarea></label>
+</section>
+<script>
+const NOKTALAR=[
+["kafatasi_1","Kafatası en uzun çapının bir ucu (çene hariç)"],["kafatasi_2","Kafatası en uzun çapının diğer ucu"],
+["juguler","Sternumun üst ucu (juguler çentik)"],["C7","C7 omuru (boyun tabanı)"],["L5","L5 omuru (sakrumun hemen üstü)"],
+["omuz_a","Omuz eklemi – figürün SAĞ tarafı"],["dirsek_a","Dirsek – aynı kol"],["bilek_a","El bileği – aynı kol"],
+["omuz_b","Omuz eklemi – figürün SOL tarafı"],["dirsek_b","Dirsek – aynı kol"],["bilek_b","El bileği – aynı kol"],
+["kalca_a","Kalça eklemi (femur başı) – figürün SAĞ tarafı"],["diz_a","Diz – aynı bacak"],["ayakbilegi_a","Ayak bileği – aynı bacak"],
+["kalca_b","Kalça eklemi – figürün SOL tarafı"],["diz_b","Diz – aynı bacak"],["ayakbilegi_b","Ayak bileği – aynı bacak"]];
+const ALANLAR=["kaburga_a","kaburga_b","lomber","parmak_el"];
+const RENK={kafatasi:"#e0115f",juguler:"#7b2cbf",C7:"#7b2cbf",L5:"#7b2cbf",_a:"#0e7c86",_b:"#d97706"};
+let gorseller=[], sec=-1, aktif=0, olcek=1;
+const c=document.getElementById("c"), ctx=c.getContext("2d");
+function kaydet(){try{localStorage.setItem("iskelet_isaret",JSON.stringify(gorseller.map(g=>({...g,img:undefined,url:undefined}))))}catch(e){}}
+function renk(ad){for(const k in RENK){if(ad.includes(k))return RENK[k]}return "#e0115f"}
+function yeniKayit(dosya){return{dosya,kod:"G"+String(Math.floor(Math.random()*1e6)).padStart(6,"0"),noktalar:{},atlanan:[],kaburga_a:null,kaburga_b:null,lomber:null,parmak_el:null,talimat_disi:false,not:""}}
+document.getElementById("dosyalar").onchange=e=>{
+  const onceki={};try{(JSON.parse(localStorage.getItem("iskelet_isaret"))||[]).forEach(g=>onceki[g.dosya]=g)}catch(_){}
+  for(const f of e.target.files){
+    let g=gorseller.find(x=>x.dosya===f.name);
+    if(!g){g=onceki[f.name]?{...yeniKayit(f.name),...onceki[f.name]}:yeniKayit(f.name);gorseller.push(g)}
+    g.url=URL.createObjectURL(f);const im=new Image();im.onload=()=>{g.genislik=im.naturalWidth;g.yukseklik=im.naturalHeight;if(gorseller.indexOf(g)===sec)ciz()};im.src=g.url;g.img=im;
+  }
+  if(document.getElementById("kor").checked)gorseller.sort(()=>Math.random()-.5);
+  if(sec<0)sec=0;liste();sec_(sec);
+};
+document.getElementById("jsonyukle").onchange=async e=>{
+  const v=JSON.parse(await e.target.files[0].text());
+  (v.gorseller||[]).forEach(k=>{const g=gorseller.find(x=>x.dosya===k.dosya);if(g)Object.assign(g,{...k,img:g.img,url:g.url});else gorseller.push({...k})});
+  liste();if(sec<0&&gorseller.length)sec_(0);
+};
+document.getElementById("kor").onchange=liste;
+function tamamSayisi(g){return Object.keys(g.noktalar).length+g.atlanan.length}
+function liste(){
+  const kor=document.getElementById("kor").checked, ul=document.getElementById("liste");ul.innerHTML="";
+  gorseller.forEach((g,i)=>{const li=document.createElement("li");li.className=i===sec?"secili":"";
+    li.innerHTML=`<span>${kor?g.kod:g.dosya}</span><small>${tamamSayisi(g)}/${NOKTALAR.length}</small>`;li.onclick=()=>sec_(i);ul.appendChild(li)});
+  const bitti=gorseller.filter(g=>tamamSayisi(g)===NOKTALAR.length).length;
+  document.getElementById("ozet").textContent=`${bitti}/${gorseller.length} görsel tamamlandı`;
+}
+function sec_(i){
+  sec=i;const g=gorseller[i];if(!g)return;
+  aktif=NOKTALAR.findIndex(([ad])=>!(ad in g.noktalar)&&!g.atlanan.includes(ad));if(aktif<0)aktif=NOKTALAR.length;
+  ALANLAR.forEach(a=>document.getElementById(a).value=g[a]??"");
+  document.getElementById("talimat_disi").checked=!!g.talimat_disi;document.getElementById("not").value=g.not||"";
+  liste();noktaListe();ciz();
+}
+ALANLAR.forEach(a=>document.getElementById(a).oninput=e=>{const g=gorseller[sec];if(g){g[a]=e.target.value===""?null:+e.target.value;kaydet()}});
+document.getElementById("talimat_disi").onchange=e=>{const g=gorseller[sec];if(g){g.talimat_disi=e.target.checked;kaydet()}};
+document.getElementById("not").oninput=e=>{const g=gorseller[sec];if(g){g.not=e.target.value;kaydet()}};
+function noktaListe(){
+  const g=gorseller[sec],ul=document.getElementById("noktalar");ul.innerHTML="";
+  NOKTALAR.forEach(([ad,ac],i)=>{const li=document.createElement("li");
+    li.className=(i===aktif?"aktif ":"")+(ad in g.noktalar?"tamam":g.atlanan.includes(ad)?"atla":"");
+    li.innerHTML=`<span class="d"></span><span>${ac}</span><span class="ac">${i+1}</span>`;
+    li.onclick=()=>{aktif=i;delete g.noktalar[ad];g.atlanan=g.atlanan.filter(x=>x!==ad);noktaListe();ciz()};ul.appendChild(li)});
+  document.getElementById("durum").textContent=aktif<NOKTALAR.length?`Şimdi: ${NOKTALAR[aktif][1]}`:"Bu görsel tamamlandı";
+}
+function ciz(){
+  const g=gorseller[sec];if(!g||!g.img||!g.img.complete)return;
+  const kap=document.getElementById("tuvalkap");const temel=Math.min((kap.clientWidth-24)/g.img.naturalWidth,(kap.clientHeight-24)/g.img.naturalHeight,1);
+  const s=temel*olcek;c.width=g.img.naturalWidth*s;c.height=g.img.naturalHeight*s;ctx.drawImage(g.img,0,0,c.width,c.height);
+  const p=ad=>g.noktalar[ad]&&[g.noktalar[ad][0]*s,g.noktalar[ad][1]*s];
+  ctx.lineWidth=2;
+  [["kafatasi_1","kafatasi_2"],["C7","L5"],["juguler","omuz_a"],["juguler","omuz_b"],["omuz_a","dirsek_a"],["dirsek_a","bilek_a"],["omuz_b","dirsek_b"],["dirsek_b","bilek_b"],["kalca_a","diz_a"],["diz_a","ayakbilegi_a"],["kalca_b","diz_b"],["diz_b","ayakbilegi_b"],["kalca_a","kalca_b"]].forEach(([x,y])=>{const a=p(x),b=p(y);if(a&&b){ctx.strokeStyle=renk(y);ctx.beginPath();ctx.moveTo(...a);ctx.lineTo(...b);ctx.stroke()}});
+  NOKTALAR.forEach(([ad],i)=>{const a=p(ad);if(!a)return;ctx.fillStyle=renk(ad);ctx.beginPath();ctx.arc(a[0],a[1],5,0,7);ctx.fill();ctx.fillStyle="#000";ctx.font="11px sans-serif";ctx.fillText(i+1,a[0]+7,a[1]-6)});
+  c._s=s;
+}
+c.onclick=e=>{const g=gorseller[sec];if(!g||aktif>=NOKTALAR.length)return;const r=c.getBoundingClientRect();
+  const x=(e.clientX-r.left)/c._s,y=(e.clientY-r.top)/c._s;g.noktalar[NOKTALAR[aktif][0]]=[+x.toFixed(1),+y.toFixed(1)];ilerle()};
+function ilerle(){const g=gorseller[sec];aktif=NOKTALAR.findIndex(([ad])=>!(ad in g.noktalar)&&!g.atlanan.includes(ad));if(aktif<0)aktif=NOKTALAR.length;kaydet();noktaListe();ciz();liste()}
+document.getElementById("atla").onclick=()=>{const g=gorseller[sec];if(!g||aktif>=NOKTALAR.length)return;g.atlanan.push(NOKTALAR[aktif][0]);ilerle()};
+document.getElementById("geri").onclick=()=>{const g=gorseller[sec];if(!g)return;const sira=NOKTALAR.map(n=>n[0]).filter(ad=>ad in g.noktalar||g.atlanan.includes(ad));const son=sira[sira.length-1];if(!son)return;delete g.noktalar[son];g.atlanan=g.atlanan.filter(x=>x!==son);ilerle()};
+document.getElementById("yakin").onclick=()=>{olcek=Math.min(olcek*1.25,6);ciz()};
+document.getElementById("uzak").onclick=()=>{olcek=Math.max(olcek/1.25,.3);ciz()};
+window.onresize=ciz;
+document.addEventListener("keydown",e=>{if(e.target.tagName==="INPUT"||e.target.tagName==="TEXTAREA")return;if(e.key===" "){e.preventDefault();document.getElementById("atla").click()}if(e.key==="z"&&(e.ctrlKey||e.metaKey))document.getElementById("geri").click();if(e.key==="ArrowRight"&&sec<gorseller.length-1)sec_(sec+1);if(e.key==="ArrowLeft"&&sec>0)sec_(sec-1)});
+document.getElementById("indir").onclick=()=>{
+  const veri={surum:1,olusturma:new Date().toISOString(),noktalar:NOKTALAR.map(n=>n[0]),gorseller:gorseller.map(g=>({...g,img:undefined,url:undefined}))};
+  const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([JSON.stringify(veri,null,1)],{type:"application/json"}));
+  a.download="isaretler_"+new Date().toISOString().slice(0,16).replace(/[:T]/g,"-")+".json";a.click();
+};
+</script>
+</body>
+</html>

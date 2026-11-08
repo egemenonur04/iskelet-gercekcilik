@@ -1,0 +1,3413 @@
+{
+ "surum": 1,
+ "olusturma": "2026-11-08T12:49:10.647491",
+ "kaynak": "otomatik",
+ "noktalar": [
+  "kafatasi_1",
+  "kafatasi_2",
+  "juguler",
+  "C7",
+  "L5",
+  "omuz_a",
+  "dirsek_a",
+  "bilek_a",
+  "omuz_b",
+  "dirsek_b",
+  "bilek_b",
+  "kalca_a",
+  "diz_a",
+  "ayakbilegi_a",
+  "kalca_b",
+  "diz_b",
+  "ayakbilegi_b"
+ ],
+ "gorseller": [
+  {
+   "dosya": "ogrenci_P1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     95.9,
+     141.9
+    ],
+    "kafatasi_2": [
+     136.1,
+     183.3
+    ],
+    "juguler": [
+     90.8,
+     220.7
+    ],
+    "C7": [
+     78.9,
+     190.9
+    ],
+    "L5": [
+     23.6,
+     355.0
+    ],
+    "omuz_a": [
+     82.6,
+     201.9
+    ],
+    "dirsek_a": [
+     94.1,
+     107.2
+    ],
+    "bilek_a": [
+     115.1,
+     63.0
+    ],
+    "omuz_b": [
+     91.6,
+     204.2
+    ],
+    "dirsek_b": [
+     100.6,
+     105.2
+    ],
+    "bilek_b": [
+     115.6,
+     61.7
+    ],
+    "kalca_a": [
+     38.4,
+     388.2
+    ],
+    "diz_a": [
+     62.5,
+     500.2
+    ],
+    "kalca_b": [
+     40.8,
+     387.6
+    ],
+    "diz_b": [
+     70.2,
+     497.4
+    ]
+   },
+   "atlanan": [
+    "ayakbilegi_a",
+    "ayakbilegi_b"
+   ],
+   "nokta_guveni": {
+    "kafatasi_1": 0.98,
+    "kafatasi_2": 0.998,
+    "juguler": 1.0,
+    "C7": 0.999,
+    "L5": 0.998,
+    "omuz_a": 0.998,
+    "dirsek_a": 0.991,
+    "bilek_a": 0.985,
+    "omuz_b": 0.999,
+    "dirsek_b": 0.992,
+    "bilek_b": 0.986,
+    "kalca_a": 0.996,
+    "diz_a": 0.765,
+    "ayakbilegi_a": 0.178,
+    "kalca_b": 0.997,
+    "diz_b": 0.803,
+    "ayakbilegi_b": 0.218
+   },
+   "figur_guveni": 0.799,
+   "genislik": 245,
+   "yukseklik": 550,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "ogrenci_P2.png",
+   "noktalar": {
+    "kafatasi_1": [
+     73.4,
+     84.4
+    ],
+    "kafatasi_2": [
+     80.3,
+     113.6
+    ],
+    "juguler": [
+     55.5,
+     116.9
+    ],
+    "C7": [
+     55.5,
+     88.7
+    ],
+    "L5": [
+     23.5,
+     153.0
+    ],
+    "omuz_a": [
+     68.2,
+     100.0
+    ],
+    "dirsek_a": [
+     64.1,
+     141.0
+    ],
+    "bilek_a": [
+     52.9,
+     212.0
+    ],
+    "omuz_b": [
+     45.8,
+     101.4
+    ],
+    "dirsek_b": [
+     59.0,
+     140.1
+    ],
+    "bilek_b": [
+     50.1,
+     214.4
+    ],
+    "kalca_a": [
+     44.0,
+     173.7
+    ],
+    "diz_a": [
+     84.5,
+     268.9
+    ],
+    "ayakbilegi_a": [
+     105.9,
+     369.6
+    ],
+    "kalca_b": [
+     36.4,
+     173.7
+    ],
+    "diz_b": [
+     75.1,
+     267.1
+    ],
+    "ayakbilegi_b": [
+     101.4,
+     369.3
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.321,
+    "kafatasi_2": 0.497,
+    "juguler": 0.932,
+    "C7": 0.474,
+    "L5": 0.986,
+    "omuz_a": 0.682,
+    "dirsek_a": 0.94,
+    "bilek_a": 0.949,
+    "omuz_b": 0.752,
+    "dirsek_b": 0.926,
+    "bilek_b": 0.929,
+    "kalca_a": 0.993,
+    "diz_a": 0.975,
+    "ayakbilegi_a": 0.857,
+    "kalca_b": 0.995,
+    "diz_b": 0.981,
+    "ayakbilegi_b": 0.876
+   },
+   "figur_guveni": 0.603,
+   "genislik": 230,
+   "yukseklik": 400,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "ogrenci_P3.png",
+   "noktalar": {
+    "kafatasi_1": [
+     67.5,
+     202.4
+    ],
+    "kafatasi_2": [
+     98.9,
+     223.7
+    ],
+    "juguler": [
+     89.0,
+     260.9
+    ],
+    "C7": [
+     81.9,
+     233.6
+    ],
+    "L5": [
+     92.6,
+     362.8
+    ],
+    "omuz_a": [
+     90.3,
+     244.1
+    ],
+    "dirsek_a": [
+     75.6,
+     247.6
+    ],
+    "bilek_a": [
+     58.4,
+     216.0
+    ],
+    "omuz_b": [
+     70.3,
+     245.8
+    ],
+    "dirsek_b": [
+     67.8,
+     245.4
+    ],
+    "bilek_b": [
+     52.8,
+     212.8
+    ],
+    "kalca_a": [
+     100.6,
+     384.5
+    ],
+    "diz_a": [
+     110.3,
+     490.2
+    ],
+    "ayakbilegi_a": [
+     106.6,
+     522.5
+    ],
+    "kalca_b": [
+     89.4,
+     384.2
+    ],
+    "diz_b": [
+     97.6,
+     487.9
+    ],
+    "ayakbilegi_b": [
+     95.9,
+     522.6
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.96,
+    "kafatasi_2": 0.937,
+    "juguler": 0.996,
+    "C7": 0.991,
+    "L5": 0.996,
+    "omuz_a": 0.986,
+    "dirsek_a": 0.947,
+    "bilek_a": 0.919,
+    "omuz_b": 0.984,
+    "dirsek_b": 0.949,
+    "bilek_b": 0.895,
+    "kalca_a": 0.992,
+    "diz_a": 0.756,
+    "ayakbilegi_a": 0.311,
+    "kalca_b": 0.991,
+    "diz_b": 0.806,
+    "ayakbilegi_b": 0.333
+   },
+   "figur_guveni": 0.486,
+   "genislik": 195,
+   "yukseklik": 550,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "ogrenci_P4.png",
+   "noktalar": {
+    "kafatasi_1": [
+     53.9,
+     143.3
+    ],
+    "kafatasi_2": [
+     100.7,
+     164.5
+    ],
+    "juguler": [
+     75.3,
+     205.7
+    ],
+    "C7": [
+     63.2,
+     184.6
+    ],
+    "L5": [
+     51.7,
+     310.8
+    ],
+    "omuz_a": [
+     52.1,
+     192.1
+    ],
+    "dirsek_a": [
+     18.7,
+     102.4
+    ],
+    "bilek_a": [
+     27.2,
+     44.7
+    ],
+    "omuz_b": [
+     66.0,
+     195.4
+    ],
+    "dirsek_b": [
+     19.7,
+     99.4
+    ],
+    "bilek_b": [
+     24.4,
+     43.5
+    ],
+    "kalca_a": [
+     55.4,
+     327.0
+    ],
+    "diz_a": [
+     67.3,
+     403.5
+    ],
+    "ayakbilegi_a": [
+     58.2,
+     408.2
+    ],
+    "kalca_b": [
+     62.8,
+     325.3
+    ],
+    "diz_b": [
+     70.0,
+     395.3
+    ],
+    "ayakbilegi_b": [
+     57.5,
+     406.0
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.999,
+    "kafatasi_2": 0.999,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 0.996,
+    "omuz_a": 0.999,
+    "dirsek_a": 0.991,
+    "bilek_a": 0.984,
+    "omuz_b": 0.999,
+    "dirsek_b": 0.992,
+    "bilek_b": 0.984,
+    "kalca_a": 0.992,
+    "diz_a": 0.792,
+    "ayakbilegi_a": 0.46,
+    "kalca_b": 0.995,
+    "diz_b": 0.874,
+    "ayakbilegi_b": 0.52
+   },
+   "figur_guveni": 0.697,
+   "genislik": 250,
+   "yukseklik": 550,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "ogrenci_P5.png",
+   "noktalar": {
+    "kafatasi_1": [
+     24.0,
+     210.0
+    ],
+    "kafatasi_2": [
+     45.5,
+     188.3
+    ],
+    "juguler": [
+     64.8,
+     222.8
+    ],
+    "C7": [
+     53.2,
+     202.7
+    ],
+    "L5": [
+     94.4,
+     261.5
+    ],
+    "omuz_a": [
+     57.2,
+     210.3
+    ],
+    "dirsek_a": [
+     132.5,
+     212.0
+    ],
+    "bilek_a": [
+     70.2,
+     235.5
+    ],
+    "omuz_b": [
+     65.8,
+     214.4
+    ],
+    "dirsek_b": [
+     142.7,
+     208.4
+    ],
+    "bilek_b": [
+     70.8,
+     239.2
+    ],
+    "kalca_a": [
+     89.4,
+     276.4
+    ],
+    "diz_a": [
+     84.9,
+     342.9
+    ],
+    "kalca_b": [
+     98.1,
+     275.7
+    ],
+    "diz_b": [
+     88.0,
+     342.1
+    ]
+   },
+   "atlanan": [
+    "ayakbilegi_a",
+    "ayakbilegi_b"
+   ],
+   "nokta_guveni": {
+    "kafatasi_1": 0.999,
+    "kafatasi_2": 1.0,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 0.999,
+    "omuz_a": 0.999,
+    "dirsek_a": 0.993,
+    "bilek_a": 0.967,
+    "omuz_b": 0.999,
+    "dirsek_b": 0.993,
+    "bilek_b": 0.953,
+    "kalca_a": 0.998,
+    "diz_a": 0.891,
+    "ayakbilegi_a": 0.176,
+    "kalca_b": 0.997,
+    "diz_b": 0.852,
+    "ayakbilegi_b": 0.153
+   },
+   "figur_guveni": 0.764,
+   "genislik": 192,
+   "yukseklik": 405,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "ogrenci_P6.png",
+   "noktalar": {
+    "kafatasi_1": [
+     37.4,
+     81.3
+    ],
+    "kafatasi_2": [
+     72.3,
+     90.8
+    ],
+    "juguler": [
+     73.3,
+     124.7
+    ],
+    "C7": [
+     68.6,
+     105.7
+    ],
+    "L5": [
+     112.1,
+     203.5
+    ],
+    "omuz_a": [
+     89.7,
+     114.5
+    ],
+    "dirsek_a": [
+     72.6,
+     82.9
+    ],
+    "bilek_a": [
+     51.7,
+     71.7
+    ],
+    "omuz_b": [
+     47.7,
+     119.1
+    ],
+    "dirsek_b": [
+     57.1,
+     80.3
+    ],
+    "bilek_b": [
+     43.8,
+     71.3
+    ],
+    "kalca_a": [
+     120.4,
+     216.8
+    ],
+    "diz_a": [
+     112.1,
+     299.0
+    ],
+    "ayakbilegi_a": [
+     95.5,
+     377.9
+    ],
+    "kalca_b": [
+     99.9,
+     219.2
+    ],
+    "diz_b": [
+     86.1,
+     298.7
+    ],
+    "ayakbilegi_b": [
+     76.4,
+     378.0
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.996,
+    "kafatasi_2": 0.985,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 0.999,
+    "dirsek_a": 0.993,
+    "bilek_a": 0.992,
+    "omuz_b": 0.998,
+    "dirsek_b": 0.994,
+    "bilek_b": 0.984,
+    "kalca_a": 1.0,
+    "diz_a": 0.999,
+    "ayakbilegi_a": 0.994,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.994
+   },
+   "figur_guveni": 0.925,
+   "genislik": 160,
+   "yukseklik": 425,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "chatgpt_A_P1_r1.png",
+   "noktalar": {
+    "kafatasi_2": [
+     455.5,
+     307.6
+    ],
+    "juguler": [
+     455.0,
+     446.7
+    ],
+    "C7": [
+     426.7,
+     402.7
+    ],
+    "L5": [
+     458.6,
+     739.5
+    ],
+    "omuz_a": [
+     473.6,
+     422.2
+    ],
+    "dirsek_a": [
+     684.6,
+     472.3
+    ],
+    "bilek_a": [
+     843.4,
+     422.2
+    ],
+    "omuz_b": [
+     440.8,
+     422.9
+    ],
+    "dirsek_b": [
+     692.8,
+     473.2
+    ],
+    "bilek_b": [
+     849.6,
+     421.2
+    ],
+    "kalca_a": [
+     490.5,
+     793.1
+    ],
+    "diz_a": [
+     516.5,
+     1058.2
+    ],
+    "ayakbilegi_a": [
+     505.4,
+     1364.0
+    ],
+    "kalca_b": [
+     471.6,
+     790.7
+    ],
+    "diz_b": [
+     500.5,
+     1066.7
+    ],
+    "ayakbilegi_b": [
+     489.9,
+     1365.6
+    ]
+   },
+   "atlanan": [
+    "kafatasi_1"
+   ],
+   "nokta_guveni": {
+    "kafatasi_1": 0.16,
+    "kafatasi_2": 0.384,
+    "juguler": 0.963,
+    "C7": 0.815,
+    "L5": 1.0,
+    "omuz_a": 0.935,
+    "dirsek_a": 0.95,
+    "bilek_a": 0.953,
+    "omuz_b": 0.921,
+    "dirsek_b": 0.938,
+    "bilek_b": 0.951,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 0.999,
+    "kalca_b": 0.999,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.999
+   },
+   "figur_guveni": 0.933,
+   "genislik": 1024,
+   "yukseklik": 1536,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "chatgpt_A_P2_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     677.0,
+     533.0
+    ],
+    "kafatasi_2": [
+     711.1,
+     634.8
+    ],
+    "juguler": [
+     616.3,
+     608.8
+    ],
+    "C7": [
+     641.5,
+     535.5
+    ],
+    "L5": [
+     534.3,
+     648.2
+    ],
+    "omuz_a": [
+     674.9,
+     560.5
+    ],
+    "dirsek_a": [
+     773.4,
+     298.7
+    ],
+    "bilek_a": [
+     815.8,
+     236.8
+    ],
+    "omuz_b": [
+     577.2,
+     559.7
+    ],
+    "dirsek_b": [
+     755.0,
+     276.6
+    ],
+    "bilek_b": [
+     804.0,
+     226.6
+    ],
+    "kalca_a": [
+     562.4,
+     712.7
+    ],
+    "diz_a": [
+     592.0,
+     1036.6
+    ],
+    "ayakbilegi_a": [
+     624.2,
+     1374.8
+    ],
+    "kalca_b": [
+     523.8,
+     711.2
+    ],
+    "diz_b": [
+     552.7,
+     1034.2
+    ],
+    "ayakbilegi_b": [
+     589.6,
+     1373.1
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.994,
+    "kafatasi_2": 0.994,
+    "juguler": 1.0,
+    "C7": 0.996,
+    "L5": 1.0,
+    "omuz_a": 0.995,
+    "dirsek_a": 0.997,
+    "bilek_a": 0.995,
+    "omuz_b": 0.994,
+    "dirsek_b": 0.997,
+    "bilek_b": 0.993,
+    "kalca_a": 1.0,
+    "diz_a": 0.996,
+    "ayakbilegi_a": 0.948,
+    "kalca_b": 1.0,
+    "diz_b": 0.997,
+    "ayakbilegi_b": 0.949
+   },
+   "figur_guveni": 0.935,
+   "genislik": 1024,
+   "yukseklik": 1536,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "chatgpt_A_P3_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     453.0,
+     349.4
+    ],
+    "kafatasi_2": [
+     577.6,
+     291.2
+    ],
+    "juguler": [
+     525.3,
+     454.1
+    ],
+    "C7": [
+     525.1,
+     410.8
+    ],
+    "L5": [
+     511.2,
+     765.5
+    ],
+    "omuz_a": [
+     496.7,
+     431.6
+    ],
+    "dirsek_a": [
+     566.0,
+     227.3
+    ],
+    "bilek_a": [
+     608.9,
+     60.4
+    ],
+    "omuz_b": [
+     565.5,
+     439.7
+    ],
+    "dirsek_b": [
+     604.8,
+     217.6
+    ],
+    "bilek_b": [
+     616.8,
+     52.3
+    ],
+    "kalca_a": [
+     496.4,
+     815.3
+    ],
+    "diz_a": [
+     504.4,
+     1051.0
+    ],
+    "ayakbilegi_a": [
+     509.0,
+     1326.8
+    ],
+    "kalca_b": [
+     534.8,
+     814.5
+    ],
+    "diz_b": [
+     544.7,
+     1046.4
+    ],
+    "ayakbilegi_b": [
+     535.1,
+     1322.3
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.998,
+    "kafatasi_2": 0.999,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 1.0,
+    "dirsek_a": 0.998,
+    "bilek_a": 0.996,
+    "omuz_b": 1.0,
+    "dirsek_b": 0.998,
+    "bilek_b": 0.996,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 1.0,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 1.0
+   },
+   "figur_guveni": 0.944,
+   "genislik": 1024,
+   "yukseklik": 1536,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P1_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     177.6,
+     270.8
+    ],
+    "kafatasi_2": [
+     254.8,
+     230.4
+    ],
+    "juguler": [
+     247.7,
+     337.4
+    ],
+    "C7": [
+     225.7,
+     307.6
+    ],
+    "L5": [
+     256.4,
+     524.6
+    ],
+    "omuz_a": [
+     226.8,
+     322.6
+    ],
+    "dirsek_a": [
+     355.2,
+     341.6
+    ],
+    "bilek_a": [
+     470.0,
+     326.3
+    ],
+    "omuz_b": [
+     257.4,
+     323.0
+    ],
+    "dirsek_b": [
+     379.4,
+     338.4
+    ],
+    "bilek_b": [
+     480.1,
+     327.2
+    ],
+    "kalca_a": [
+     268.1,
+     560.3
+    ],
+    "diz_a": [
+     288.5,
+     743.4
+    ],
+    "ayakbilegi_a": [
+     269.3,
+     918.6
+    ],
+    "kalca_b": [
+     282.4,
+     559.1
+    ],
+    "diz_b": [
+     299.2,
+     745.0
+    ],
+    "ayakbilegi_b": [
+     274.8,
+     917.3
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.987,
+    "kafatasi_2": 0.993,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 0.999,
+    "dirsek_a": 0.996,
+    "bilek_a": 0.992,
+    "omuz_b": 0.999,
+    "dirsek_b": 0.996,
+    "bilek_b": 0.992,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 0.995,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.996
+   },
+   "figur_guveni": 0.952,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P1_r2.png",
+   "noktalar": {
+    "kafatasi_1": [
+     256.0,
+     259.5
+    ],
+    "kafatasi_2": [
+     337.7,
+     262.4
+    ],
+    "juguler": [
+     311.2,
+     345.8
+    ],
+    "C7": [
+     280.8,
+     319.8
+    ],
+    "L5": [
+     283.7,
+     530.7
+    ],
+    "omuz_a": [
+     292.1,
+     336.9
+    ],
+    "dirsek_a": [
+     433.7,
+     367.9
+    ],
+    "bilek_a": [
+     546.5,
+     358.6
+    ],
+    "omuz_b": [
+     297.0,
+     336.7
+    ],
+    "dirsek_b": [
+     450.9,
+     366.8
+    ],
+    "bilek_b": [
+     553.9,
+     361.7
+    ],
+    "kalca_a": [
+     307.4,
+     563.6
+    ],
+    "diz_a": [
+     329.2,
+     738.7
+    ],
+    "ayakbilegi_a": [
+     312.0,
+     932.6
+    ],
+    "kalca_b": [
+     307.7,
+     563.6
+    ],
+    "diz_b": [
+     326.1,
+     743.7
+    ],
+    "ayakbilegi_b": [
+     309.4,
+     932.4
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.99,
+    "kafatasi_2": 0.997,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 1.0,
+    "dirsek_a": 0.998,
+    "bilek_a": 0.996,
+    "omuz_b": 1.0,
+    "dirsek_b": 0.998,
+    "bilek_b": 0.996,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 0.999,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.999
+   },
+   "figur_guveni": 0.951,
+   "genislik": 687,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P1_r3.png",
+   "noktalar": {
+    "kafatasi_1": [
+     376.6,
+     254.5
+    ],
+    "kafatasi_2": [
+     474.9,
+     251.3
+    ],
+    "juguler": [
+     391.8,
+     336.7
+    ],
+    "C7": [
+     440.9,
+     316.6
+    ],
+    "L5": [
+     417.7,
+     528.0
+    ],
+    "omuz_a": [
+     434.5,
+     331.0
+    ],
+    "dirsek_a": [
+     426.6,
+     191.9
+    ],
+    "bilek_a": [
+     444.5,
+     104.9
+    ],
+    "omuz_b": [
+     409.0,
+     331.4
+    ],
+    "dirsek_b": [
+     423.5,
+     181.3
+    ],
+    "bilek_b": [
+     439.9,
+     97.7
+    ],
+    "kalca_a": [
+     391.0,
+     556.2
+    ],
+    "diz_a": [
+     372.1,
+     728.0
+    ],
+    "ayakbilegi_a": [
+     422.1,
+     912.2
+    ],
+    "kalca_b": [
+     376.0,
+     556.2
+    ],
+    "diz_b": [
+     359.0,
+     731.4
+    ],
+    "ayakbilegi_b": [
+     413.6,
+     917.2
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.999,
+    "kafatasi_2": 0.999,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 1.0,
+    "dirsek_a": 0.998,
+    "bilek_a": 0.995,
+    "omuz_b": 1.0,
+    "dirsek_b": 0.998,
+    "bilek_b": 0.994,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 0.998,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.999
+   },
+   "figur_guveni": 0.935,
+   "genislik": 765,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P2_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     240.0,
+     401.5
+    ],
+    "kafatasi_2": [
+     267.0,
+     477.2
+    ],
+    "juguler": [
+     272.2,
+     479.5
+    ],
+    "C7": [
+     260.1,
+     422.5
+    ],
+    "L5": [
+     321.8,
+     531.5
+    ],
+    "omuz_a": [
+     292.6,
+     436.3
+    ],
+    "dirsek_a": [
+     370.5,
+     237.2
+    ],
+    "bilek_a": [
+     454.0,
+     157.3
+    ],
+    "omuz_b": [
+     218.7,
+     438.4
+    ],
+    "dirsek_b": [
+     350.2,
+     222.4
+    ],
+    "bilek_b": [
+     441.2,
+     147.3
+    ],
+    "kalca_a": [
+     318.6,
+     574.9
+    ],
+    "diz_a": [
+     354.3,
+     785.0
+    ],
+    "ayakbilegi_a": [
+     401.3,
+     911.9
+    ],
+    "kalca_b": [
+     287.0,
+     570.7
+    ],
+    "diz_b": [
+     319.2,
+     775.5
+    ],
+    "ayakbilegi_b": [
+     370.9,
+     910.7
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.996,
+    "kafatasi_2": 0.992,
+    "juguler": 0.999,
+    "C7": 0.997,
+    "L5": 0.999,
+    "omuz_a": 0.995,
+    "dirsek_a": 0.995,
+    "bilek_a": 0.993,
+    "omuz_b": 0.994,
+    "dirsek_b": 0.995,
+    "bilek_b": 0.988,
+    "kalca_a": 0.999,
+    "diz_a": 0.917,
+    "ayakbilegi_a": 0.413,
+    "kalca_b": 0.999,
+    "diz_b": 0.943,
+    "ayakbilegi_b": 0.434
+   },
+   "figur_guveni": 0.907,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P2_r2.png",
+   "noktalar": {
+    "kafatasi_1": [
+     132.4,
+     473.4
+    ],
+    "kafatasi_2": [
+     196.7,
+     481.6
+    ],
+    "juguler": [
+     208.5,
+     495.6
+    ],
+    "C7": [
+     184.2,
+     455.7
+    ],
+    "L5": [
+     314.5,
+     533.8
+    ],
+    "omuz_a": [
+     210.6,
+     472.3
+    ],
+    "dirsek_a": [
+     433.0,
+     223.2
+    ],
+    "bilek_a": [
+     485.2,
+     140.0
+    ],
+    "omuz_b": [
+     225.3,
+     480.3
+    ],
+    "dirsek_b": [
+     461.2,
+     199.7
+    ],
+    "bilek_b": [
+     486.7,
+     131.0
+    ],
+    "kalca_a": [
+     318.8,
+     575.1
+    ],
+    "diz_a": [
+     447.6,
+     760.8
+    ],
+    "ayakbilegi_a": [
+     493.0,
+     947.6
+    ],
+    "kalca_b": [
+     338.9,
+     576.5
+    ],
+    "diz_b": [
+     461.0,
+     765.1
+    ],
+    "ayakbilegi_b": [
+     502.7,
+     946.4
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 1.0,
+    "kafatasi_2": 1.0,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 1.0,
+    "dirsek_a": 0.999,
+    "bilek_a": 0.995,
+    "omuz_b": 1.0,
+    "dirsek_b": 0.998,
+    "bilek_b": 0.994,
+    "kalca_a": 1.0,
+    "diz_a": 0.994,
+    "ayakbilegi_a": 0.734,
+    "kalca_b": 1.0,
+    "diz_b": 0.991,
+    "ayakbilegi_b": 0.713
+   },
+   "figur_guveni": 0.922,
+   "genislik": 687,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P2_r3.png",
+   "noktalar": {
+    "kafatasi_1": [
+     593.5,
+     456.3
+    ],
+    "kafatasi_2": [
+     647.2,
+     459.1
+    ],
+    "juguler": [
+     455.8,
+     468.4
+    ],
+    "C7": [
+     528.4,
+     417.4
+    ],
+    "L5": [
+     262.3,
+     478.6
+    ],
+    "omuz_a": [
+     474.4,
+     434.0
+    ],
+    "dirsek_a": [
+     542.8,
+     231.3
+    ],
+    "bilek_a": [
+     636.3,
+     61.1
+    ],
+    "omuz_b": [
+     511.4,
+     445.8
+    ],
+    "dirsek_b": [
+     578.4,
+     219.2
+    ],
+    "bilek_b": [
+     639.3,
+     60.1
+    ],
+    "kalca_a": [
+     283.2,
+     520.4
+    ],
+    "diz_a": [
+     301.1,
+     750.3
+    ],
+    "ayakbilegi_a": [
+     308.0,
+     941.9
+    ],
+    "kalca_b": [
+     311.3,
+     522.2
+    ],
+    "diz_b": [
+     327.2,
+     751.9
+    ],
+    "ayakbilegi_b": [
+     317.2,
+     948.6
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.997,
+    "kafatasi_2": 0.992,
+    "juguler": 1.0,
+    "C7": 0.999,
+    "L5": 1.0,
+    "omuz_a": 0.994,
+    "dirsek_a": 0.995,
+    "bilek_a": 0.991,
+    "omuz_b": 0.994,
+    "dirsek_b": 0.995,
+    "bilek_b": 0.988,
+    "kalca_a": 1.0,
+    "diz_a": 0.998,
+    "ayakbilegi_a": 0.918,
+    "kalca_b": 1.0,
+    "diz_b": 0.999,
+    "ayakbilegi_b": 0.938
+   },
+   "figur_guveni": 0.87,
+   "genislik": 765,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P3_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     337.6,
+     248.7
+    ],
+    "kafatasi_2": [
+     417.7,
+     230.5
+    ],
+    "juguler": [
+     396.3,
+     329.5
+    ],
+    "C7": [
+     369.9,
+     298.7
+    ],
+    "L5": [
+     369.8,
+     529.6
+    ],
+    "omuz_a": [
+     367.9,
+     314.0
+    ],
+    "dirsek_a": [
+     487.6,
+     194.9
+    ],
+    "bilek_a": [
+     493.1,
+     106.9
+    ],
+    "omuz_b": [
+     408.5,
+     317.3
+    ],
+    "dirsek_b": [
+     514.7,
+     191.0
+    ],
+    "bilek_b": [
+     500.2,
+     105.6
+    ],
+    "kalca_a": [
+     382.1,
+     570.4
+    ],
+    "diz_a": [
+     411.0,
+     730.0
+    ],
+    "ayakbilegi_a": [
+     404.0,
+     806.1
+    ],
+    "kalca_b": [
+     404.9,
+     569.8
+    ],
+    "diz_b": [
+     435.0,
+     728.1
+    ],
+    "ayakbilegi_b": [
+     410.1,
+     805.3
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.998,
+    "kafatasi_2": 1.0,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 1.0,
+    "dirsek_a": 0.997,
+    "bilek_a": 0.992,
+    "omuz_b": 1.0,
+    "dirsek_b": 0.996,
+    "bilek_b": 0.992,
+    "kalca_a": 1.0,
+    "diz_a": 0.999,
+    "ayakbilegi_a": 0.977,
+    "kalca_b": 1.0,
+    "diz_b": 0.999,
+    "ayakbilegi_b": 0.981
+   },
+   "figur_guveni": 0.955,
+   "genislik": 765,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P3_r2.png",
+   "noktalar": {
+    "kafatasi_1": [
+     310.6,
+     207.8
+    ],
+    "kafatasi_2": [
+     410.6,
+     202.2
+    ],
+    "juguler": [
+     368.1,
+     300.5
+    ],
+    "C7": [
+     352.7,
+     272.1
+    ],
+    "L5": [
+     343.8,
+     508.0
+    ],
+    "omuz_a": [
+     343.9,
+     289.4
+    ],
+    "dirsek_a": [
+     456.0,
+     133.9
+    ],
+    "bilek_a": [
+     480.0,
+     41.0
+    ],
+    "omuz_b": [
+     379.8,
+     294.6
+    ],
+    "dirsek_b": [
+     481.5,
+     126.1
+    ],
+    "bilek_b": [
+     484.5,
+     40.1
+    ],
+    "kalca_a": [
+     343.5,
+     548.8
+    ],
+    "diz_a": [
+     340.4,
+     738.3
+    ],
+    "ayakbilegi_a": [
+     332.1,
+     857.3
+    ],
+    "kalca_b": [
+     364.4,
+     548.2
+    ],
+    "diz_b": [
+     360.9,
+     736.1
+    ],
+    "ayakbilegi_b": [
+     338.5,
+     855.3
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 1.0,
+    "kafatasi_2": 1.0,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 1.0,
+    "dirsek_a": 0.999,
+    "bilek_a": 0.996,
+    "omuz_b": 1.0,
+    "dirsek_b": 0.999,
+    "bilek_b": 0.995,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 0.991,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.993
+   },
+   "figur_guveni": 0.947,
+   "genislik": 687,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P3_r3.png",
+   "noktalar": {
+    "kafatasi_1": [
+     294.8,
+     237.8
+    ],
+    "kafatasi_2": [
+     389.7,
+     226.0
+    ],
+    "juguler": [
+     355.2,
+     328.9
+    ],
+    "C7": [
+     331.3,
+     295.2
+    ],
+    "L5": [
+     325.1,
+     532.2
+    ],
+    "omuz_a": [
+     315.1,
+     313.9
+    ],
+    "dirsek_a": [
+     433.2,
+     196.9
+    ],
+    "bilek_a": [
+     469.1,
+     113.7
+    ],
+    "omuz_b": [
+     375.1,
+     317.3
+    ],
+    "dirsek_b": [
+     468.1,
+     194.6
+    ],
+    "bilek_b": [
+     477.8,
+     111.4
+    ],
+    "kalca_a": [
+     328.2,
+     576.4
+    ],
+    "diz_a": [
+     359.7,
+     754.8
+    ],
+    "ayakbilegi_a": [
+     366.5,
+     820.9
+    ],
+    "kalca_b": [
+     360.7,
+     575.9
+    ],
+    "diz_b": [
+     394.9,
+     753.0
+    ],
+    "ayakbilegi_b": [
+     378.7,
+     819.5
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 1.0,
+    "kafatasi_2": 1.0,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 1.0,
+    "dirsek_a": 0.999,
+    "bilek_a": 0.996,
+    "omuz_b": 1.0,
+    "dirsek_b": 0.998,
+    "bilek_b": 0.996,
+    "kalca_a": 1.0,
+    "diz_a": 0.999,
+    "ayakbilegi_a": 0.965,
+    "kalca_b": 1.0,
+    "diz_b": 0.999,
+    "ayakbilegi_b": 0.97
+   },
+   "figur_guveni": 0.956,
+   "genislik": 687,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P4_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     221.3,
+     251.1
+    ],
+    "kafatasi_2": [
+     314.2,
+     277.3
+    ],
+    "juguler": [
+     273.3,
+     353.9
+    ],
+    "C7": [
+     244.0,
+     322.9
+    ],
+    "L5": [
+     239.0,
+     535.2
+    ],
+    "omuz_a": [
+     261.3,
+     345.6
+    ],
+    "dirsek_a": [
+     439.4,
+     397.6
+    ],
+    "bilek_a": [
+     532.0,
+     380.8
+    ],
+    "omuz_b": [
+     254.6,
+     344.1
+    ],
+    "dirsek_b": [
+     454.3,
+     396.7
+    ],
+    "bilek_b": [
+     537.5,
+     384.0
+    ],
+    "kalca_a": [
+     264.7,
+     569.3
+    ],
+    "diz_a": [
+     285.1,
+     749.7
+    ],
+    "ayakbilegi_a": [
+     263.3,
+     933.4
+    ],
+    "kalca_b": [
+     257.6,
+     570.9
+    ],
+    "diz_b": [
+     273.9,
+     755.3
+    ],
+    "ayakbilegi_b": [
+     256.6,
+     933.6
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.996,
+    "kafatasi_2": 0.999,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 1.0,
+    "dirsek_a": 0.995,
+    "bilek_a": 0.984,
+    "omuz_b": 1.0,
+    "dirsek_b": 0.993,
+    "bilek_b": 0.981,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 0.994,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.994
+   },
+   "figur_guveni": 0.936,
+   "genislik": 765,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P4_r2.png",
+   "noktalar": {
+    "kafatasi_1": [
+     155.6,
+     262.8
+    ],
+    "kafatasi_2": [
+     252.4,
+     269.8
+    ],
+    "juguler": [
+     210.3,
+     358.3
+    ],
+    "C7": [
+     190.8,
+     328.9
+    ],
+    "L5": [
+     182.5,
+     535.6
+    ],
+    "omuz_a": [
+     195.5,
+     349.3
+    ],
+    "dirsek_a": [
+     380.4,
+     378.6
+    ],
+    "bilek_a": [
+     434.9,
+     329.1
+    ],
+    "omuz_b": [
+     214.3,
+     347.5
+    ],
+    "dirsek_b": [
+     401.2,
+     376.1
+    ],
+    "bilek_b": [
+     443.4,
+     327.1
+    ],
+    "kalca_a": [
+     196.0,
+     568.9
+    ],
+    "diz_a": [
+     220.9,
+     740.1
+    ],
+    "ayakbilegi_a": [
+     210.7,
+     925.7
+    ],
+    "kalca_b": [
+     202.7,
+     568.2
+    ],
+    "diz_b": [
+     225.6,
+     744.8
+    ],
+    "ayakbilegi_b": [
+     210.8,
+     925.7
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.998,
+    "kafatasi_2": 1.0,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 1.0,
+    "dirsek_a": 0.993,
+    "bilek_a": 0.976,
+    "omuz_b": 1.0,
+    "dirsek_b": 0.991,
+    "bilek_b": 0.972,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 0.995,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.995
+   },
+   "figur_guveni": 0.939,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P4_r3.png",
+   "noktalar": {
+    "kafatasi_1": [
+     379.1,
+     233.7
+    ],
+    "kafatasi_2": [
+     481.4,
+     229.5
+    ],
+    "juguler": [
+     399.0,
+     321.1
+    ],
+    "C7": [
+     446.0,
+     300.0
+    ],
+    "L5": [
+     427.8,
+     521.6
+    ],
+    "omuz_a": [
+     426.9,
+     312.0
+    ],
+    "dirsek_a": [
+     363.1,
+     162.1
+    ],
+    "bilek_a": [
+     354.4,
+     73.0
+    ],
+    "omuz_b": [
+     410.9,
+     315.0
+    ],
+    "dirsek_b": [
+     353.7,
+     153.5
+    ],
+    "bilek_b": [
+     347.9,
+     68.1
+    ],
+    "kalca_a": [
+     397.7,
+     549.7
+    ],
+    "diz_a": [
+     378.5,
+     719.6
+    ],
+    "ayakbilegi_a": [
+     426.9,
+     907.0
+    ],
+    "kalca_b": [
+     389.5,
+     549.4
+    ],
+    "diz_b": [
+     370.5,
+     717.3
+    ],
+    "ayakbilegi_b": [
+     419.3,
+     907.2
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.999,
+    "kafatasi_2": 0.995,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 0.999,
+    "dirsek_a": 0.993,
+    "bilek_a": 0.987,
+    "omuz_b": 0.999,
+    "dirsek_b": 0.995,
+    "bilek_b": 0.985,
+    "kalca_a": 1.0,
+    "diz_a": 0.999,
+    "ayakbilegi_a": 0.996,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.997
+   },
+   "figur_guveni": 0.948,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P5_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     396.5,
+     235.0
+    ],
+    "kafatasi_2": [
+     442.5,
+     365.2
+    ],
+    "juguler": [
+     404.2,
+     382.5
+    ],
+    "C7": [
+     395.1,
+     322.1
+    ],
+    "L5": [
+     395.5,
+     537.9
+    ],
+    "omuz_a": [
+     442.3,
+     359.2
+    ],
+    "dirsek_a": [
+     460.6,
+     559.3
+    ],
+    "bilek_a": [
+     432.2,
+     552.8
+    ],
+    "omuz_b": [
+     301.3,
+     364.1
+    ],
+    "dirsek_b": [
+     423.6,
+     552.1
+    ],
+    "bilek_b": [
+     416.3,
+     558.5
+    ],
+    "kalca_a": [
+     435.6,
+     582.7
+    ],
+    "diz_a": [
+     460.1,
+     726.2
+    ],
+    "ayakbilegi_a": [
+     444.2,
+     902.6
+    ],
+    "kalca_b": [
+     368.6,
+     586.1
+    ],
+    "diz_b": [
+     386.9,
+     726.2
+    ],
+    "ayakbilegi_b": [
+     389.9,
+     904.9
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.987,
+    "kafatasi_2": 0.959,
+    "juguler": 1.0,
+    "C7": 0.999,
+    "L5": 1.0,
+    "omuz_a": 0.998,
+    "dirsek_a": 0.978,
+    "bilek_a": 0.957,
+    "omuz_b": 0.997,
+    "dirsek_b": 0.977,
+    "bilek_b": 0.9,
+    "kalca_a": 1.0,
+    "diz_a": 0.999,
+    "ayakbilegi_a": 0.99,
+    "kalca_b": 1.0,
+    "diz_b": 0.999,
+    "ayakbilegi_b": 0.984
+   },
+   "figur_guveni": 0.876,
+   "genislik": 765,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P5_r2.png",
+   "noktalar": {
+    "kafatasi_1": [
+     284.1,
+     385.4
+    ],
+    "kafatasi_2": [
+     340.9,
+     296.7
+    ],
+    "juguler": [
+     364.2,
+     421.6
+    ],
+    "C7": [
+     348.7,
+     369.1
+    ],
+    "L5": [
+     423.7,
+     586.1
+    ],
+    "omuz_a": [
+     330.1,
+     393.1
+    ],
+    "dirsek_a": [
+     476.2,
+     475.5
+    ],
+    "bilek_a": [
+     469.5,
+     401.1
+    ],
+    "omuz_b": [
+     374.3,
+     403.1
+    ],
+    "dirsek_b": [
+     507.1,
+     479.0
+    ],
+    "bilek_b": [
+     474.8,
+     398.7
+    ],
+    "kalca_a": [
+     419.8,
+     631.2
+    ],
+    "diz_a": [
+     521.8,
+     776.5
+    ],
+    "ayakbilegi_a": [
+     596.6,
+     937.7
+    ],
+    "kalca_b": [
+     446.3,
+     632.9
+    ],
+    "diz_b": [
+     551.2,
+     780.5
+    ],
+    "ayakbilegi_b": [
+     612.0,
+     935.6
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.976,
+    "kafatasi_2": 0.974,
+    "juguler": 1.0,
+    "C7": 0.998,
+    "L5": 1.0,
+    "omuz_a": 0.996,
+    "dirsek_a": 0.979,
+    "bilek_a": 0.957,
+    "omuz_b": 0.997,
+    "dirsek_b": 0.98,
+    "bilek_b": 0.941,
+    "kalca_a": 1.0,
+    "diz_a": 0.998,
+    "ayakbilegi_a": 0.971,
+    "kalca_b": 1.0,
+    "diz_b": 0.998,
+    "ayakbilegi_b": 0.971
+   },
+   "figur_guveni": 0.893,
+   "genislik": 765,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P5_r3.png",
+   "noktalar": {
+    "kafatasi_1": [
+     303.5,
+     305.9
+    ],
+    "kafatasi_2": [
+     329.6,
+     398.4
+    ],
+    "juguler": [
+     300.1,
+     416.8
+    ],
+    "C7": [
+     290.8,
+     365.0
+    ],
+    "L5": [
+     291.8,
+     559.8
+    ],
+    "omuz_a": [
+     351.8,
+     380.9
+    ],
+    "dirsek_a": [
+     186.2,
+     254.5
+    ],
+    "bilek_a": [
+     103.8,
+     143.9
+    ],
+    "omuz_b": [
+     242.8,
+     384.1
+    ],
+    "dirsek_b": [
+     140.8,
+     246.2
+    ],
+    "bilek_b": [
+     81.7,
+     138.0
+    ],
+    "kalca_a": [
+     332.1,
+     589.7
+    ],
+    "diz_a": [
+     376.3,
+     744.2
+    ],
+    "ayakbilegi_a": [
+     391.0,
+     839.9
+    ],
+    "kalca_b": [
+     280.1,
+     587.3
+    ],
+    "diz_b": [
+     318.5,
+     733.1
+    ],
+    "ayakbilegi_b": [
+     350.6,
+     838.5
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.972,
+    "kafatasi_2": 0.989,
+    "juguler": 1.0,
+    "C7": 0.999,
+    "L5": 1.0,
+    "omuz_a": 0.998,
+    "dirsek_a": 0.993,
+    "bilek_a": 0.992,
+    "omuz_b": 0.997,
+    "dirsek_b": 0.995,
+    "bilek_b": 0.987,
+    "kalca_a": 1.0,
+    "diz_a": 0.997,
+    "ayakbilegi_a": 0.973,
+    "kalca_b": 1.0,
+    "diz_b": 0.998,
+    "ayakbilegi_b": 0.976
+   },
+   "figur_guveni": 0.936,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P6_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     308.4,
+     98.1
+    ],
+    "kafatasi_2": [
+     350.4,
+     154.7
+    ],
+    "juguler": [
+     315.6,
+     217.3
+    ],
+    "C7": [
+     306.5,
+     179.4
+    ],
+    "L5": [
+     290.9,
+     468.3
+    ],
+    "omuz_a": [
+     365.4,
+     191.0
+    ],
+    "dirsek_a": [
+     274.3,
+     125.7
+    ],
+    "bilek_a": [
+     239.4,
+     152.4
+    ],
+    "omuz_b": [
+     256.5,
+     195.1
+    ],
+    "dirsek_b": [
+     236.1,
+     115.3
+    ],
+    "bilek_b": [
+     227.2,
+     151.3
+    ],
+    "kalca_a": [
+     331.6,
+     514.6
+    ],
+    "diz_a": [
+     337.4,
+     727.8
+    ],
+    "ayakbilegi_a": [
+     326.3,
+     902.8
+    ],
+    "kalca_b": [
+     271.4,
+     514.5
+    ],
+    "diz_b": [
+     281.5,
+     720.7
+    ],
+    "ayakbilegi_b": [
+     282.3,
+     901.3
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.308,
+    "kafatasi_2": 0.457,
+    "juguler": 0.995,
+    "C7": 0.963,
+    "L5": 1.0,
+    "omuz_a": 0.983,
+    "dirsek_a": 0.987,
+    "bilek_a": 0.991,
+    "omuz_b": 0.982,
+    "dirsek_b": 0.989,
+    "bilek_b": 0.987,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 0.999,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.999
+   },
+   "figur_guveni": 0.946,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P6_r2.png",
+   "noktalar": {
+    "kafatasi_1": [
+     346.1,
+     119.7
+    ],
+    "kafatasi_2": [
+     384.0,
+     146.3
+    ],
+    "juguler": [
+     342.6,
+     219.4
+    ],
+    "C7": [
+     335.0,
+     183.2
+    ],
+    "L5": [
+     272.5,
+     465.1
+    ],
+    "omuz_a": [
+     365.8,
+     197.4
+    ],
+    "dirsek_a": [
+     426.2,
+     152.2
+    ],
+    "bilek_a": [
+     387.4,
+     138.5
+    ],
+    "omuz_b": [
+     309.5,
+     198.5
+    ],
+    "dirsek_b": [
+     419.5,
+     149.6
+    ],
+    "bilek_b": [
+     385.7,
+     133.3
+    ],
+    "kalca_a": [
+     302.5,
+     510.4
+    ],
+    "diz_a": [
+     316.6,
+     714.5
+    ],
+    "ayakbilegi_a": [
+     322.2,
+     890.3
+    ],
+    "kalca_b": [
+     270.9,
+     509.2
+    ],
+    "diz_b": [
+     289.4,
+     713.3
+    ],
+    "ayakbilegi_b": [
+     302.1,
+     891.6
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.577,
+    "kafatasi_2": 0.815,
+    "juguler": 0.999,
+    "C7": 0.989,
+    "L5": 1.0,
+    "omuz_a": 0.993,
+    "dirsek_a": 0.989,
+    "bilek_a": 0.988,
+    "omuz_b": 0.994,
+    "dirsek_b": 0.988,
+    "bilek_b": 0.987,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 0.997,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.997
+   },
+   "figur_guveni": 0.945,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_A_P6_r3.png",
+   "noktalar": {
+    "kafatasi_1": [
+     387.3,
+     129.3
+    ],
+    "kafatasi_2": [
+     437.6,
+     163.6
+    ],
+    "juguler": [
+     409.6,
+     237.7
+    ],
+    "C7": [
+     393.3,
+     202.0
+    ],
+    "L5": [
+     374.6,
+     482.6
+    ],
+    "omuz_a": [
+     434.3,
+     218.9
+    ],
+    "dirsek_a": [
+     498.6,
+     166.9
+    ],
+    "bilek_a": [
+     509.6,
+     163.3
+    ],
+    "omuz_b": [
+     356.2,
+     222.2
+    ],
+    "dirsek_b": [
+     481.8,
+     162.7
+    ],
+    "bilek_b": [
+     502.9,
+     160.8
+    ],
+    "kalca_a": [
+     405.3,
+     527.5
+    ],
+    "diz_a": [
+     412.2,
+     732.5
+    ],
+    "ayakbilegi_a": [
+     407.1,
+     898.4
+    ],
+    "kalca_b": [
+     365.0,
+     528.0
+    ],
+    "diz_b": [
+     374.7,
+     732.8
+    ],
+    "ayakbilegi_b": [
+     375.8,
+     898.4
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.531,
+    "kafatasi_2": 0.632,
+    "juguler": 0.997,
+    "C7": 0.978,
+    "L5": 1.0,
+    "omuz_a": 0.984,
+    "dirsek_a": 0.973,
+    "bilek_a": 0.97,
+    "omuz_b": 0.985,
+    "dirsek_b": 0.968,
+    "bilek_b": 0.964,
+    "kalca_a": 1.0,
+    "diz_a": 0.999,
+    "ayakbilegi_a": 0.995,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.996
+   },
+   "figur_guveni": 0.941,
+   "genislik": 765,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_B_P1_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     192.5,
+     249.5
+    ],
+    "kafatasi_2": [
+     271.1,
+     237.9
+    ],
+    "juguler": [
+     256.3,
+     328.4
+    ],
+    "C7": [
+     218.5,
+     303.0
+    ],
+    "L5": [
+     231.6,
+     518.7
+    ],
+    "omuz_a": [
+     226.2,
+     318.2
+    ],
+    "dirsek_a": [
+     347.3,
+     340.5
+    ],
+    "bilek_a": [
+     471.7,
+     327.2
+    ],
+    "omuz_b": [
+     251.6,
+     320.1
+    ],
+    "dirsek_b": [
+     369.5,
+     339.5
+    ],
+    "bilek_b": [
+     481.2,
+     329.1
+    ],
+    "kalca_a": [
+     255.6,
+     552.8
+    ],
+    "diz_a": [
+     283.9,
+     729.2
+    ],
+    "ayakbilegi_a": [
+     258.4,
+     915.8
+    ],
+    "kalca_b": [
+     268.2,
+     552.2
+    ],
+    "diz_b": [
+     292.4,
+     732.6
+    ],
+    "ayakbilegi_b": [
+     261.5,
+     915.0
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.967,
+    "kafatasi_2": 0.991,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 0.998,
+    "dirsek_a": 0.995,
+    "bilek_a": 0.991,
+    "omuz_b": 0.999,
+    "dirsek_b": 0.994,
+    "bilek_b": 0.991,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 0.998,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.999
+   },
+   "figur_guveni": 0.95,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_B_P2_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     383.0,
+     446.7
+    ],
+    "kafatasi_2": [
+     406.9,
+     470.4
+    ],
+    "juguler": [
+     335.6,
+     476.2
+    ],
+    "C7": [
+     356.3,
+     425.2
+    ],
+    "L5": [
+     255.1,
+     498.0
+    ],
+    "omuz_a": [
+     358.3,
+     440.7
+    ],
+    "dirsek_a": [
+     415.0,
+     222.0
+    ],
+    "bilek_a": [
+     468.3,
+     141.7
+    ],
+    "omuz_b": [
+     357.0,
+     448.5
+    ],
+    "dirsek_b": [
+     427.4,
+     208.0
+    ],
+    "bilek_b": [
+     467.4,
+     136.0
+    ],
+    "kalca_a": [
+     268.4,
+     545.5
+    ],
+    "diz_a": [
+     272.1,
+     759.1
+    ],
+    "ayakbilegi_a": [
+     269.1,
+     942.6
+    ],
+    "kalca_b": [
+     273.4,
+     544.0
+    ],
+    "diz_b": [
+     273.4,
+     755.0
+    ],
+    "ayakbilegi_b": [
+     269.8,
+     943.8
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.995,
+    "kafatasi_2": 0.999,
+    "juguler": 1.0,
+    "C7": 0.999,
+    "L5": 1.0,
+    "omuz_a": 0.998,
+    "dirsek_a": 0.998,
+    "bilek_a": 0.996,
+    "omuz_b": 0.998,
+    "dirsek_b": 0.998,
+    "bilek_b": 0.994,
+    "kalca_a": 1.0,
+    "diz_a": 0.995,
+    "ayakbilegi_a": 0.905,
+    "kalca_b": 1.0,
+    "diz_b": 0.997,
+    "ayakbilegi_b": 0.927
+   },
+   "figur_guveni": 0.941,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_B_P3_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     243.3,
+     233.2
+    ],
+    "kafatasi_2": [
+     339.5,
+     206.0
+    ],
+    "juguler": [
+     298.4,
+     312.0
+    ],
+    "C7": [
+     291.9,
+     282.6
+    ],
+    "L5": [
+     283.2,
+     511.6
+    ],
+    "omuz_a": [
+     268.1,
+     299.0
+    ],
+    "dirsek_a": [
+     356.7,
+     138.3
+    ],
+    "bilek_a": [
+     382.7,
+     51.8
+    ],
+    "omuz_b": [
+     329.9,
+     304.9
+    ],
+    "dirsek_b": [
+     390.0,
+     125.7
+    ],
+    "bilek_b": [
+     390.6,
+     46.4
+    ],
+    "kalca_a": [
+     273.2,
+     550.4
+    ],
+    "diz_a": [
+     296.2,
+     730.4
+    ],
+    "ayakbilegi_a": [
+     300.6,
+     908.3
+    ],
+    "kalca_b": [
+     306.0,
+     549.0
+    ],
+    "diz_b": [
+     332.0,
+     726.3
+    ],
+    "ayakbilegi_b": [
+     316.8,
+     905.0
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.999,
+    "kafatasi_2": 1.0,
+    "juguler": 1.0,
+    "C7": 1.0,
+    "L5": 1.0,
+    "omuz_a": 1.0,
+    "dirsek_a": 0.997,
+    "bilek_a": 0.988,
+    "omuz_b": 1.0,
+    "dirsek_b": 0.996,
+    "bilek_b": 0.988,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 0.994,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.995
+   },
+   "figur_guveni": 0.953,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_B_P4_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     143.6,
+     240.4
+    ],
+    "kafatasi_2": [
+     224.8,
+     238.7
+    ],
+    "juguler": [
+     194.6,
+     328.9
+    ],
+    "C7": [
+     173.5,
+     300.9
+    ],
+    "L5": [
+     172.7,
+     520.8
+    ],
+    "omuz_a": [
+     189.0,
+     317.7
+    ],
+    "dirsek_a": [
+     321.5,
+     380.3
+    ],
+    "bilek_a": [
+     412.7,
+     431.0
+    ],
+    "omuz_b": [
+     190.9,
+     315.8
+    ],
+    "dirsek_b": [
+     334.9,
+     379.2
+    ],
+    "bilek_b": [
+     421.0,
+     433.6
+    ],
+    "kalca_a": [
+     193.1,
+     557.5
+    ],
+    "diz_a": [
+     214.7,
+     733.2
+    ],
+    "ayakbilegi_a": [
+     199.9,
+     922.1
+    ],
+    "kalca_b": [
+     189.0,
+     556.7
+    ],
+    "diz_b": [
+     211.6,
+     739.1
+    ],
+    "ayakbilegi_b": [
+     196.5,
+     922.3
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.95,
+    "kafatasi_2": 0.987,
+    "juguler": 1.0,
+    "C7": 0.999,
+    "L5": 1.0,
+    "omuz_a": 0.998,
+    "dirsek_a": 0.992,
+    "bilek_a": 0.983,
+    "omuz_b": 0.998,
+    "dirsek_b": 0.989,
+    "bilek_b": 0.983,
+    "kalca_a": 1.0,
+    "diz_a": 0.999,
+    "ayakbilegi_a": 0.994,
+    "kalca_b": 1.0,
+    "diz_b": 0.999,
+    "ayakbilegi_b": 0.995
+   },
+   "figur_guveni": 0.941,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_B_P5_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     277.1,
+     281.7
+    ],
+    "kafatasi_2": [
+     307.1,
+     377.8
+    ],
+    "juguler": [
+     289.3,
+     393.3
+    ],
+    "C7": [
+     272.0,
+     342.4
+    ],
+    "L5": [
+     297.7,
+     540.9
+    ],
+    "omuz_a": [
+     320.0,
+     356.2
+    ],
+    "dirsek_a": [
+     159.7,
+     203.0
+    ],
+    "bilek_a": [
+     95.6,
+     94.6
+    ],
+    "omuz_b": [
+     225.4,
+     360.5
+    ],
+    "dirsek_b": [
+     120.1,
+     186.3
+    ],
+    "bilek_b": [
+     74.2,
+     86.9
+    ],
+    "kalca_a": [
+     334.0,
+     570.0
+    ],
+    "diz_a": [
+     373.5,
+     767.7
+    ],
+    "ayakbilegi_a": [
+     365.1,
+     905.0
+    ],
+    "kalca_b": [
+     289.8,
+     566.5
+    ],
+    "diz_b": [
+     316.0,
+     756.2
+    ],
+    "ayakbilegi_b": [
+     329.6,
+     904.3
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.977,
+    "kafatasi_2": 0.971,
+    "juguler": 0.999,
+    "C7": 0.997,
+    "L5": 1.0,
+    "omuz_a": 0.995,
+    "dirsek_a": 0.988,
+    "bilek_a": 0.983,
+    "omuz_b": 0.995,
+    "dirsek_b": 0.991,
+    "bilek_b": 0.975,
+    "kalca_a": 1.0,
+    "diz_a": 0.991,
+    "ayakbilegi_a": 0.935,
+    "kalca_b": 1.0,
+    "diz_b": 0.996,
+    "ayakbilegi_b": 0.942
+   },
+   "figur_guveni": 0.933,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  },
+  {
+   "dosya": "gemini_B_P6_r1.png",
+   "noktalar": {
+    "kafatasi_1": [
+     281.3,
+     147.2
+    ],
+    "kafatasi_2": [
+     345.1,
+     154.3
+    ],
+    "juguler": [
+     305.0,
+     241.2
+    ],
+    "C7": [
+     297.9,
+     212.0
+    ],
+    "L5": [
+     273.8,
+     472.8
+    ],
+    "omuz_a": [
+     308.7,
+     222.0
+    ],
+    "dirsek_a": [
+     321.0,
+     134.1
+    ],
+    "bilek_a": [
+     302.1,
+     125.2
+    ],
+    "omuz_b": [
+     297.0,
+     225.7
+    ],
+    "dirsek_b": [
+     325.0,
+     126.3
+    ],
+    "bilek_b": [
+     302.7,
+     124.7
+    ],
+    "kalca_a": [
+     284.1,
+     512.7
+    ],
+    "diz_a": [
+     305.3,
+     712.7
+    ],
+    "ayakbilegi_a": [
+     318.4,
+     878.0
+    ],
+    "kalca_b": [
+     275.9,
+     510.9
+    ],
+    "diz_b": [
+     305.5,
+     710.0
+    ],
+    "ayakbilegi_b": [
+     309.3,
+     877.3
+    ]
+   },
+   "atlanan": [],
+   "nokta_guveni": {
+    "kafatasi_1": 0.934,
+    "kafatasi_2": 0.973,
+    "juguler": 1.0,
+    "C7": 0.999,
+    "L5": 1.0,
+    "omuz_a": 0.998,
+    "dirsek_a": 0.996,
+    "bilek_a": 0.995,
+    "omuz_b": 0.999,
+    "dirsek_b": 0.996,
+    "bilek_b": 0.994,
+    "kalca_a": 1.0,
+    "diz_a": 1.0,
+    "ayakbilegi_a": 0.998,
+    "kalca_b": 1.0,
+    "diz_b": 1.0,
+    "ayakbilegi_b": 0.999
+   },
+   "figur_guveni": 0.952,
+   "genislik": 572,
+   "yukseklik": 1024,
+   "kaburga_a": null,
+   "kaburga_b": null,
+   "lomber": null,
+   "parmak_el": null,
+   "talimat_disi": false,
+   "not": "otomatik",
+   "kaynak_isaret": "model"
+  }
+ ]
+}

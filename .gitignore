@@ -1,0 +1,5 @@
+.venv_yz/
+veri/
+__pycache__/
+cikti/egitim/
+*.pt
