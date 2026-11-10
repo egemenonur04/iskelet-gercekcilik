@@ -14,6 +14,7 @@ Bu depo, *Öğrencinin Gözünden – Lise Öğrencileri Araştırma Dergisi*'ne
 | `gorseller/yz/`, `gorseller/kayit.csv` | Yapay zekâ görselleri ve üretim kaydı (model, tarih, koşul, poz) |
 | `isaretler/insan.json` | Yazarın kör modda elle koyduğu yer işaretleri (birincil veri) |
 | `isaretler/otomatik_yolo_deneme.json` | Sentetik veriyle eğitilen YOLO11 modelinin tahminleri (başarısız deneme; skorlamada kullanılmaz) |
+| `EKLER.md` | Makalenin ekleri: yapay zekâ istemleri (Ek A) ve teknik ayrıntılar (Ek B) |
 | `cikti/` | BT referansı, model, doğrulama raporu, skorlar ve `rapor.html` |
 
 BT maskeleri (`veri/`) depoya eklenmemiştir; `01_veri_indir.py` ile Zenodo'dan (kayıt 10047292) indirilir.
