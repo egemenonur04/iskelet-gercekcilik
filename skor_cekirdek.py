@@ -139,6 +139,8 @@ def simulasyon(model, gorus="cizim", n=40000, tohum=0):
             continue
         if gorus == "cizim":
             kis = np.cos(np.radians(rng.uniform(-45, 45, n)))
+        elif isinstance(gorus, (int, float)):          # duyarlılık analizi: en büyük eğim açısı (derece)
+            kis = np.cos(np.radians(rng.uniform(-gorus, gorus, n)))
         else:
             kis = np.sqrt(1 - rng.uniform(-1, 1, n) ** 2)
         oranlar[d] = np.log(v * kis / D)

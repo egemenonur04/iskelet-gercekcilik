@@ -15,6 +15,7 @@ Bu depo, *Öğrencinin Gözünden – Lise Öğrencileri Araştırma Dergisi*'ne
 | `isaretler/insan.json` | Yazarın kör modda elle koyduğu yer işaretleri (birincil veri) |
 | `isaretler/otomatik_yolo_deneme.json` | Sentetik veriyle eğitilen YOLO11 modelinin tahminleri (başarısız deneme; skorlamada kullanılmaz) |
 | `EKLER.md` | Makalenin ekleri: yapay zekâ istemleri (Ek A) ve teknik ayrıntılar (Ek B) |
+| `aci_duyarlilik.py`, `cikti/aci_duyarlilik.csv` | Sonuçların bakış açısı varsayımına duyarlılığı (en büyük kemik eğimi 30°, 45°, 60°, 75° ve rastgele yön) |
 | `cikti/` | BT referansı, model, doğrulama raporu, skorlar ve `rapor.html` |
 
 BT maskeleri (`veri/`) depoya eklenmemiştir; `01_veri_indir.py` ile Zenodo'dan (kayıt 10047292) indirilir.
